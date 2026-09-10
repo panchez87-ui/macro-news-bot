@@ -1,0 +1,42 @@
+name: Macro News Bot
+
+on:
+  schedule:
+    - cron: "5 * * * *"   # cada hora, minuto 5 (UTC)
+  workflow_dispatch: {}    # permite ejecutarlo manualmente desde GitHub
+
+permissions:
+  contents: write
+
+concurrency:
+  group: macro-news-bot
+  cancel-in-progress: false
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar bot
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python bot.py
+
+      - name: Guardar estado (noticias ya enviadas)
+        run: |
+          git config user.name "macro-news-bot"
+          git config user.email "actions@github.com"
+          git add state/sent_ids.json
+          git diff --staged --quiet || git commit -m "chore: actualizar estado [skip ci]"
+          git push
