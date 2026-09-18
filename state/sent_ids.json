@@ -591,6 +591,10 @@
     "title": "What history says about longer-term bond yields after the first Fed hike",
     "ts": 1789550502.150256
   },
+  "24061cb7b0f07a5d65f9a2ddd9be7660fb608d201986eecdcad9ef389821225f": {
+    "title": "England fast bowler Carse to face no charges over alleged nightclub assault",
+    "ts": 1789762803.736618
+  },
   "242b64cd029487785a82aff13ea128493e0146b8061320f717ba15016e6f28eb": {
     "title": "Macklemore dropped from Ed Sheeran tour following Palestine advocacy",
     "ts": 1789420825.931222
@@ -907,10 +911,6 @@
     "title": "Why does Brazil get to speak first at UNGA?",
     "ts": 1789680023.400249
   },
-  "3cda75aae4460c13bbafdfa85800f775d48405f231ec5f891db0493d67d97b73": {
-    "title": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
-    "ts": 1789154337.75201
-  },
   "3ce39f8ac3ff75364f5869127a33f357f52377f2feb5e973ef7270de5bc68bf1": {
     "title": "Heavy rain falls over the Kaaba in Mecca",
     "ts": 1789348826.030814
@@ -1086,6 +1086,10 @@
   "49eee5a7cecb1d6ff565bd41b8a4266e50e1d11e1c6808a504e8f7118f4ecb99": {
     "title": "Houthis Issue Video Of Saudi F-15 Shootdown, As Ground Clashes Intensify In Yemen",
     "ts": 1789575714.065474
+  },
+  "4a710b785f498bf7952f777c0044ac26d48929634543ec017552342ab8df1e67": {
+    "title": "Two injured by Israeli shelling as troops advance in southern Lebanon",
+    "ts": 1789762803.736618
   },
   "4adecc20f088b21ff67ce74699952aae6e4f2122453048c121b79d1b6b94bf56": {
     "title": "U.S. and Houthis Open Talks as Saudi Oil Crisis Deepens",
@@ -1335,10 +1339,6 @@
     "title": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
     "ts": 1789338010.691517
   },
-  "59eb5575cebb2498608e083e9f545d829b9609ce9df5a0fb4328ef5f526fa0a4": {
-    "title": "At least 46,000 displaced by escalating Yemen fighting: UN",
-    "ts": 1789154337.75201
-  },
   "5a9d302adf5996304dacee8de94991d6b90013c2601e613e034d646c06613bbf": {
     "title": "Why are election officials in the US preparing for chaos before midterms?",
     "ts": 1789568548.980963
@@ -1414,10 +1414,6 @@
   "5e876318e997c44a5e09d5136e00f51de059327d402a3c48b0a25d3e90747f7c": {
     "title": "Hormuz Deal Hits Snag: Monday's Gulf-Iran Shipping Talks \"Postponed\"",
     "ts": 1789330838.079911
-  },
-  "5ea3cc0ce095b371c9fbde20a0646243c44e6bbfcb39e2892e056ca22669b7f5": {
-    "title": "Real Madrid’s Mbappe: AI dictator memes show lack of political awareness",
-    "ts": 1789154337.75201
   },
   "5ea962be17346e6276f1553ef754bdc1839883b76e8f6f410b3865b0c1985bea": {
     "title": "Barclays Sees Two Key Drivers Behind A Potential Tesla Q3 Delivery Beat",
@@ -2018,10 +2014,6 @@
   "853a489e83c1899e07e5a84fb2c76889549826972b34fc10254331dfaa08d581": {
     "title": "Bitcoin could be headed for $230,000 in less than a decade. Here are seven ways to value the crypto.",
     "ts": 1789647990.861728
-  },
-  "85fa441a3db05203e066557c9132d7bc82693901e712e6837a9c3ec664d1e863": {
-    "title": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks",
-    "ts": 1789154337.75201
   },
   "87b7c7e2b71010ecd2634384288dae3db2f232834fda1ed236bef63aed35562e": {
     "title": "Olympic flame arrives in Senegal for first ever Olympic event in Africa",
@@ -3083,6 +3075,10 @@
     "title": "Texas Still Dominates America's Natural Gas Production",
     "ts": 1789438995.033002
   },
+  "cd0b4ee5aa33823af79c2be6a59edf1cdaccc0bdedce0b3070d5d0eb343aa407": {
+    "title": "Trump bans CNN, MS NOW, Politico from the White House for ‘fake news’",
+    "ts": 1789762803.736618
+  },
   "cd5ae4268b7ebb9706bcf26e1016fd72d324c3be15364237804420846439c8fd": {
     "title": "Real Madrid’s Kylian Mbappe ends Nike partnership to join Swiss brand On",
     "ts": 1789744836.091724
@@ -3235,10 +3231,6 @@
     "title": "Early in-person voting begins in the 2026 US midterm elections in Virginia",
     "ts": 1789759135.31556
   },
-  "d862d0f02b7c22ea5bfbe698927d613a0aa18cfa4a7d5c9298cc08af34412525": {
-    "title": "Are AI-written resumes more likely to get you a job? The answer may surprise you.",
-    "ts": 1789154337.75201
-  },
   "d8a64d8c1e60bc8e22119c7df3b00177dc305ef5cf674c41e08803e767cebd6b": {
     "title": "How US leaders remembered the 25th anniversary of the 9/11 attacks",
     "ts": 1789158072.27137
@@ -3270,6 +3262,10 @@
   "d9c8fdc47ed5409936186a66b6073dc417c95bb0975192a7ccaa9817a16e6ab1": {
     "title": "‘My children did not attack Iran’: 2bn South Asians suffer from distant war",
     "ts": 1789730406.355037
+  },
+  "d9e8cfa9f3c248c08ae97b56ab67acaee09aabd88a3c26ba9c3a012df3e7494a": {
+    "title": "Most of what you know about data centers is wrong",
+    "ts": 1789762803.736618
   },
   "d9f08459fbd8b630a8c6c339b4febf06e60339d3418dee49d53753c1110475a6": {
     "title": "What could stop the Houthis’ advance across Yemen?",
@@ -3443,6 +3439,10 @@
     "title": "Watch Live: Fed Chair Warsh Explains Why He Hiked Rates Into Stagflation",
     "ts": 1789586398.263434
   },
+  "e84820cce55caeb8fc9bd9aa84042a8d7aa96cebacf16703513f5d234ce344f3": {
+    "title": "Lebanese artist turns Israeli missile debris into art",
+    "ts": 1789762803.736618
+  },
   "e8643b19a36cc0f53f33c7d9806b6809b0e9b5dd821e83bf4222f85b3387cb5d": {
     "title": "Pernicious states: Towards a new grammar of international relations",
     "ts": 1789640512.766801
@@ -3478,6 +3478,10 @@
   "eb00bcc09e0c7e8934487fcc0efc024a43e13f99e8c34328cf513e8826650f27": {
     "title": "Oil extends losses as Saudi Arabia reportedly offers ship-to-ship crude transfers after pipeline hit",
     "ts": 1789611675.18751
+  },
+  "eb2f8c1f53f13421830e1e33d23ec49781e49cd1f260c880d30fbb58b882f33a": {
+    "title": "Russia labels Cannes-winning director Andrey Zvyagintsev a ‘foreign agent’",
+    "ts": 1789762803.736618
   },
   "eb370cdea961350547d02c3b5a10a1963ccac4d1746652957c83f75e8e3e0ea3": {
     "title": "As Fed rolls out its first interest-rate hike in 3 years, officials are divided on what to do next",
