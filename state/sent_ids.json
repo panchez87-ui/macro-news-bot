@@ -19,10 +19,6 @@
     "title": "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
     "ts": 1789168703.011625
   },
-  "02178c9f28fa4ab219817bf0716f431ee4b7a8ebf672604d26233145511f786d": {
-    "title": "Bridgewater investment chief says AI could wipe out humanity",
-    "ts": 1789122124.027175
-  },
   "028197c47228f7e78312b80bc62e852a9a684ac59cea96f3d950a1eca761364e": {
     "title": "‘Outrageous lies’: How Israeli voters are shrugging off Western sanctions",
     "ts": 1789716072.054157
@@ -146,10 +142,6 @@
   "0c64061e6d6441a77f4d93fde51dc466a1c4b2957c8edb9215d12c05f2cb3b7b": {
     "title": "Bitcoin falls below $76k as Clarity vote fails; Fed rate hike in focus",
     "ts": 1789543329.166162
-  },
-  "0c9df0fe7a47b20724ddb8ffbcbfe69c50b558217d0711c88091801dfc2826f1": {
-    "title": "Japan, India, Ukraine: Why some countries are uneasy about new UN map",
-    "ts": 1789122124.027175
   },
   "0cc3a3616582d7b15167a560862dc496535e222c988e3f16a6daae8b802715be": {
     "title": "Saudi Pipeline Outage Hits an Oil Market Running Out of Buffers",
@@ -563,10 +555,6 @@
     "title": "Man arrested over killing of Tasia Fortune, found hanging from tree",
     "ts": 1789237291.183345
   },
-  "2193c0ff764f42f939143cd1f1804515ed1165cd633814fd8fc9d0509c39ab84": {
-    "title": "U.S. oil price dips below $100 while diesel passes $6, marking fresh record",
-    "ts": 1789122124.027175
-  },
   "219940d9cbb2217ef3a7c36f5b10f6797e26aee367a9d1376c85d36552564242": {
     "title": "Trump dismisses calls for AI slowdown from leading tech CEOs",
     "ts": 1789345752.021291
@@ -623,6 +611,10 @@
     "title": "Gaza repairman helps journalists to keep documenting genocide",
     "ts": 1789644050.464544
   },
+  "26dbc0018b64fd96ac2f630fd23f21556f6b090427b3b0b61e387be2febdb9b1": {
+    "title": "Bomb attack at Pakistan mosque kills at least 15, injures 50",
+    "ts": 1789730406.355037
+  },
   "27028ef210dc37a2db479c35751c6d60dfe89791d1ffb9f58b557b8fa3816c9c": {
     "title": "Trump plans to meet Gulf leaders at UN next week on Iran war's endgame: report",
     "ts": 1789618919.625925
@@ -674,6 +666,10 @@
   "2b4977668d30f867188ad56e875b8b95efbc024107f8c81a5cbdd199bb777a7d": {
     "title": "Elon Musk backs Anthropic’s call to slow down AI progress before rogue bots take over the entire internet",
     "ts": 1789237291.183345
+  },
+  "2b4c1d13e90d47ac7d9340a286d75baedcfccc6383d2b19a1dbefa3e6b83d92c": {
+    "title": "Palmer and Alexander-Arnold recalled after England World Cup snub",
+    "ts": 1789730406.355037
   },
   "2b4d48527dc78cf3f32716154fb77eeecf23bb65c718e50d7e701afad8be759c": {
     "title": "Coalition talks likely as no party dominates Philippines’ Bangsamoro region",
@@ -867,10 +863,6 @@
     "title": "Sabalenka vs Rybakina: US Open women’s singles final – start, prize, form",
     "ts": 1789165192.288062
   },
-  "3bc3cfcf0f9d9131765aa191a0807cea56780e0e1cd08d6446aa1805d31976b1": {
-    "title": "Oracle shares are climbing after results. What Wall Street analysts are saying now.",
-    "ts": 1789122124.027175
-  },
   "3bce6665f0c06dc072d067d92dd396341c46c5842f8bd1308f586df99476eaef": {
     "title": "The very big caveat to the report that Anthropic is profitable for a second straight quarter",
     "ts": 1789377814.304875
@@ -882,6 +874,10 @@
   "3bf24dc6d302e7d7508cfb6b404d853d2084cca7840dfc2ac7d1b2843c1251b6": {
     "title": "Beijing Threatens To Cancel Trump-Xi Summit If US Approves New Arms Sales To Taiwan",
     "ts": 1789233513.023153
+  },
+  "3c20a1410e6e0dbf2b45a0bc8d4990b6c6d0c51cb977506289d29dfa4d65d0c2": {
+    "title": "Israel is killing the people who could end its wars",
+    "ts": 1789730406.355037
   },
   "3cb11e59dfcef740f0d669a2752ba3671f4121db26cdad6e32a91a22a2354cba": {
     "title": "Why does Brazil get to speak first at UNGA?",
@@ -1118,6 +1114,10 @@
   "4d28d4865b5fcf63c54ea9b64a9586aebe1c75a5310b8d19a3bc404f731b62e7": {
     "title": "Japan’s interest rate hiked to 31-year high at 1.25% as inflation rises",
     "ts": 1789705274.914405
+  },
+  "4dc0bc0185d5912c3226fa8c58a187b21a07d7676c3ac95a644e28ceef9346fb": {
+    "title": "Ukraine fires drone barrage as Russia launches elections",
+    "ts": 1789730406.355037
   },
   "4e26cbde5831dac6eabd9162ad4b8ad45a5043a8747bd04a87c0c4cb5f5cddb9": {
     "title": "Arsenal manager Arteta ‘very surprised’ at Jesus blast over Barcelona move",
@@ -2107,6 +2107,10 @@
     "title": "Waste Of The Day: Alleged Data Center Fraud",
     "ts": 1789432160.824072
   },
+  "8ca2e554aa1ee0b748193f1f424f91a00223df2149c4cefe597cf8fb4b187cf2": {
+    "title": "India’s Clean Energy Boom Halts Coal Power Growth",
+    "ts": 1789730406.355037
+  },
   "8cf00f337a5a6d8c3a3856a935c9647b251f9b1155867a14524d2247bc6f1179": {
     "title": "Three dead after flooding inundates Navajo Nation in New Mexico",
     "ts": 1789604841.625755
@@ -2859,6 +2863,10 @@
     "title": "Myanmar airport closed following reported drone attack",
     "ts": 1789132920.451268
   },
+  "bcdf2ebac623ac220a6652faadb8075cdf4b213fa14210af5683ec3f65f1f74c": {
+    "title": "North Korea anthem played at South’s Bangladesh hockey match at Asian Games",
+    "ts": 1789730406.355037
+  },
   "bcef81a53daed67c28f8511e7e65b6730c99af9d2cd03bc4cdbd6b5795cf89e5": {
     "title": "DHS Proposes Quickly Removing Visa Holders After Job Loss",
     "ts": 1789244433.341888
@@ -2959,10 +2967,6 @@
     "title": "India vs Sri Lanka live: Asia Cup final",
     "ts": 1789302269.589571
   },
-  "c4713e4f9f4beba9ca981a82ddbcb75fdd6654350bf4f46a5c3286389ca3c9c7": {
-    "title": "China’s 70% EV Target Deals Another Blow to Oil Demand",
-    "ts": 1789122124.027175
-  },
   "c47a85f6eacecc6da314fce9e68ce7d75126586c04b969a1649362cdd2509aa5": {
     "title": "Tom Lee says the ‘face-ripping’ rally he predicted is merely delayed",
     "ts": 1789633432.494255
@@ -3034,6 +3038,10 @@
   "c8517ce6d0a63c297fa8956187f5aca6cc485bbdb8337fc8b4b00a3b76142773": {
     "title": "Voting under way in Sweden election that could see far right enter gov’t",
     "ts": 1789292697.672063
+  },
+  "c85b9da19a60c09e7db0253ef8e094228122a3822898108d7c071c8c2843a3a0": {
+    "title": "United Nations says US may have committed war crimes in Iran: What it means",
+    "ts": 1789730406.355037
   },
   "c86a4f98a9dcfa35bd226fb8a5f0bc5b3775a9ab9bb6b94846efa6c3a3225ee7": {
     "title": "‘Blew the hell out of it’: How Iran damaged US bases in Bahrain, Jordan",
@@ -3295,6 +3303,10 @@
     "title": "Japan’s Oil Import Bill Soars 59% as Trade Deficit Deepens",
     "ts": 1789546998.561269
   },
+  "d9c8fdc47ed5409936186a66b6073dc417c95bb0975192a7ccaa9817a16e6ab1": {
+    "title": "‘My children did not attack Iran’: 2bn South Asians suffer from distant war",
+    "ts": 1789730406.355037
+  },
   "d9f08459fbd8b630a8c6c339b4febf06e60339d3418dee49d53753c1110475a6": {
     "title": "What could stop the Houthis’ advance across Yemen?",
     "ts": 1789420825.931222
@@ -3442,6 +3454,10 @@
   "e71eefdc53589433b0ad8bd78ce8fd204fe5790618ecd4ec6708d598ff9b544c": {
     "title": "Energy Shock Puts Bank of England Under Pressure to Raise Rates",
     "ts": 1789575714.065474
+  },
+  "e72401b12a94cd33381e3bf0d8d79413934d1a72e27d4b31a27e7fcd8112dda5": {
+    "title": "Warren Buffett exits Berkshire Hathaway as his son Howard becomes chairman",
+    "ts": 1789730406.355037
   },
   "e7270313fba3ecec55ebd0233b3034798dbdb98da76ab34eeeb2135273a49022": {
     "title": "‘I am drowning in debt’: I have $125,000 in credit-card debt. Will $9,000 in disability income affect my bankruptcy?",
@@ -3722,6 +3738,10 @@
   "f8264905e75a75cef73ad3e8941ddd40d07ed0bcced81f8f23cfd6eff2069cb6": {
     "title": "This Time Is Different? Earnings & Price Break 90-Year Trends",
     "ts": 1789233513.023153
+  },
+  "f83e0bc52733b44b69f7d1446010333192d3142cd28236c2fac57c8a7a9e13f5": {
+    "title": "A sideways market and rising earnings are presenting opportunities not seen since ChatGPT first launched",
+    "ts": 1789730406.355037
   },
   "f8467d1232edb20077ce05dacd14e6cdf5bf1a1d72ce800a9af51e687ae1f461": {
     "title": "Anthropic CEO didn’t foresee the speed of global AI growth",
