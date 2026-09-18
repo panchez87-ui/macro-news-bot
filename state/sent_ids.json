@@ -23,6 +23,10 @@
     "title": "Bridgewater investment chief says AI could wipe out humanity",
     "ts": 1789122124.027175
   },
+  "028197c47228f7e78312b80bc62e852a9a684ac59cea96f3d950a1eca761364e": {
+    "title": "‘Outrageous lies’: How Israeli voters are shrugging off Western sanctions",
+    "ts": 1789716072.054157
+  },
   "0292f1ee415036e6be6893ac19c7d3b538869cd4a76e2ce3c469bcc97b8a4db5": {
     "title": "NATO's 'Collective Defense' Rhetoric Escalates Amid Now Weekly Aerial Incursions",
     "ts": 1789561626.088071
@@ -62,6 +66,10 @@
   "046844a1e4340e4bdd6cdca19da6e162b3fb00e415fa60d423fc361f508ac06b": {
     "title": "Pro-Palestine student suspended by King’s College London returns to campus",
     "ts": 1789118488.933146
+  },
+  "0476d0ca1ea805a43a6f1ca0640c6ecee34799dc2f76d5501dce1e68591c62a9": {
+    "title": "Bitcoin rises to $77.5k as markets look past Clarity setback",
+    "ts": 1789716072.054157
   },
   "05c57280a56e5f9d06c4b933f81eeb6477ef4e943ce3997ec9081b7a2603f1b1": {
     "title": "Niger military government reshuffles army command weeks after deadly mutiny",
@@ -479,10 +487,6 @@
     "title": "India vs Afghanistan live: T20 cricket match",
     "ts": 1789478568.2729
   },
-  "1cf4d635c51e5bc80cbbee629770480631307576febd4df954a59a3e65765e01": {
-    "title": "‘Everything changed’: The human cost of 25 years of US wars",
-    "ts": 1789107998.954451
-  },
   "1cfb51308b34b86c88bef1efbe8652bebe1ebf6492faf8188ed411b15027fc6b": {
     "title": "US Supreme Court rejects Trump mail ballot restrictions ahead of midterms",
     "ts": 1789446193.905478
@@ -742,10 +746,6 @@
   "2fd724138278d55b583cae5414b197c2b3869122d3317149021d665c358a9454": {
     "title": "Neturei Karta: Opposing Zionism",
     "ts": 1789579145.802346
-  },
-  "3046c2c732607e031ca2ca10db2a56557ae52c33826aa54d9ee574da9628c6ed": {
-    "title": "Oil Prices Surge to Four-Month Highs as War Risks Mount",
-    "ts": 1789107998.954451
   },
   "3081352ebb16e7e49bdfc1bc609fc015864bf7ec414a6ab09d70c8e87d535244": {
     "title": "New Report Exposes Climate Litigants' Campaign To Influence The Judiciary",
@@ -1059,10 +1059,6 @@
     "title": "Energy Aspects: Oil Market Has Reached an \"Inflection Point\"",
     "ts": 1789132920.451268
   },
-  "4aa9aaa0a14d90d577e91f81021ef1cc37a2b558ef685406d9bb93252aeb5925": {
-    "title": "How 9/11 conspiracy theories moved into mainstream American politics",
-    "ts": 1789107998.954451
-  },
   "4adecc20f088b21ff67ce74699952aae6e4f2122453048c121b79d1b6b94bf56": {
     "title": "U.S. and Houthis Open Talks as Saudi Oil Crisis Deepens",
     "ts": 1789676518.48438
@@ -1174,6 +1170,10 @@
   "51342a83b684656cfe8dc59f4d442d77cdeede8e18d5707972df16201f81c5cf": {
     "title": "Bitcoin steady at $76.5k as markets digest Fed rate hike, M.East tensions",
     "ts": 1789629773.220716
+  },
+  "5172953fd281c415e8bf08b64d7e3834a37c624f7fd35868f47c286342b2e490": {
+    "title": "Why Japanese stocks rose as government bond yields and the yen fell after rate hike",
+    "ts": 1789716072.054157
   },
   "52031929dc453f04b216df4f87d8fba130fd2ebd9575e2047db1a11df75a1101": {
     "title": "This simple mistake can give your money to the wrong person when you die. Here’s how to protect your estate.",
@@ -1363,9 +1363,9 @@
     "title": "How Romania Came To Host A Post-9/11 CIA Black Site & Got US Cash Bonanza",
     "ts": 1789273243.639929
   },
-  "5e20e282e23f0a6e549ef0f0d07c7bc835262b9db928be617585a1f459c9fb06": {
-    "title": "NAZA, the Israeli film revealing new layers of the Gaza genocide",
-    "ts": 1789107998.954451
+  "5e1450668c250c2edac2e23bd7155b32e8e063217655007f5a1ce4eb621d3a4e": {
+    "title": "China Pushes Coal Miners to Lift Supply as Prices Climb",
+    "ts": 1789716072.054157
   },
   "5e238a29a53d1449eb18e40741a99af5eeb0fdc96ff5696c53f1476098fa7bef": {
     "title": "Is the shingles vaccine the secret to living longer and delaying dementia? Here’s what the science says.",
@@ -1454,10 +1454,6 @@
   "621166e8f0342cedafdfd72329e71e5fe193d22da27bde2dad5c79c3aae80a0c": {
     "title": "Brent Nears $110 Then Tumbles On IEA Demand Destruction Warning As Houthis Threaten Saudi Oil Escape Route, Diesel Shock Goes Global",
     "ts": 1789129602.297055
-  },
-  "62ae94fee85ce671ed7f81ecb8fd7f2099cbd73b81e56fbf3e882f4e6d66bbaa": {
-    "title": "Fenerbahce coach Kartal’s resignation refused as bottle thrown in Roma tie",
-    "ts": 1789107998.954451
   },
   "62afff4b282269c76fdeaf2c31c7ce17facddbd1995bef187438594e60094c4a": {
     "title": "What Yemen Really Means to the U.S.-Iran War",
@@ -1975,6 +1971,10 @@
     "title": "More Americans are about to get scammed by the coming peptide rush",
     "ts": 1789658490.917695
   },
+  "83a0473a3e96ddef4c63696c5fe9a13d3270b7f7babe4ed13d17f53ae5fa7510": {
+    "title": "In Yemen, war at home and in the region drives up prices",
+    "ts": 1789716072.054157
+  },
   "83c2b89503db83c21fd0fe955170307aa83a5df40c9a1bcd67b99b287fa0fa6f": {
     "title": "One dead, more than 30 missing after Vanuatu ferry sinks, PM’s office says",
     "ts": 1789273243.639929
@@ -2363,10 +2363,6 @@
     "title": "For checkpoint and settler attack news, Palestinians tune into the radio",
     "ts": 1789600772.308006
   },
-  "9f64c71977bf2ddcb1b18afd6952d437c982cd0b71c9ac0323ecd933ffbede2c": {
-    "title": "Hundreds flee as fire destroys migrant shelters in Ceuta",
-    "ts": 1789107998.954451
-  },
   "9fbc3b0026b77780af79f68859aef90f73cb08b8ae400425743fa565b9e53b45": {
     "title": "Why More Homes Are Switching From Gas to Heat Pumps",
     "ts": 1789226342.717453
@@ -2654,10 +2650,6 @@
   "ad938f9c6cc1627d4aad52ea908aae531ee3afdabbb702db078632839abfcb31": {
     "title": "China faces oil challenge as prices soar and supply options narrow",
     "ts": 1789658490.917695
-  },
-  "ad9e8f48df8ac0a67730e3d121883e28bb908ea01543d90628c4dcada068dc4b": {
-    "title": "Austria's Headscarf Ban For Under-14 Schoolgirls Comes Into Force",
-    "ts": 1789107998.954451
   },
   "adce02e626519f4baae0ddb197ef575da02540ee31bc0116d81dc9fcdaa26912": {
     "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
@@ -3319,6 +3311,10 @@
     "title": "Trump calls, interrupts Nvidia CEO to say AI fears are ‘a hoax’",
     "ts": 1789446193.905478
   },
+  "db7dddceec3afe811d2ce0b4b09a15806eed03575092b9ca161b8f688ce5beef": {
+    "title": "Nigerian police probe death in custody of 37 illegal mining suspects",
+    "ts": 1789716072.054157
+  },
   "dbcad6973acf000bad7efb6caaaf67fe0cd2aa6117fa243462cfa19afed98559": {
     "title": "What More Evidence Does The Blob Need That Michael Gove Was Right?",
     "ts": 1789114982.352653
@@ -3366,10 +3362,6 @@
   "df82e90d6f9ffc2e2f1183d7b64fa258ffbb5f7428686efee34d746580ac6e50": {
     "title": "Will Russia and Ukraine halt attacks on energy infrastructure?",
     "ts": 1789489297.095051
-  },
-  "e011010267e20a0d36c5fad5d507859bd62611e1995f042aaa2477ab45e6ebe0": {
-    "title": "Is the US more anti-Muslim now than after 9/11?",
-    "ts": 1789107998.954451
   },
   "e01418e783486d1ad427b7020570ecb4678790b28ca87734e7b20884cd05c666": {
     "title": "China’s Yuan Crude Oil Futures Jump to Record High",
