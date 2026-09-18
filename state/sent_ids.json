@@ -35,6 +35,10 @@
     "title": "‘Poor bear the impact’: Sugar prices soar in India, souring festive season",
     "ts": 1789636935.684086
   },
+  "037170760612bf14d543c087c840c7cf7a648c052732aa4716af2e9b5fc05938": {
+    "title": "South Korea says US-North Korea talks possible, rules out Hormuz deployment",
+    "ts": 1789712750.950178
+  },
   "038ae4165b67bc7d31d7fadd57fc24b584ff152bccc607e32d5ea6be02af7687": {
     "title": "Cooking Oil-Powered Plane to Fly Tourists to Antarctica",
     "ts": 1789669471.242014
@@ -82,10 +86,6 @@
   "075a5bb07b14e5d7f35f58475549c8edd0ac8374d24302ad785440c14fbe9242": {
     "title": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
     "ts": 1789489297.095051
-  },
-  "0774bba069038f29c958023e2314071dd421b5723a70aad5017ece63052a8a92": {
-    "title": "Trump jokes Republicans can ‘cheat like hell’ in the midterms",
-    "ts": 1789104015.280727
   },
   "0869517961987b22fab3da10d5fc20bb4d2702ee89812ee474cd43723f992294": {
     "title": "China rejects AI ‘threat narratives’, urges global cooperation",
@@ -503,10 +503,6 @@
     "title": "Geneva talks put Rwanda-DRC peace deal to the test",
     "ts": 1789435393.443931
   },
-  "1e29ad5221d6f1d78d72dbf1a1dad09b4873efbe4e659fdb582ffaded7405dc7": {
-    "title": "Anthropic claims Claude AI used for missile projects, global espionage",
-    "ts": 1789104015.280727
-  },
   "1e45c221ac5b37840114b57b05b5dedb4b37384960c57ac9ef351845dbe11256": {
     "title": "Republican congressman calls to impeach US Defence Secretary Pete Hegseth",
     "ts": 1789514362.105936
@@ -706,6 +702,10 @@
   "2c5feb85a0f2c92f5a64d4f6890771f30bbe4d74edd7778d5ac5e2cabe863da7": {
     "title": "‘Columbia did not care’: Mahmoud Khalil files discrimination lawsuit",
     "ts": 1789424496.960935
+  },
+  "2cd71e577f5d1b76c732811f245abb946c1d2450a65a62c8aedf5d25a748a3a6": {
+    "title": "Russia’s parliamentary election: Who’s on the ballot, and why it matters",
+    "ts": 1789712750.950178
   },
   "2ce6039ba67257da2178e617d8a12418b3d766ee86746edb9d3daf8aff7f3b83": {
     "title": "Chileans clash over 9/11 military coup legacy",
@@ -2523,10 +2523,6 @@
     "title": "Ireland boycotts Eurovision for second year over Israel’s inclusion",
     "ts": 1789662155.88349
   },
-  "a7bbbf95462fd96ee4ac5b237eac5a23514fbd86b5a52d666071da7846a9e70c": {
-    "title": "BRICS red carpet sparks anger in India’s capital",
-    "ts": 1789104015.280727
-  },
   "a7d2e7d50a399eabe39d0239088ff2920d8a33dfa26624d2b117d2d57f59fa4d": {
     "title": "US extends visa ban on Palestinian officials before UN General Assembly",
     "ts": 1789618919.625925
@@ -2947,6 +2943,10 @@
     "title": "9/11, Anwar Al-Awlaki, And Our Unanswered Questions",
     "ts": 1789186832.10925
   },
+  "c1bffaa1198e9ce66dfd6fc0bc3c134f9568f66a51a7e3ed5fbd558d268072c9": {
+    "title": "UN mission alleges crimes against humanity in Iranian protest crackdown",
+    "ts": 1789712750.950178
+  },
   "c20d2599e8f324bc75511f631c3bdcaa15b2b38645ee65a2791abe4359dbdbda": {
     "title": "FBI’s Kash Patel defends hiring policy change on bestiality, prostitution",
     "ts": 1789492765.770292
@@ -3150,10 +3150,6 @@
   "cee53dd89b369be30376e01b5703611b33ca0a156ec37d03c6dd342e89e79a8c": {
     "title": "Alberta Plans New Royalty Incentives to Spur Oil Production",
     "ts": 1789644050.464544
-  },
-  "cf5aa8d0228f07f59386110ff0bab5ca7acd986fa3dda896502967290a642644": {
-    "title": "Sabalenka beats Pegula to set up Rybakina epic in US Open final",
-    "ts": 1789104015.280727
   },
   "cf9d92dbe036b5b6ac0914350171396b38e65f41b908ffb2957d45fed3645605": {
     "title": "Russia Extends Diesel Export Ban Through October",
@@ -3762,6 +3758,10 @@
   "f91fbd0c402175f76272e27baaea3a6fea2d52032d262859a021a48b5638bdaa": {
     "title": "Japan’s Top LNG Buyer to Sell Excess Gas in Global Markets",
     "ts": 1789561626.088071
+  },
+  "f92c66b5ce490a76ed0d56248a62f7d5e84bab9e389b05143b4c17ce79c87ca4": {
+    "title": "Oil Prices Head for Weekly Loss as Saudi Export Fears Ease",
+    "ts": 1789712750.950178
   },
   "f93092b11a7e597a607339f831214f99893a87d2b7e75c91115c670ea13126ca": {
     "title": "Massive sinkhole still threatens Nicolas Cage’s $10.5 million Malibu mansion",
