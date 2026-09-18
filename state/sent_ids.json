@@ -591,10 +591,6 @@
     "title": "What history says about longer-term bond yields after the first Fed hike",
     "ts": 1789550502.150256
   },
-  "238b576f3cc1a91d60cf4841caf0a49840f41479952e32b63f08faf8a44ff2bb": {
-    "title": "U.S. Diesel Prices Top $6 a Gallon for First Time Ever",
-    "ts": 1789111314.312901
-  },
   "242b64cd029487785a82aff13ea128493e0146b8061320f717ba15016e6f28eb": {
     "title": "Macklemore dropped from Ed Sheeran tour following Palestine advocacy",
     "ts": 1789420825.931222
@@ -1235,6 +1231,10 @@
     "title": "India-Pakistan navy ship collision sparks alarm over unintended escalation",
     "ts": 1789655031.413905
   },
+  "56458b2967b46e73462d59dc8bc84d75a06c0ee09e364f9abec2735c45378d6c": {
+    "title": "Indonesia acquires first aircraft carrier amid military upgrade",
+    "ts": 1789719732.566642
+  },
   "5669369a4ef57e1fe4d1b74c75fbce8826496ad64d6b675463e0c61292afb382": {
     "title": "Angry Dutch farmers blamed for railway sabotage: What happened?",
     "ts": 1789579145.802346
@@ -1402,6 +1402,10 @@
   "5f67fdaf05945cc262af991b3cded2a878678dbc3a908999a6a287934e0e39e5": {
     "title": "Forget the Fed. The Bank of Japan could deliver next week’s market shock.",
     "ts": 1789143743.615509
+  },
+  "5f6ba15da821b925b8d01a04089df1ea3b73581b33bef24125d4798764124bd7": {
+    "title": "Philippines school shooting leaves at least two dead",
+    "ts": 1789719732.566642
   },
   "5f70d26f70afc3df9b71dc99f2086bd6525139d03083d9d417db5c10a9fa6270": {
     "title": "Passenger train derails in France, leaving 44 injured, 1 critical",
@@ -1806,10 +1810,6 @@
   "78f8b63ba1e25df261ed2cc72fd3018fd22871f8bac5fdb87027ef0e6542e8d0": {
     "title": "Leopold Is Back: Situational Awareness Rerunning Exact Same Trades Which Blew It Up A Month Ago",
     "ts": 1789165192.288062
-  },
-  "79be9f20911d5e43bd872a543f08bb60965debaa43bed800963f2971d13d547e": {
-    "title": "Bitcoin falls to $77.1k amid U.S.-Iran jitters, CPI caution",
-    "ts": 1789111314.312901
   },
   "79d503500724ab71f5c51de3c9239ba3d4a3321f37f1a82abdcb265b06e4c7a1": {
     "title": "UK Government Reserves Two-Thirds Of Elite Jobs By Race; Leaked Doc Exposes",
@@ -3322,10 +3322,6 @@
   "dbdef7785a219f38071889340dd1b1e813497e28f4f89fbd7b4c274341afc7c8": {
     "title": "The UN Arms Embargo On Sudan Is Broken. America Has A Plan To Fix It",
     "ts": 1789374216.128077
-  },
-  "dc19e1e7428135fbfc00a6684e28d7600e2687e2bc8fbf3e6891e039f69328ac": {
-    "title": "Traditional portfolio diversification isn’t cutting it anymore. Here’s where to pivot, says this $624 billion fund manager.",
-    "ts": 1789111314.312901
   },
   "dcab9ef4e49d83db010318e6b661eca6fd5a479b52f58c3056bb5277eaf42ff9": {
     "title": "UMich Sentiment 'Expectations' Plunge Near Record Lows As Republicans Lose Faith, Inflation Fears Rebound",
