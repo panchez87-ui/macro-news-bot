@@ -71,6 +71,10 @@
     "title": "Why Saudi Arabia’s East-West pipeline matters for global oil",
     "ts": 1789395856.822554
   },
+  "063d7d83c67c852e0720b34cbc7550e5b00442ea9c75f89ade2374c8987413d8": {
+    "title": "Video: Students flee deadly school shooting in the Philippines",
+    "ts": 1789741261.496614
+  },
   "06bb97d9254249eb7e0f0246bbdabf12326a5f9467f70aa16558f1be9ce6ea86": {
     "title": "Bahrain says it will not participate in Iran’s proposed Hormuz meeting",
     "ts": 1789244433.341888
@@ -214,10 +218,6 @@
   "0ea9fd4c07f2f6514920897a10b98dda049799043ab8815c44d24be105d7d45c": {
     "title": "UK Energy Bills Could Jump 25-30% From January as Gas Prices Soar",
     "ts": 1789655031.413905
-  },
-  "0eabe8194ae12a8f455a3bf93ab4c6296b559ffca0be7e20657d094adc0a4de6": {
-    "title": "Houthis Advance on Bab al-Mandeb as Saudi Oil Route Comes Under Threat",
-    "ts": 1789132920.451268
   },
   "0eb830e1991ae1a09dd58ae39aabd54ac377c1e9a72a693977bea5a3b9b9088c": {
     "title": "Centre-left opposition bloc leads in Swedish vote, poll shows",
@@ -695,10 +695,6 @@
     "title": "Israel probing Naza film on Gaza for treason, inciting anti-Semitism",
     "ts": 1789424496.960935
   },
-  "2bd4c18256e86b140765247347c3357a775e39f244c38a1a5018c5d12288f583": {
-    "title": "From hunger crisis to ‘obesity’: how Gaza’s UN data is being twisted",
-    "ts": 1789132920.451268
-  },
   "2c1815b7a59c3be636e8744737f736480db94ce02d676a693f6a9ff4ceb77631": {
     "title": "US set to approve 60,000 heavy bombs for Israel: What that means",
     "ts": 1789561626.088071
@@ -939,6 +935,10 @@
     "title": "China’s Growing Iran Trade Is Moving Overland Through Central Asia",
     "ts": 1789410262.564405
   },
+  "3ffde772a67b331531f09b8e807fea10c7cd1c08360fbbb678ff68ba4c4ae9cb": {
+    "title": "The cost of Iran’s regional leverage",
+    "ts": 1789741261.496614
+  },
   "407dddaf39f4b8628b71ecbfc4b2d818814d0ab8aaaa1e60163e84c257ae93dc": {
     "title": "Russian strikes kill two in Kyiv as Moscow targets capital’s fuel stations",
     "ts": 1789136524.225483
@@ -1007,6 +1007,10 @@
     "title": "The Iran war reveals the limits of BRICS",
     "ts": 1789305559.115925
   },
+  "4582374f2eb0f3d7c8fae01ec4b26e2fdc64b551fdf4444bd5286b2b0895213d": {
+    "title": "Travis Kelce and others lost millions in a Ponzi scheme. Here’s what a basic index fund would have earned them instead.",
+    "ts": 1789741261.496614
+  },
   "45ec690683c9ff7887f40d595066efa3e49f9f6c56adddf95b0484042c3de5e3": {
     "title": "Lamine Yamal says he ‘deserves’ Ballon d’Or but Mbappe his main rival",
     "ts": 1789381351.336943
@@ -1066,10 +1070,6 @@
   "49eee5a7cecb1d6ff565bd41b8a4266e50e1d11e1c6808a504e8f7118f4ecb99": {
     "title": "Houthis Issue Video Of Saudi F-15 Shootdown, As Ground Clashes Intensify In Yemen",
     "ts": 1789575714.065474
-  },
-  "4a6acf3c41ed627e5c92d846ca139dbeb55e3ee5b71518f7dd7da15cea83d296": {
-    "title": "Energy Aspects: Oil Market Has Reached an \"Inflection Point\"",
-    "ts": 1789132920.451268
   },
   "4adecc20f088b21ff67ce74699952aae6e4f2122453048c121b79d1b6b94bf56": {
     "title": "U.S. and Houthis Open Talks as Saudi Oil Crisis Deepens",
@@ -1674,6 +1674,10 @@
   "6ea217c93b42ed4f34ce41b259f8b56fbbcfb4dcf37f2192443a04a55a1ced25": {
     "title": "US approves visas for top Iranian leaders to attend UN General Assembly",
     "ts": 1789683584.220405
+  },
+  "6eb24dd66acce3f1954b53c19e7479a474a72a26156511065dabaa4966b47ee8": {
+    "title": "Ronaldo keeps Portugal place for Nations League as Jesus names first squad",
+    "ts": 1789741261.496614
   },
   "6ec38ed187131a2632abb0012299b1cfe91a1b273960c7d16be429543d0833e9": {
     "title": "Ammonia gas leak in Jordan’s Aqaba industrial area injures 11 people",
@@ -2835,13 +2839,17 @@
     "title": "Indonesia intensifies search for 129 people missing after ship capsizes",
     "ts": 1789367354.263656
   },
-  "ba30ec0ad8b0c700b33aea4faae8dbe53656637f7e38f96c0385ea2795e2f073": {
-    "title": "WTI Breaks $100 as Middle East Supply Crisis Deepens",
-    "ts": 1789132920.451268
+  "b9af687d16f11a6bb94bd1c7b42c1f92956838e563b81963d4a73703b71abfbc": {
+    "title": "Russia seizes assets of French firms, summons UK envoy over Ukraine support",
+    "ts": 1789741261.496614
   },
   "ba58d846b866887e0d36dfc356a23273afca0bf91493b1675507c86f23d1e8fd": {
     "title": "Prosecutors In Huawei Criminal Trial Allege Company 'Cultivated Culture Of Crime And Corruption'",
     "ts": 1789175902.740521
+  },
+  "ba641bc0c417e22eb746c16f744fae6597dab33158a74ff5fe8b104a86d03fa2": {
+    "title": "Barcelona’s Lamine Yamal says he has experienced racism ‘a thousand times’",
+    "ts": 1789741261.496614
   },
   "ba69c918327b707b5ada9843bf6273f3f2502b01b4fa9d110f87ff5b6da2a169": {
     "title": "China's \"Dogfighting\" Satellites Come Into Focus As US Confirms Space Weapons",
@@ -2870,10 +2878,6 @@
   "bcaf58363fd591f8bed6e4a465dd12e9fc5aa76345711b32a16f2ee165a71198": {
     "title": "Four bodies found in Nepal tunnel as flood search continues",
     "ts": 1789676518.48438
-  },
-  "bcc824f8ebf97a396ff676aef75c08f224fea78f68d32cb495051c19acf4490f": {
-    "title": "Myanmar airport closed following reported drone attack",
-    "ts": 1789132920.451268
   },
   "bcdf2ebac623ac220a6652faadb8075cdf4b213fa14210af5683ec3f65f1f74c": {
     "title": "North Korea anthem played at South’s Bangladesh hockey match at Asian Games",
@@ -2990,10 +2994,6 @@
   "c4ce892835bf1a9347d59f1de2ddda50949f1fe42c29ee5a8797e7656997c137": {
     "title": "It might be time to consider the ‘most hated, under-owned asset class,’ says this strategist",
     "ts": 1789475163.574076
-  },
-  "c52f0d7f2e4617808ec66095fdc56660e47fb20053d8cbbad903c5e98da456e7": {
-    "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
-    "ts": 1789132920.451268
   },
   "c5a9ac5694fd35aeaea691356050f35c1ef96e190d54db4c6e7647a5a5b8b623": {
     "title": "Syrian child killed after roadside object explodes near Damascus",
@@ -3210,10 +3210,6 @@
   "d37a30957c7a631e59841a5b836d3e4db6b5cdbb691adb4cd69d21e7f135bd11": {
     "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
     "ts": 1789136524.225483
-  },
-  "d47ebd7f8f1ff099243eeb89f823002cd993dbd9a9838d874b02d5b96fa99001": {
-    "title": "Vostok Oil: One Tanker, Four Trillion Rubles",
-    "ts": 1789132920.451268
   },
   "d4c419543de011d44c310b08eeca81f36c1f084d045133e0afbbcacdb9c875c4": {
     "title": "Russia resupplies military bases in Syria for first time under new deal",
@@ -3503,10 +3499,6 @@
     "title": "Weapon shortfalls, 'hundreds' of buildings and aircraft damaged, $33.4 billion spent: the U.S. government tallies costs of the Iran war",
     "ts": 1789446193.905478
   },
-  "ea2fcf2fe783d6c466d5afcddd7540ddd28b001afd0ece5405f2cbf61f45fcbf": {
-    "title": "Jeff Currie Sees $5 Gasoline Before Midterms",
-    "ts": 1789132920.451268
-  },
   "ea64c3dab51a80b15a0f657520ae6777fbc9c4086f4436cf1416d11e9ab03364": {
     "title": "Oil extends gains following Houthi strikes on Saudi Arabia",
     "ts": 1789438995.033002
@@ -3538,6 +3530,10 @@
   "eba3d0c2cbf407f038471e62c7dcb8573d97abcb72626894ac6479cfadf0a27d": {
     "title": "Can the Houthis close the Red Sea after seizing the Yemen coast?",
     "ts": 1789140034.238672
+  },
+  "ebd0d9b9da465acd8fb2c6b53966c57ac8f36c97d19b1b440d93d34999003dbe": {
+    "title": "The Oil Market’s Backup Plan Is Breaking Down",
+    "ts": 1789741261.496614
   },
   "ebd9ef8b76dbb410e077219b34bf4ac0e0ba5f0df2971156da13507b4464de2e": {
     "title": "US declares end of largest recorded cyclosporiasis outbreak",
@@ -3658,10 +3654,6 @@
   "f31d0a0a11372b1dbdcc8f2d5649e37b26763735d99557ee3bbea52ecc6f4022": {
     "title": "DR Congo’s worst Ebola epidemic ever passes 7,000 cases",
     "ts": 1789230017.494725
-  },
-  "f3637407dc0547421be962fe8e10402caab53613fd9f41cbe954cefb56935950": {
-    "title": "‘A historic day’: Spain moves closer to citizenship for Western Saharans",
-    "ts": 1789132920.451268
   },
   "f3672cabe9d7a8069de76733cbf6c43cf59c78730117f7278d025f2f6831ac58": {
     "title": "Swedes vote in election that could see far-right in government",
