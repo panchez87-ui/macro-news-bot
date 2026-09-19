@@ -155,10 +155,6 @@
     "title": "Saudi Pipeline Outage Hits an Oil Market Running Out of Buffers",
     "ts": 1789518425.086393
   },
-  "0cf0923586908fd200790e528e8e67abede3663971e82d886d0aff7d57549443": {
-    "title": "China’s marriage crisis: The search for love",
-    "ts": 1789215844.357852
-  },
   "0d012c5a8d4af34063f6bd903b74dcea09ab158c14ff19ed19079613f18c8082": {
     "title": "South Korea embraces Central Asian leaders, looking to boost regional clout",
     "ts": 1789482154.06037
@@ -166,6 +162,10 @@
   "0d28d277d236d8aecbba9dd7dbc228380112e60145431a35cb4343bd1117d9af": {
     "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
     "ts": 1789410262.564405
+  },
+  "0d2c1c7a59264ef8f715fed2a3c73565744ae97551cb3ec6e67287194cb2e1fb": {
+    "title": "Asian Games 2026: Top athletes and storylines to look out for",
+    "ts": 1789823989.114878
   },
   "0d5da9dd5528a5fb82ab5f9c78595dc696d4a6c0c0b882ccdbc0a46de8ade873": {
     "title": "Jeffries Refuses To Rule Out Trump Impeachment If Democrats Win House",
@@ -515,6 +515,10 @@
     "title": "Geneva talks put Rwanda-DRC peace deal to the test",
     "ts": 1789435393.443931
   },
+  "1e1db2bf940531f08db7f1ce201a7a75ce3ac3f277ea7f7caa8909090627ee60": {
+    "title": "Warsh’s Fed shows it’s serious about taming inflation. Why Wall Street now believes it.",
+    "ts": 1789823989.114878
+  },
   "1e45c221ac5b37840114b57b05b5dedb4b37384960c57ac9ef351845dbe11256": {
     "title": "Republican congressman calls to impeach US Defence Secretary Pete Hegseth",
     "ts": 1789514362.105936
@@ -614,6 +618,10 @@
   "24b15875e2e6a8d784c02e38ccedc11937c7f45449f42e18dc743b9b2cad1ded": {
     "title": "EU states to raise game as Arctic becomes strategic geopolitical frontier",
     "ts": 1789410262.564405
+  },
+  "24bc67acff6e5b54ec21b8d5aca33edb84be6af05a34703c01c38f2b1b4a32a5": {
+    "title": "Saudi-led naval coalition prepares to secure Red Sea waterways",
+    "ts": 1789823989.114878
   },
   "24ddf52c1031fa987552667197d8965de71f071b89ef9abebf2265b804325cf2": {
     "title": "Real Madrid President says Ceuta visit not related to ‘recent news’",
@@ -947,10 +955,6 @@
     "title": "What are the biggest AI companies and how much are they worth?",
     "ts": 1789626431.757757
   },
-  "3e3d06efe962ef93715ed19e0daad91f84c1deefe2a27b2c0b5f981d5c572dd9": {
-    "title": "Report Sounds Alarm Over Return Of Iranian Mass Ballistic Missile Production",
-    "ts": 1789215844.357852
-  },
   "3e9b8fd3e4f452e914a49e18a34dc7b61aa70679bb2fd74c9da3e50e6171702a": {
     "title": "CrowdStrike and Palo Alto Networks are leading software stocks toward a never-before-seen feat",
     "ts": 1789417285.668668
@@ -1010,6 +1014,10 @@
   "42a0ada7bc1f4e8e10f5c8d8866dc1147ef374eb729885fcf10aa9390646d55b": {
     "title": "Why has the response to Nepal’s floods been so muted?",
     "ts": 1789583014.716944
+  },
+  "432d207b070a334c5a02d52f51dc040a2636bd7b87b3d9905ec4757164ace8da": {
+    "title": "In Gaza, actors perform a war they are still living",
+    "ts": 1789823989.114878
   },
   "434948da16c9a1fe26c7ed5a5ba1c9cf2db2287aa256f47dde5342ae2aafc15c": {
     "title": "Why does Canada want to join the Europe-led JEF military partnership?",
@@ -1235,17 +1243,9 @@
     "title": "This simple mistake can give your money to the wrong person when you die. Here’s how to protect your estate.",
     "ts": 1789334353.015156
   },
-  "522177655a3d3cb470874f5de5839dd1e628701a6ba578602ebf8b8bdc095770": {
-    "title": "Manchester United vs Man City: Premier League – predictions, teams, lineups",
-    "ts": 1789215844.357852
-  },
   "522bc14c476ab6f19b74b3a0bdc36e64421194577706a9f3fc6e31fedbf59c32": {
     "title": "The oil market is sending an increasingly loud warning about gas prices at the pump",
     "ts": 1789424496.960935
-  },
-  "528098cb8e2f07145a895b9fc0da39fda58e758c260de98dcba48c86673c8e8d": {
-    "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
-    "ts": 1789219140.301386
   },
   "53204680c0d5bfe884177ed5ad76b45f3fcdcdda0eafffe9e5a8ced370b1a95e": {
     "title": "New tiger cat species identified in Bolivia, first in over a century",
@@ -1354,6 +1354,10 @@
   "591a54a91fc68a11a61c25b46c3b81c0d5704fda6f8bb41279594a4f99979fa0": {
     "title": "Why is Bitcoin US Dollar stock climbing today?",
     "ts": 1789737621.400479
+  },
+  "59a109763e5d22e46184cfe5d2e99661cc035e424a5b6600ee4a0524c665eb39": {
+    "title": "What’s behind reports that the Israeli army is low on troops, equipment?",
+    "ts": 1789823989.114878
   },
   "59db3ff6bcd09bade8fa079752aecdb6f3922f863385fc544e248381f047f22a": {
     "title": "Israeli quadcopter terrorises homes in Gaza City",
@@ -1671,10 +1675,6 @@
     "title": "What’s the VAR mistake controversy in Haaland’s Man City goal vs United?",
     "ts": 1789417285.668668
   },
-  "6e958e449f06f0e7cd25a1c470acf8daeeae68f51446ac882e54560d053503d8": {
-    "title": "‘Divine triumph’: Iran celebrates Houthis’ capture of Yemen’s Red Sea coast",
-    "ts": 1789219140.301386
-  },
   "6ea217c93b42ed4f34ce41b259f8b56fbbcfb4dcf37f2192443a04a55a1ced25": {
     "title": "US approves visas for top Iranian leaders to attend UN General Assembly",
     "ts": 1789683584.220405
@@ -1762,6 +1762,10 @@
   "7400cab4847e7a3384d183c84c2761cad9b04464b74edb881a4203e6c203b1c4": {
     "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
     "ts": 1789583014.716944
+  },
+  "745bfd499ab424444bf52dc9af0d8f9d82ec30daaedbaaff4b92f379c23f9eb0": {
+    "title": "Funerals held after deadly mosque attack in Pakistan’s Kohat",
+    "ts": 1789823989.114878
   },
   "748085c015d74d30ca575848f113cc42ad75e1e94a4cbfb5d3f01afbc865b9f8": {
     "title": "Gas Turbine Shortage Sends AI Developers Back To Boilers And Steam",
@@ -2151,6 +2155,10 @@
     "title": "Bitcoin steadies at $77.4k with focus on Clarity vote, Fed meeting",
     "ts": 1789457016.639326
   },
+  "9041d88a86a289de2fdc69e6e38cdf5f96c773492e05c6faeebf21f8c7270820": {
+    "title": "US lifts sanctions on Eritrea ‘to advance US regional interests’ in Red Sea",
+    "ts": 1789823989.114878
+  },
   "9068dd3d2df806db80637aa6b7b8f5abd16c98e9bbc074affc06fe8c1041a4a3": {
     "title": "Russia election: Could other parties challenge United Russia?",
     "ts": 1789687056.05802
@@ -2174,10 +2182,6 @@
   "921ab1acb26f87fb27e888d94bea84fc9d29b831aa9da58f3a3b830bde8adb01": {
     "title": "Six killed, 130 missing after Indonesian passenger ship capsizes",
     "ts": 1789316437.127709
-  },
-  "92728852d25f5c0fdc19a9e63381b79a586fb09c14f73d581afd08cf8fd9ebb6": {
-    "title": "Yemen government forces say Houthi ‘members, vehicles’ targeted in Mocha",
-    "ts": 1789215844.357852
   },
   "92bd3bbf14724c91313b7bc5403c28a68b9c51ce61025856340b378830653802": {
     "title": "Mitch McConnell returns to US Senate after three-month absence",
@@ -2743,10 +2747,6 @@
     "title": "Pakistan pledges full committment to defence of Saudi Arabia",
     "ts": 1789737621.400479
   },
-  "b3bf9aca2045aab8fa1edf197ab46ddcbddb681c1255bf29c684c4989d7d6f7b": {
-    "title": "Trump sees Iran war ending soon after mid-term elections, predicts oil prices will then fall sharply",
-    "ts": 1789219140.301386
-  },
   "b3cdc24d13f9d7fbe1e176b3e6ad33d64907a5ca33dec1408f359e7467d816ab": {
     "title": "Book your Thanksgiving and Christmas travel now — or risk getting priced out of flying home for the holidays",
     "ts": 1789499964.020546
@@ -2782,10 +2782,6 @@
   "b678a2bd737cdaa369dc295d59e5208e3758b63bb00b707b4222627673aa2a95": {
     "title": "Maresca defends VAR while lamenting row dominating win at Manchester United",
     "ts": 1789568548.980963
-  },
-  "b695e0205de27307874bf1431426f05197d1a26fbb33426922a7f7c2efd5c03a": {
-    "title": "Oil's roundtrip back to $100. Why China could determine what happens next",
-    "ts": 1789219140.301386
   },
   "b74d064da9582fe286781af9515949b4159e0a0f2bb37dafb3c14d5808b36456": {
     "title": "Two signs investors don’t have to fear an AI slowdown",
@@ -2902,10 +2898,6 @@
   "c080fe387e23b5fe41955fb9bbda00fd43d154f16f7409995d8a32f81dabfd25": {
     "title": "EOS Climbs 10% In Rally",
     "ts": 1789791626.34093
-  },
-  "c0dea4fbb35cf763edb5a8b82b04af29e46a094ae53c876f96aedaac35895251": {
-    "title": "Left with nothing, people in Gaza are forced to rent generators by the hour",
-    "ts": 1789215844.357852
   },
   "c12897af85186e037753441e05ff37e0fdc1f93e641dcf1706703fd7d79d247b": {
     "title": "The UK’s King Charles warns AI leaders of ‘existential dangers’",
@@ -3171,6 +3163,10 @@
     "title": "Trump’s Caucasus Trade Corridor Delayed Until 2027",
     "ts": 1789319919.761133
   },
+  "d4be99391473a84f32d20816b29644b58f5f5f69a0d89eb6b233e57a70326ac6": {
+    "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+    "ts": 1789823989.114878
+  },
   "d4c419543de011d44c310b08eeca81f36c1f084d045133e0afbbcacdb9c875c4": {
     "title": "Russia resupplies military bases in Syria for first time under new deal",
     "ts": 1789435393.443931
@@ -3239,6 +3235,10 @@
     "title": "Early in-person voting begins in the 2026 US midterm elections in Virginia",
     "ts": 1789759135.31556
   },
+  "d88b75a8c52b4c41f7d8ab5c9dc88095dc8167c6ae4c54980bbdedc03e29fb49": {
+    "title": "Child among three Palestinians killed in Israeli attacks across Gaza",
+    "ts": 1789823989.114878
+  },
   "d8fcfaabb86be9d5748cca77cb8cb12e417201c96628b20c3075917f85a92238": {
     "title": "India vs Sri Lanka: Women’s T20 Asia Cup 2026 final – schedule, teams, form",
     "ts": 1789237291.183345
@@ -3283,10 +3283,6 @@
     "title": "Russia’s drones threaten Kyiv-bound Western officials as war effort stalls",
     "ts": 1789759135.31556
   },
-  "da90744835d737e166f24b07e72df332ab42bcb012d90d2e04764d413dedbc2f": {
-    "title": "Trump: Iran probably ‘behind’ Saudi oil pipeline attack",
-    "ts": 1789215844.357852
-  },
   "db26847a4dd550071c3c8594a8452520ae558df1e313b5af24bf61d5b65cf771": {
     "title": "Trump calls, interrupts Nvidia CEO to say AI fears are ‘a hoax’",
     "ts": 1789446193.905478
@@ -3314,10 +3310,6 @@
   "ddace442bfbbb4cab4900e3ce7045b5b51117566e970a301db038cab3ecc6543": {
     "title": "Hormuz Risk Opens $40-Plus Price Gap Between Crude Grades",
     "ts": 1789510811.646109
-  },
-  "de8853e7eb3bab17ec1c0cd5cc9e57dd82945f228a77506f039d15b9c48e8767": {
-    "title": "India’s Modi calls for empowerment of Global South at BRICS Summit",
-    "ts": 1789219140.301386
   },
   "de959ec924dfd0e921f10678c6e17378f62d0a15ccc81bbe765d7bc47888640c": {
     "title": "Bank of England set to defy Fed’s rate-hike lead, despite rising inflation",
@@ -3386,10 +3378,6 @@
   "e43224b1aa2dba0e6b085cfe6386398a3f9a5ab34cf654f8c0023be861eea670": {
     "title": "\"I Like Them\": Trump Weighs In On Flock Surveillance Cameras",
     "ts": 1789521607.667022
-  },
-  "e44821b877a15f25f4fb463c54011c21b7d388e25c8b0b691090db5218b095a5": {
-    "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
-    "ts": 1789215844.357852
   },
   "e483d4559acb2cd9df48ae1ff51f73e965ee95ee301bc7feeb79aa7a48e611a1": {
     "title": "UK Mulls Military Support For Saudis Against Houthis After MbS Appeal",
@@ -3534,6 +3522,10 @@
   "ed46b41627a76a10e95016fe124d1c7096d6d6d027246430b830f04832ff6926": {
     "title": "BRICS summit 2026: What are the key takeaways?",
     "ts": 1789302269.589571
+  },
+  "eda2ce0315e5f9b1f440479260b10d5897c66ddbf587de31c590ed8cceb1aa8c": {
+    "title": "The old new thing: Cisco and retro tech are back and forming the AI buildout’s backbone",
+    "ts": 1789823989.114878
   },
   "edc14aaf776c92899e24990f2b98814602332563a72ae9ca121f9fba150d0ec2": {
     "title": "Macklemore pledges $1m in tour earnings to Palestinian groups",
@@ -3835,6 +3827,10 @@
     "title": "Canada’s Carney welcomes EU’s associated membership proposal",
     "ts": 1789651340.602549
   },
+  "fd1053c01fe281114a11db2c4785354b47feb2968c68b3a8fc433d07900278bb": {
+    "title": "Doomsday AI: panic, regulation and the China fear",
+    "ts": 1789823989.114878
+  },
   "fd73e1043854a206ab5e014ae62adc5d12723221cdcfbda808468b0bf07a127b": {
     "title": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
     "ts": 1789298337.230547
@@ -3850,9 +3846,5 @@
   "ff28eda4c1c28c241e601bafc869aeba57545f36edd3672041b7d50829981222": {
     "title": "‘Attacks will be fully autonomous’: Russia, Ukraine race towards AI warfare",
     "ts": 1789395856.822554
-  },
-  "ffe60cbfa229874d8feaa55cbf980008dbf10560851c2d24a617ef3d63272341": {
-    "title": "Houthis celebrate seizing control of Yemen’s Red Sea coast",
-    "ts": 1789215844.357852
   }
 }
