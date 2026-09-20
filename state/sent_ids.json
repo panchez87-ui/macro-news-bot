@@ -63,10 +63,6 @@
     "title": "Bitcoin rises to $77.5k as markets look past Clarity setback",
     "ts": 1789716072.054157
   },
-  "05c57280a56e5f9d06c4b933f81eeb6477ef4e943ce3997ec9081b7a2603f1b1": {
-    "title": "Niger military government reshuffles army command weeks after deadly mutiny",
-    "ts": 1789292697.672063
-  },
   "06338723507b9c2cb391cbeaeb8a231a4dbce10a7b267b7cac850a635be3bd25": {
     "title": "Why Saudi Arabia’s East-West pipeline matters for global oil",
     "ts": 1789395856.822554
@@ -106,6 +102,10 @@
   "08b55b3314a65acaeece599b7e3b937ed3279604ed833cbd342d3ed9937a3daf": {
     "title": "ADNOC Scoops Up Iraqi Crude at $25 Per Barrel Discount",
     "ts": 1789499964.020546
+  },
+  "08cd1cd8bbfabc9114982c95969e02a5812bab41f89c6fc5b6fd2a34097992da": {
+    "title": "Pro-Palestine protesters demonstrate outside Ed Sheeran concert",
+    "ts": 1789906529.795668
   },
   "08f391d2f7160ed1eebde716e63869809eff5a26664fa7ddaae3149831be1288": {
     "title": "NBC helicopter crashes in LA, killing at least three",
@@ -186,10 +186,6 @@
   "0dd0e9bde75a8a0ed970911a8f1800008a3246594907d00f7fc81cfaa49c6d1f": {
     "title": "Chip stocks were a safe AI play. Now they’ve turned into the market’s pain trade.",
     "ts": 1789420825.931222
-  },
-  "0e11d3a05327d506dfa9f41015e50f36443715b75d2abb97af8ef869974b1f30": {
-    "title": "China's Xi urges BRICS nations to work towards peace in the Middle East",
-    "ts": 1789295022.0392
   },
   "0e1df0459a0404a6a38e095e007058f4a0d18ff6713b4442aa897176ee451573": {
     "title": "Italy to deploy warships to protect shipping through Bab al-Mandeb",
@@ -1019,6 +1015,10 @@
     "title": "What’s the Asian Games accommodation crisis, and where will athletes stay?",
     "ts": 1789647990.861728
   },
+  "455156ea29dda33f3c0170565e65b2b35c7c9832861e7c90332a24820b81132c": {
+    "title": "LIVE: Atletico Madrid vs Real Madrid – La Liga",
+    "ts": 1789906529.795668
+  },
   "4578648677aceb3958bc048582c60633c787d0ee089781dfb64cb84158e5865c": {
     "title": "The Iran war reveals the limits of BRICS",
     "ts": 1789305559.115925
@@ -1383,6 +1383,10 @@
     "title": "Yemeni forces target Houthis and a Saudi base as US rules out direct role",
     "ts": 1789618919.625925
   },
+  "5d81c0c59404d1e6344c4ae19b0a9436756d3eb1c5d714b98ecb616c5f38196d": {
+    "title": "China is chasing SpaceX and setting its sights on the global space economy",
+    "ts": 1789906529.795668
+  },
   "5dc70c2bb05fc19cc0c458c39e64400b9eb781940165115d0a96304e0eee32ba": {
     "title": "Multiple vehicle road crash in South Africa kills 21",
     "ts": 1789420825.931222
@@ -1538,10 +1542,6 @@
   "66dd03178519a855959c9b501b22b4cb373feed061ade86b754e0ab9d06d77d2": {
     "title": "Saudi Arabia Discovers 110 Million Tonnes of Uranium-Bearing Ore",
     "ts": 1789417285.668668
-  },
-  "673c2f962f9e7925d646b501cbe73583901fc507271db9071f0a2988cedfb324": {
-    "title": "Bitcoin slips to $77,200 as rate pressure clashes with diversification case",
-    "ts": 1789280983.481616
   },
   "674b00daa449104acd5c30a1b2628514717d5393059481b525fe1b674ae4ddc7": {
     "title": "Oracle’s stock falls for the fifth day in a row — missing out on the AI bounce",
@@ -1819,6 +1819,10 @@
     "title": "UN Warns World Must Prepare for Life Beyond 1.5°C",
     "ts": 1789831166.994563
   },
+  "7e7a1ac8e1e4800d4132444251b7092afd836b0bc7883a6cc94df66ea234f68d": {
+    "title": "Back to school in Gaza: Learning in tents after years of disruption",
+    "ts": 1789906529.795668
+  },
   "7e896c01f79401a3df863713bd1f126279d256aa4b932ebff9735ba63ee5f3a1": {
     "title": "Why investors shouldn’t be spooked by fears of an October stock-market crash",
     "ts": 1789773590.289973
@@ -1950,10 +1954,6 @@
   "870cd6acfd3b033af6bb16d02c651a81fde21f9ea1ca10d80d8f4e8736cc49a5": {
     "title": "As A Former Head Of MI6, It's Clear That Britain's Climate Policy Is Leaving Us Dangerously Exposed To Our Enemies",
     "ts": 1789820673.521939
-  },
-  "87b7c7e2b71010ecd2634384288dae3db2f232834fda1ed236bef63aed35562e": {
-    "title": "Olympic flame arrives in Senegal for first ever Olympic event in Africa",
-    "ts": 1789287702.148223
   },
   "87bd1dce9da0c2a86178e4172156a7da3cb67e82aa0d648e7847a59caa21d860": {
     "title": "Panic on board Iranian plane as violent shaking rips cabin apart",
@@ -2303,10 +2303,6 @@
     "title": "The ‘CIA’ strategy beating the market: How one top-performing money manager spots mispriced stocks",
     "ts": 1789561626.088071
   },
-  "a0059a51c9aa18e5943dbfe9cec46e247e2b70974d235860dcdfb7db5b0711a6": {
-    "title": "A kingdom within a republic: Inside Uganda’s Buganda",
-    "ts": 1789298337.230547
-  },
   "a040ee0197f04829a3dc94843e14f835af9c0d606eb69799eb9b8e7626011157": {
     "title": "Tunisian protesters demand release of four Sumud activists",
     "ts": 1789884453.26862
@@ -2390,10 +2386,6 @@
   "a451fe9c49cc95d34a5a634227edea722c098cfb9b51e510441318ec15971e64": {
     "title": "Can Trump ban CNN, news outlets he doesn’t like from the White House?",
     "ts": 1789809616.295015
-  },
-  "a4794ab1a4337c166d48624d02eaa8bb4ad1bbc21b9d9459e7b4cdde9c090323": {
-    "title": "Israeli attack on Gaza kills two Palestinians",
-    "ts": 1789298337.230547
   },
   "a4b618643c8cdf4db31e8a54fc4ad86a7fc6055e3c0212efb21de943b9d0de2c": {
     "title": "Philippines set for historic vote in Bangsamoro after decades of conflict",
@@ -2899,10 +2891,6 @@
     "title": "Aston Villa compound Tottenham’s misery despite Spurs ending goal drought",
     "ts": 1789831166.994563
   },
-  "c8517ce6d0a63c297fa8956187f5aca6cc485bbdb8337fc8b4b00a3b76142773": {
-    "title": "Voting under way in Sweden election that could see far right enter gov’t",
-    "ts": 1789292697.672063
-  },
   "c85b9da19a60c09e7db0253ef8e094228122a3822898108d7c071c8c2843a3a0": {
     "title": "United Nations says US may have committed war crimes in Iran: What it means",
     "ts": 1789730406.355037
@@ -2910,6 +2898,10 @@
   "c89900e5a41e63c3f29c409cba531b8c75c95e011270774180b7a80427446538": {
     "title": "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report",
     "ts": 1789701655.835874
+  },
+  "c8b2e6c56374351ac6654e7053e1ed76092da77586864c3ce20b4bc00aac4dcb": {
+    "title": "Anthems, transport, housing: What’s gone wrong at the Asian Games in Japan?",
+    "ts": 1789906529.795668
   },
   "c8dd1f3872e1ccaae6dd66dbdd8d79d5f59b80c7487d33d8f0f6e96604588b8e": {
     "title": "India to impose controversial fee for UPI instant payments: Who benefits?",
@@ -3019,6 +3011,10 @@
     "title": "Russia Extends Diesel Export Ban Through October",
     "ts": 1789575714.065474
   },
+  "cfbf8ac59ccd74cb669eb3d8b360646a1eefc1c2d53d112dacfdf0d4ce1f79ee": {
+    "title": "Israeli settlers storm Al-Aqsa in latest targeting of East Jerusalem sites",
+    "ts": 1789906529.795668
+  },
   "cfe3f480cf67311e78b9f7a9e9f47a154a881ea8e6fc694fc765cb97d743a5ac": {
     "title": "Sweden’s left-wing opposition leader begins efforts to form government",
     "ts": 1789755766.857606
@@ -3054,6 +3050,10 @@
   "d28c6b4164a51a17fab8b21344f939d27d2ba8e3f52482645aeefe016b4e1b2a": {
     "title": "Former Maduro ally pleads guilty to money laundering and fraud",
     "ts": 1789521607.667022
+  },
+  "d2b858c7bde6ac6f5d0c8ccb45c7524c19dbb3873b55c02205a7959d53629369": {
+    "title": "What are Iran’s latest conditions to end its war with the US?",
+    "ts": 1789906529.795668
   },
   "d2eb72ebf1920736b43d44a0fe1b73b3f4c250360261900c2b29df24e47f53ba": {
     "title": "Trump’s Caucasus Trade Corridor Delayed Until 2027",
@@ -3399,10 +3399,6 @@
     "title": "State funeral honours Hong Kong’s first post-colonial leader Tung Chee-hwa",
     "ts": 1789884453.26862
   },
-  "ecc6734e94e58ef34c6fc42001133a50bc1e78e8d824661799ab6b0c0ea9ed45": {
-    "title": "One dead, 102 rescued after Indonesian ferry goes missing in Java Sea",
-    "ts": 1789283986.465344
-  },
   "eccbb305e13d2a7220762bb44e5441e35390de4b2ebe32c7fa05d35ddaad6295": {
     "title": "Iran war increasing inflation, straining US munitions: congressional report",
     "ts": 1789521607.667022
@@ -3718,10 +3714,6 @@
   "fd1053c01fe281114a11db2c4785354b47feb2968c68b3a8fc433d07900278bb": {
     "title": "Doomsday AI: panic, regulation and the China fear",
     "ts": 1789823989.114878
-  },
-  "fd73e1043854a206ab5e014ae62adc5d12723221cdcfbda808468b0bf07a127b": {
-    "title": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
-    "ts": 1789298337.230547
   },
   "fe31d2a968a47a796810711669295b6f531e9a6b3bb97fe1858dbc8856376f71": {
     "title": "Hungary to amend anti-LGBTQ law to align with EU standards",
