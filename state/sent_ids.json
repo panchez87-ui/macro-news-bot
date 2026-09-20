@@ -79,6 +79,10 @@
     "title": "Stocks face a growing list of threats — so why are investors staying so calm?",
     "ts": 1789820673.521939
   },
+  "06fb32e018e6e33fe50e3c2055a3f4bd01c4240e6794d7a7bc95edc2af033b2a": {
+    "title": "Tesla Engineers Audit Chinese Suppliers As Optimus Commercialization Nears",
+    "ts": 1789866051.448439
+  },
   "0756ed879d667ee8cdae930a61c237d088561a9dd28c198a3837cff7b6c9de0a": {
     "title": "Netanyahu threatens to revoke Israeli citizenship of NAZA filmmakers",
     "ts": 1789636935.684086
@@ -359,10 +363,6 @@
     "title": "Arab Spring 2.0? Fuel Riots Erupt In Syria As Instability Spreads Across Mideast",
     "ts": 1789345752.021291
   },
-  "16805e5beb06101e1c72a49cc34c072ba59a6b79a60564457aaf8affe69c63c8": {
-    "title": "Oil Industry Braces for Years-Long Iran War",
-    "ts": 1789255153.42908
-  },
   "16faf6d83993113fca8d181e032feaa68f50bf08e727ddc09ae87b54ff553e69": {
     "title": "LIVE: Brighton vs Arsenal – Premier League",
     "ts": 1789816732.413122
@@ -419,10 +419,6 @@
     "title": "Why have China’s oil prices reached a record high?",
     "ts": 1789680023.400249
   },
-  "191f5e88c8eb4bd2f8e3bf5a601fd87a96934f243cbded1e75f8dd62ecfb46b8": {
-    "title": "Death toll from Philippine ferry fire rises to 76",
-    "ts": 1789259294.584231
-  },
   "19246e6c7a7e413b739d4b9f9e5821437e2d608d03be1945b51fc6f14b640d8d": {
     "title": "Oil’s next test: Saudi Arabia races to restore a key safety valve for prices",
     "ts": 1789467722.973597
@@ -478,6 +474,10 @@
   "1c52172fc63dafaba0ed12f02673b22e86dca8d40f7905164ba53924bff829fe": {
     "title": "The Purge: Princeton Faculty Reach Perfect Zero Support For Republicans",
     "ts": 1789744836.091724
+  },
+  "1c57bd248ceb48e036099c80ab79bc080cabebce22cc8757b838bff950c13f3e": {
+    "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
+    "ts": 1789866051.448439
   },
   "1ce6a79aef66cf08cda4c7e713899fd231c7182b9989ba079f4dc3d0f50902ae": {
     "title": "India vs Afghanistan live: T20 cricket match",
@@ -778,10 +778,6 @@
   "316def0e4f09e2c01b93067737390eb450aed4ac45fe94770a93247e7443f6de": {
     "title": "It’s almost impossible to sell a condo these days: ‘I feel trapped’",
     "ts": 1789759135.31556
-  },
-  "31b5d0044224412b0f4b852b77c92227950d213bb73abcca1af15689fa20aeb2": {
-    "title": "Teen rescued after clinging to boat for two days off Alaska",
-    "ts": 1789259294.584231
   },
   "31e30c35effe73b5b2f6f1f60b577448947505e26cdd23dfdf623d56871eff42": {
     "title": "A dignified life is a ‘distant dream’ for many Iranian families amid US war",
@@ -1166,10 +1162,6 @@
   "4e45fb9195bd88fe89265ddc7125c61d6879b3998cd99022fc8025afea7e4d0a": {
     "title": "‘This is a war’: South Africa battles femicide as women’s bodies pile up",
     "ts": 1789726856.526367
-  },
-  "4e6f6627c3c339755187bec2b284165b699a7b58c1c485fec230481bd421729f": {
-    "title": "Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know",
-    "ts": 1789259294.584231
   },
   "4ece706497b3559eaf2cd2b6ed612bb2375c1a799c4e506ac33f390584ce49dd": {
     "title": "Indonesia's new finance minister faces an uphill battle on fiscal credibility",
@@ -2007,6 +1999,10 @@
     "title": "Ilhan Omar attacker sentenced to more than a year in prison",
     "ts": 1789676518.48438
   },
+  "893e03a9691e311c93d88e7a8dd7c2a659152503857357676ddf5aa5b9d43ad1": {
+    "title": "HHS Awards $42.3 Million To Push 'Treatment First' Model For Homelessness & Addiction",
+    "ts": 1789866051.448439
+  },
   "896d8dc77089b00d8189fcceaf1b3618b2811928a3ea57c98dd49292e58ec263": {
     "title": "Former Assad officer sentenced to 60 years in US for torture",
     "ts": 1789698044.287051
@@ -2138,10 +2134,6 @@
   "92f9e44cb3246b2160630db7005b2eacfa054117140cf8afe32b970769cc2dda": {
     "title": "Inside the DOE's $16 Million Bet on Critical Minerals Talent",
     "ts": 1789680023.400249
-  },
-  "934a0e67292f162696ce154ad004c5f8e69200fbf63c0bd7dc1eac6d2a04478c": {
-    "title": "Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year",
-    "ts": 1789251570.318279
   },
   "93568fef549a326e1f70ff73757a267f3acc962d15b42a1c8a27640305a18b80": {
     "title": "StanChart Sees Higher Oil Floor as Hormuz Crisis Spreads to Saudi Export Routes",
@@ -2359,10 +2351,6 @@
     "title": "Chevron Targets Four Continents in New LNG Expansion Drive",
     "ts": 1789406393.121609
   },
-  "a0e7f288f815e9e4e8995275140c1c6acc313eb234967ea771222a7569691c41": {
-    "title": "First naval battle between drones takes place in the Black Sea",
-    "ts": 1789251570.318279
-  },
   "a11e1cb5ce218e6f08d27d53236f35ee704d0de297914309020769c34640ebea": {
     "title": "Third person dies from malaria in cluster near Germany’s Frankfurt Airport",
     "ts": 1789672765.304568
@@ -2447,17 +2435,9 @@
     "title": "A sudden end to the Iran war would strike a blow against oil prices and energy stocks. Yet company insiders are buying.",
     "ts": 1789820673.521939
   },
-  "a5e022f01445b34018e83f66efd2dedc377026c5ae1875ed278657179c0a001c": {
-    "title": "What Critics Keep Getting Wrong About Capitalism",
-    "ts": 1789255153.42908
-  },
   "a5e6aebf32d6bcf9927d0e63ecdcbf30d690b9c2877bb13df146c89230f57f9d": {
     "title": "Jerusalem Daily: Gaza’s children return to schools",
     "ts": 1789834811.94301
-  },
-  "a6a88d92518f624d6325d85400feb6b243947ae4be0179ce7f4ab26221cd4231": {
-    "title": "Mbappe double helps Real Madrid thump Rayo Vallecano 4–1 in La Liga",
-    "ts": 1789259294.584231
   },
   "a6c5935b471a6dc1b102383401ae9915ea6116514a5284d5063991ab47e5fd5e": {
     "title": "Video: Panicked voters scramble in Philippines polling station shooting",
@@ -2490,10 +2470,6 @@
   "a8645e53ec2f35273ac341ee5c20b5009186225be7fecfa274db09b5afcebe76": {
     "title": "Spectacular turtle nesting event in southern Mexico",
     "ts": 1789453706.340942
-  },
-  "a8706ea5fef3a8d1f17a5cc638c3fa369355a382a1db9cf39c08f54ab27b2be5": {
-    "title": "USA edge Spain to book Women’s Basketball World Cup final against France",
-    "ts": 1789255153.42908
   },
   "a8acf3dc1f9ee14d644cc10f1666d55834b8a0b0d1ef4b73323291102617b76b": {
     "title": "The Zionist dream of a state stretching from the Mediterranean to Iraq",
@@ -2630,10 +2606,6 @@
   "aeeb5f835241a2d6e3973b26347254906ac45373dcc049cbdb0644a13331988f": {
     "title": "Carney visits Europe: Can Canada seek refuge with the EU amid US trade war?",
     "ts": 1789485640.688413
-  },
-  "aeec58019c569b778b58c737056a69fc59962f86644c62326645c7a28acb37e0": {
-    "title": "Tens of thousands march across Germany to protest far-right party AfD",
-    "ts": 1789255153.42908
   },
   "af682426bbc1bf5ce201e2ef7ef4591c9408021a7e69ba190536c4341b197e06": {
     "title": "‘Silent Cold War’: Why calls to slow AI have sparked new US–China frontier",
@@ -2823,10 +2795,6 @@
     "title": "Why Bangladesh is struggling against measles epidemic despite 20m vaccines",
     "ts": 1789374216.128077
   },
-  "bfae91a244cb588c8ebbf658ef7a7feab2c36844158e676ee4fb0a6591947115": {
-    "title": "Elena Rybakina defeats Aryna Sabalenka in US Open women’s singles final",
-    "ts": 1789259294.584231
-  },
   "bfffc49e8dc4e8ce4f9f9a2fb52ed86cf5c97c9ab463e0ef9765bbf8ddf9a6e6": {
     "title": "Google’s Gemini AI hacks 3 companies in security test, then stops",
     "ts": 1789784413.80811
@@ -2938,10 +2906,6 @@
   "c78409335e2a2d69199ff0047520fb4bba5e37b599dd97c0a7d99c69bc331313": {
     "title": "US judge orders 30-day notice prior to any Kennedy Center physical changes",
     "ts": 1789683584.220405
-  },
-  "c789aa3b66e06e69402be6f3b7446bd4f72e749242d99b372e79134c06ece3f1": {
-    "title": "Arteta seethes at Sunderland penalty decision despite Arsenal win",
-    "ts": 1789255153.42908
   },
   "c7a4bf080de4996cd18333e71fe0553f5e1477a9e1601bb4ab4cec75bb48d978": {
     "title": "Auto Stocks Slide As VW Cuts Outlook, Industry Urges Trump To Keep BYD Cars Out",
@@ -3550,10 +3514,6 @@
   "f2c114ac60d4c985409176214b360988d2e54c235e8042ee0c00955c0a3fc981": {
     "title": "'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices",
     "ts": 1789579145.802346
-  },
-  "f2d493a1a08e3b6b6dfda17629c6f53944a18aa695e959e06140f56c6e1e3a64": {
-    "title": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
-    "ts": 1789259294.584231
   },
   "f2dbf19dad61bc7644da5cad1aaa7cfe95608dc71a7c2a92881cd3b6e98b9ee1": {
     "title": "Germany Weighs Market Incentives to Boost Record Low Gas Storage Level",
