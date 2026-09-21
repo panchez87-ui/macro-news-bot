@@ -51,10 +51,6 @@
     "title": "BingX Evolves into a Multi-Asset Trading Platform, Connecting Users to Global Opportunities",
     "ts": 1789475163.574076
   },
-  "045d083b14b259b77c6141ba31c79befd3c7d42d75d190b51efc77b1a9b6bc2f": {
-    "title": "StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes",
-    "ts": 1789341531.370718
-  },
   "0476d0ca1ea805a43a6f1ca0640c6ecee34799dc2f76d5501dce1e68591c62a9": {
     "title": "Bitcoin rises to $77.5k as markets look past Clarity setback",
     "ts": 1789716072.054157
@@ -86,6 +82,10 @@
   "075a5bb07b14e5d7f35f58475549c8edd0ac8374d24302ad785440c14fbe9242": {
     "title": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
     "ts": 1789489297.095051
+  },
+  "0796fb1092323e004d1cdb69d2f051b6fd5b30448dfe5432681e4736a52452d3": {
+    "title": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
+    "ts": 1789952515.270663
   },
   "0869517961987b22fab3da10d5fc20bb4d2702ee89812ee474cd43723f992294": {
     "title": "China rejects AI ‘threat narratives’, urges global cooperation",
@@ -206,10 +206,6 @@
   "0f43f2818ba99f61c592ee95101566babff8f6a5d455e11daa8f05ed91c3ce87": {
     "title": "East Asia: How AI is changing the way we bid farewell to loved ones",
     "ts": 1789820673.521939
-  },
-  "0f7ddf4fbb89c032dac79838033c189982efedc53e44d52c5b30065618874944": {
-    "title": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
-    "ts": 1789345752.021291
   },
   "0fb37588bd0ed69f19dd8bce4d0bec9b10eb255667b95bbde8196cda629ebfab": {
     "title": "US secures release of detained citizen Adam Castillo in Myanmar",
@@ -342,10 +338,6 @@
   "166cad031cf69e4ec8fcad760024382fd017db5ec2b40f92f69f70aa8a12930b": {
     "title": "We Are Not In A Recession... So Why Are We Borrowing Like It?",
     "ts": 1789644050.464544
-  },
-  "1676b3ca25dc958cd9ffa43eb22ffde72c2ca75dfb8cfce0927b5f8313d8520d": {
-    "title": "Arab Spring 2.0? Fuel Riots Erupt In Syria As Instability Spreads Across Mideast",
-    "ts": 1789345752.021291
   },
   "16faf6d83993113fca8d181e032feaa68f50bf08e727ddc09ae87b54ff553e69": {
     "title": "LIVE: Brighton vs Arsenal – Premier League",
@@ -534,10 +526,6 @@
   "216fe9b1dcea6b79ec21c035b7df97c2c13e748c409d2a14340fc3aa6c4c7555": {
     "title": "14-Country Maritime Defense Alliance Moves Closer To Deploying To Red Sea, Gulf Of Aden",
     "ts": 1789834811.94301
-  },
-  "219940d9cbb2217ef3a7c36f5b10f6797e26aee367a9d1376c85d36552564242": {
-    "title": "Trump dismisses calls for AI slowdown from leading tech CEOs",
-    "ts": 1789345752.021291
   },
   "219c3e37b5a6de0dd18bdec555485f1cfefbc12a471bb18620d0edcc02df3b31": {
     "title": "As Warren Buffett’s reign ends, fans should sell Berkshire — and buy these stocks instead",
@@ -818,10 +806,6 @@
   "3a6711a6e4889e66915e3a1925a2a47371635fbcc7fd9f7d7463b60873da3413": {
     "title": "EU urges US to lift travel ban on Palestinian delegation for UNGA meeting",
     "ts": 1789809616.295015
-  },
-  "3a8e3844d96ebf24015f83a768dd29df1549026f2a939f6926ca326f7ef9f223": {
-    "title": "Zverev defeats Shelton in four sets to win his first US Open title",
-    "ts": 1789341531.370718
   },
   "3b93456f1651ded93f0c92cf50d80b19240e67c8c2f00f1dab31b6bc671e8b99": {
     "title": "US court blocks Trump plan to deport migrants to third countries",
@@ -1243,10 +1227,6 @@
     "title": "What’s behind reports that the Israeli army is low on troops, equipment?",
     "ts": 1789823989.114878
   },
-  "59db3ff6bcd09bade8fa079752aecdb6f3922f863385fc544e248381f047f22a": {
-    "title": "Israeli quadcopter terrorises homes in Gaza City",
-    "ts": 1789345752.021291
-  },
   "5a9d302adf5996304dacee8de94991d6b90013c2601e613e034d646c06613bbf": {
     "title": "Why are election officials in the US preparing for chaos before midterms?",
     "ts": 1789568548.980963
@@ -1402,10 +1382,6 @@
   "6594dab27da28a9834f629eabf134093951e41b4d917697baadba0b95829513d": {
     "title": "Oil Prices Rise on Saudi Pipeline Outage and Rising Red Sea Risks",
     "ts": 1789453706.340942
-  },
-  "659a305ecc3c2f21942f7f45df9d38bd9ba1b3cc0916c475ca0df4646af26100": {
-    "title": "Shareholder Ownership Gives Way To Corporate Control",
-    "ts": 1789341531.370718
   },
   "659d73c49fdf1963b30e0c52cfdd555f0ccc58ddf45634e2421a813ba077c6d9": {
     "title": "Residents help battle forest fires threatening homes in Ecuadorian capital",
@@ -1646,10 +1622,6 @@
   "7aca4fc228a49bb42e5543d9acec0a60f661e1dadac1dc326b18bf3fcf0a2054": {
     "title": "Record Freight Costs Squeeze Russia's Black Sea Crude Exports",
     "ts": 1789399442.851599
-  },
-  "7ae4e0f2f55efb18921e93d6300096fa6692620b2dabc067ebe566158e48041f": {
-    "title": "Barcelona beat Levante as Yamal scores twice to maintain perfect start",
-    "ts": 1789341531.370718
   },
   "7b0415cb15f7153f46aadf5d1ad512d7b5b7bd56dbf5e3dfa7a23d967bb0a87e": {
     "title": "I just started dating someone I really like, but he’s moving to Mexico for six months. Should I spend the money to visit him?",
@@ -2395,10 +2367,6 @@
     "title": "Charlie Kirk statue vandalised outside Turning Point USA headquarters",
     "ts": 1789348826.030814
   },
-  "ac93895182ada04831dac979ce234b3e166d43533c4acf51cc1408b89e0ffea5": {
-    "title": "Truckers Hauled Hundreds Of Kilos Of Cartel Cocaine On US-Canada Freight Lanes",
-    "ts": 1789345752.021291
-  },
   "ad2f6d3b763d96ca548246666247f8e4b46d5643808b083f369916e586cf015c": {
     "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
     "ts": 1789683584.220405
@@ -2623,6 +2591,10 @@
     "title": "The UK’s King Charles warns AI leaders of ‘existential dangers’",
     "ts": 1789669471.242014
   },
+  "c15a63c3e01a707e044f142e89f805643003803e1fd90ff1acc6ee0a2c190161": {
+    "title": "Oracle Loans Backing Massive New Mexico Data Center Tumble To Stressed Levels",
+    "ts": 1789952515.270663
+  },
   "c1aeaf7df42ba25c3a900ed6e8384b31d76c0e1a80c8d373a0135262b99f082e": {
     "title": "\"I'd Be Okay With That\": Trump Says He's Open To Chinese Automakers Building Cars In US",
     "ts": 1789432160.824072
@@ -2802,10 +2774,6 @@
   "cd8dba61ea24ba978f7f24c1aea77a528d3772a3897cc39f9e5550ebd9da01bf": {
     "title": "France’s wine production nears a 70-year low, leaving winemakers with tough choices",
     "ts": 1789884453.26862
-  },
-  "cdcefc33ece359fc396721f54703d93f1517e04726a643316aabe9ce84db95a1": {
-    "title": "Could AI really kill us within a decade?",
-    "ts": 1789341531.370718
   },
   "cdd825415b2df5b4fd6d3d9be9a540620855d8c39dd3ba6021526da0d449a01d": {
     "title": "More than 100,000 displaced as they flee violence in Yemen: UN",
@@ -3510,6 +3478,10 @@
   "fed8f0509ac246f6151c52c331257d3c858290ffb6dcd36b991da284c27257a5": {
     "title": "Man Utd salvage Fulham draw as pressure mounts on Carrick",
     "ts": 1789932194.121194
+  },
+  "ff1318953a8af2bf2754654d8dcca628a246e058fbdb122d511bb34248e71d86": {
+    "title": "ICE officer shoots and wounds man in Austin, Texas, officials say",
+    "ts": 1789952515.270663
   },
   "ff28eda4c1c28c241e601bafc869aeba57545f36edd3672041b7d50829981222": {
     "title": "‘Attacks will be fully autonomous’: Russia, Ukraine race towards AI warfare",
