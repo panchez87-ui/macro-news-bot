@@ -675,6 +675,10 @@
     "title": "‘Columbia did not care’: Mahmoud Khalil files discrimination lawsuit",
     "ts": 1789424496.960935
   },
+  "2cc2a5ace121aac694e25ec3cddd85b23b4153f36e74c49b64015fb07d447afd": {
+    "title": "Iran’s military says US preparing to resume strikes",
+    "ts": 1789971265.565987
+  },
   "2cd71e577f5d1b76c732811f245abb946c1d2450a65a62c8aedf5d25a748a3a6": {
     "title": "Russia’s parliamentary election: Who’s on the ballot, and why it matters",
     "ts": 1789712750.950178
@@ -783,10 +787,6 @@
     "title": "Continental Resources to develop massive oil patch in Venezuela",
     "ts": 1789579145.802346
   },
-  "396baf80a5380e58884686cd4652d5cccb2c40b9a3ff61bf25635b22b9f1f06a": {
-    "title": "Niger mutiny exposes growing reliance on Russia",
-    "ts": 1789352514.760516
-  },
   "396c2419902e01c3d3334645d9e58646c00f557a1a8da2d2f98c6f797f75dbfc": {
     "title": "NATO jet shoots down suspected Russian drone over Lithuania",
     "ts": 1789503647.968969
@@ -830,10 +830,6 @@
   "3cc3fc1ed6fba0b9b71e8a738d7a50d0468191b6736657ca58cd9bb17dd53268": {
     "title": "UEFA defends policy after rejecting Ireland’s request not to play Israel",
     "ts": 1789834811.94301
-  },
-  "3ce39f8ac3ff75364f5869127a33f357f52377f2feb5e973ef7270de5bc68bf1": {
-    "title": "Heavy rain falls over the Kaaba in Mecca",
-    "ts": 1789348826.030814
   },
   "3d0e8416be5b5f305fbe6b8367c2ef98bd4465f525300002b5c7f5613b5c8d2d": {
     "title": "Gold is starting to move on something a lot bigger than inflation",
@@ -1151,17 +1147,9 @@
     "title": "Lebanon security talks in Paris to focus on post-UNIFIL alternatives",
     "ts": 1789644050.464544
   },
-  "5521d04a0fbca607c3677843653cf24598ab9864e3336d65d988abd8528aa32a": {
-    "title": "Philippines’ Muslim-majority Bangsamoro region votes for first parliament",
-    "ts": 1789352514.760516
-  },
   "55416d9a0cc9bce5eb401dd8a24c3a9eceaf145080490872708241cb55bc5dd1": {
     "title": "Champions League final venues revealed: Munich 2028, Barcelona 2029",
     "ts": 1789489297.095051
-  },
-  "5570c10c8152c95b3060f7649cbce97e93ac219eb3b6254aafac3c21cf51b7e8": {
-    "title": "Yemen’s Houthis advance on government strongholds of Marib, Taiz",
-    "ts": 1789348826.030814
   },
   "557c02f2c4296394df215a1199ae5cf162f99a8ce854dd1bcc8a149addb6a8b0": {
     "title": "US Senate crypto bill collapses in blow to industry",
@@ -1382,10 +1370,6 @@
   "6594dab27da28a9834f629eabf134093951e41b4d917697baadba0b95829513d": {
     "title": "Oil Prices Rise on Saudi Pipeline Outage and Rising Red Sea Risks",
     "ts": 1789453706.340942
-  },
-  "659d73c49fdf1963b30e0c52cfdd555f0ccc58ddf45634e2421a813ba077c6d9": {
-    "title": "Residents help battle forest fires threatening homes in Ecuadorian capital",
-    "ts": 1789363268.360582
   },
   "66353157cc2c29a8176c7103171a0b7c9fc61060bdcf7ff5fdd0fe7d8e3a6556": {
     "title": "Suspected bicycle thief dies during arrest in Netherlands",
@@ -1647,10 +1631,6 @@
     "title": "Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel",
     "ts": 1789532512.876211
   },
-  "7c61340a768912b0bb5c3a488d180bff15b7cf43b91fb0c00f6e64d379c81f01": {
-    "title": "Turkish authorities launch anti-LGBTQ raids, detaining dozens",
-    "ts": 1789359761.621873
-  },
   "7c6f54f633b284f3167f3fea8c5b83fa3dda6f431b82a69f574fa449a5bb8402": {
     "title": "Saudi pipeline closure is a brief interruption that will last days, U.S. Energy Secretary tells CNBC",
     "ts": 1789492765.770292
@@ -1670,10 +1650,6 @@
   "7da7954d7200d8045e5cf2df202b7098cac23c7f7ca726128b8980247a45eef0": {
     "title": "Norway’s sovereign wealth fund profits from Israeli holdings amid genocide",
     "ts": 1789568548.980963
-  },
-  "7db86fe4c7e156eb24be89aadfb21f7b58d1bf5590ea8cda303107683e5d2bc6": {
-    "title": "Baker Hughes sees no slowdown in energy projects despite higher rates as AI buildouts stoke LNG demand",
-    "ts": 1789359761.621873
   },
   "7de9aaa2d68ffd053139fce897793ad92f5ae9e39ca7cd92b9b0267f43fe6af6": {
     "title": "Alex Eala firm on Asian Games participation despite threat of WTA fine",
@@ -1911,10 +1887,6 @@
     "title": "Carney pitches Canada to global investors amid US trade war",
     "ts": 1789410262.564405
   },
-  "8e7593cb217a70034355aa62c083a3fbaac5ffd3c48c1487e7ab0208e7a28a57": {
-    "title": "Israeli minister threatens to revoke filmmakers’ citizenship over Gaza film",
-    "ts": 1789359761.621873
-  },
   "8eb81264abc217f746d602036f463be53ea3b26fed858e74db02087bd8016d61": {
     "title": "Netflix is too focused on podcasts and not enough on good shows, analysts say",
     "ts": 1789751914.609047
@@ -2110,6 +2082,10 @@
   "9ce843c66e671231368a5dec40fc7c4e877c4606c38fe5e1290e0faf3ecab946": {
     "title": "The Next Oil Shock Is Never the Last",
     "ts": 1789413691.850947
+  },
+  "9d0d75ea74ad3539e8069a17be646518c33a10c0a3e3c469e072ef61b86413cc": {
+    "title": "Meloni promises to ban burqas, niqabs in Italy’s schools",
+    "ts": 1789971265.565987
   },
   "9d730b0c5b93ef91bc49c8389302268fdcd4134d1c4017cf44fb99857c6b000d": {
     "title": "Hormuz Shipping Traffic Remains Stuck in Single Digits",
@@ -2323,10 +2299,6 @@
     "title": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
     "ts": 1789492765.770292
   },
-  "aa50447139c53874432b9c5d70143e9b57dcbef09117ed375fb7e4d986336172": {
-    "title": "Protests break out across Syria over fuel price increases",
-    "ts": 1789363268.360582
-  },
   "aaae47629303f40ec988696a8d14c66e50e7de1467c42aa8c79131f412baf0dd": {
     "title": "Who is NFL billionaire Robert Kraft?",
     "ts": 1789482154.06037
@@ -2362,10 +2334,6 @@
   "abd0f17d09c60a41da39f3f23a4a462ac9ef439c3dcbed29d65f66a2fef88d2e": {
     "title": "China willing to ‘safeguard Iran’s legitimate rights’, official says",
     "ts": 1789568548.980963
-  },
-  "ac3feec25f7bb407b207cfd452faff41849a98fac3e17e07e04445c9e4433a4d": {
-    "title": "Charlie Kirk statue vandalised outside Turning Point USA headquarters",
-    "ts": 1789348826.030814
   },
   "ad2f6d3b763d96ca548246666247f8e4b46d5643808b083f369916e586cf015c": {
     "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
@@ -2543,10 +2511,6 @@
     "title": "North Korea anthem played at South’s Bangladesh hockey match at Asian Games",
     "ts": 1789730406.355037
   },
-  "be013919d3de04ab6a18d70a3769a606c8a530a25893afd8103a62fee859fa58": {
-    "title": "Oil Prices Surge as Middle East Attacks Continue and Diplomacy Stumbles",
-    "ts": 1789356148.756993
-  },
   "be01d1a76a11f64b3ddcd0bed9f706a90bb95df6587525fe6b76c6c4863220ba": {
     "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
     "ts": 1789586398.263434
@@ -2707,17 +2671,9 @@
     "title": "Displaced Syrians dig through hills of garbage to make a living",
     "ts": 1789593703.896809
   },
-  "c954c1cea141d1f8b41bb12fd9149d068b57ece87795aa78303a32e6c4899e7d": {
-    "title": "Protests erupt across Syria over sharp fuel price hikes",
-    "ts": 1789348826.030814
-  },
   "c986c7789c05238343eb14dff9df61ebc8e495c9327e818ef10a058f80936d61": {
     "title": "Russia’s plans may include strikes against Ukraine’s allies, Poland says",
     "ts": 1789676518.48438
-  },
-  "c98f9f4853ad8347f03e566767e515e2229b5ef131ab3cd01eccbc6b215e09c1": {
-    "title": "Japanese PM-backed candidate wins Okinawa gubernatorial election",
-    "ts": 1789359761.621873
   },
   "c9ae0af7fa43a1d07b54236eb7c831e8b044f9ca5806f4b65e2c6ebb0aad8369": {
     "title": "Many young investors can’t afford to invest without their parents’ help",
@@ -2855,10 +2811,6 @@
     "title": "U.S. Oil Inventories Edge Lower as Fuel Demand Softens",
     "ts": 1789572059.998421
   },
-  "d58eae484423f4e770a99093c009b135ac42189cb5261ebb670d546a7e4dcb7e": {
-    "title": "Russia hits Ukrainian train shortly after Boris Johnson leaves station",
-    "ts": 1789359761.621873
-  },
   "d5f420e6aad8856612c8f6fc37761021859a3c0106fc2f4e1dd381f6298f01e0": {
     "title": "Libya Threatens Force Majeure As Oil Guards Shut Fields",
     "ts": 1789521607.667022
@@ -2898,6 +2850,10 @@
   "d7c11c6756601612f8d84965693f4e7a6e92b2ca1e80e6045d05d03b07930bae": {
     "title": "Futures Drop As Yields, Oil Prices Keep Rising",
     "ts": 1789478568.2729
+  },
+  "d84a9726b089155594abfc6b0a7bd97f954c505f47eea7146f4051c0f05ecf14": {
+    "title": "Oil Prices Slide as Traders Bet on Iran Diplomacy",
+    "ts": 1789971265.565987
   },
   "d8581e7a5b99f179842be76df2a5582149cb1beb7368c3b4495e775809795779": {
     "title": "Early in-person voting begins in the 2026 US midterm elections in Virginia",
@@ -3419,6 +3375,10 @@
     "title": "70% Of Swedes With Non-European Background Supported The Left In Narrow National Election Victory",
     "ts": 1789550502.150256
   },
+  "fb86367274333bbc3a4e29a445c95ada3347dcaf965a4f97624c608e8a537cc5": {
+    "title": "Oil falls as crude flows remain 'surprisingly strong'",
+    "ts": 1789971265.565987
+  },
   "fb889f2aebbc66d32c14816f0d4bdd0f02ab6deae83cda586bacabad1e9c479f": {
     "title": "South Africa slams planned US sanctions over alleged racial discrimination",
     "ts": 1789583014.716944
@@ -3442,10 +3402,6 @@
   "fbde18b48142476e12af6178ecd3f901c359903d1b3ac60f50b831d25f9a7320": {
     "title": "Police hiring standards matter. But they alone cannot stop abuse",
     "ts": 1789834811.94301
-  },
-  "fc0300f031b9857df8c941fa5dbe1ba1cde2ce6e3ebf04d49a96c0c1f3ad8fdf": {
-    "title": "Trump says U.S. may keep Iranian oil 'like Venezuela' as Gulf-Iran Hormuz talks stall",
-    "ts": 1789356148.756993
   },
   "fc0a07a57c277abde18a45a9245f0f0e245923fad3d4e560824d1258637e3fdd": {
     "title": "SpaceX Turns Turbine Maker as Musk Warns of Years-Long Equipment Shortage",
