@@ -99,17 +99,9 @@
     "title": "Trump administration approves sale of F-35 jets to Saudi Arabia",
     "ts": 1789683584.220405
   },
-  "0ade9013dc9a3d400416954af72071c2d04ce1cbb0d29c7a8381caf4653cfef3": {
-    "title": "DRC-Rwanda: Can Geneva talks break the cycle of war in eastern Congo?",
-    "ts": 1789525295.632587
-  },
   "0c64061e6d6441a77f4d93fde51dc466a1c4b2957c8edb9215d12c05f2cb3b7b": {
     "title": "Bitcoin falls below $76k as Clarity vote fails; Fed rate hike in focus",
     "ts": 1789543329.166162
-  },
-  "0cc3a3616582d7b15167a560862dc496535e222c988e3f16a6daae8b802715be": {
-    "title": "Saudi Pipeline Outage Hits an Oil Market Running Out of Buffers",
-    "ts": 1789518425.086393
   },
   "0d2c1c7a59264ef8f715fed2a3c73565744ae97551cb3ec6e67287194cb2e1fb": {
     "title": "Asian Games 2026: Top athletes and storylines to look out for",
@@ -143,10 +135,6 @@
     "title": "US secures release of detained citizen Adam Castillo in Myanmar",
     "ts": 1789672765.304568
   },
-  "0fddb2270c893f8a39b6766f62ecde2493240a3c935dfb116e3c1e5b17ca2d09": {
-    "title": "Is US health care too broken to cure cancer?",
-    "ts": 1789528890.436432
-  },
   "0fe82665903d64a9a4d24079f60542fa6f78ccdaa69aa7e70380988a1a5a5fae": {
     "title": "Russia Cuts Off Gas to Armenia Days After Diversification Announcement",
     "ts": 1789662155.88349
@@ -154,10 +142,6 @@
   "114a9d18fa69f7bde5f3aa9016572eb821a0cece1b0797c9ad40c8075466428b": {
     "title": "Shale Oil Now Makes Up 72% of Argentina's Crude Output, Data Shows",
     "ts": 1789593703.896809
-  },
-  "11f2b151b3257bab5ac9485fda69a4cb3118bc00ef94067349a11019f37d254f": {
-    "title": "Gaza residential building collapses, six families reportedly trapped",
-    "ts": 1789536024.748776
   },
   "12170d31eedcf004775000677ed89cf0d273b59f3105115aae5b8fab5abbd1d4": {
     "title": "Syria arrests five former al-Assad-era officers over strikes on civilians",
@@ -182,10 +166,6 @@
   "13473a1bbb84e069529102fc668b443d4528fa3119a9788846639544f368094e": {
     "title": "U.S. threatens to 'shut down' Iranian airlines as Houthis tighten pressure on oil route",
     "ts": 1790070759.439301
-  },
-  "1348100c60db3a784ae2bc4089336e7d7799595bbd2707e679b3694d64464db3": {
-    "title": "Why de-dollarization discussions are more talk, less action",
-    "ts": 1789518425.086393
   },
   "13c0aa7a3626b358d8ddd1469b74e8984d9dd22b303eb1a555a7c30b0af723b1": {
     "title": "Japan's Refiners Have Enough Crude to Last Through November, Industry Body Says",
@@ -267,10 +247,6 @@
     "title": "Oil rises amid worries of growing Iran-U.S. tensions after Bessent issues Iranian airline shutdown warning",
     "ts": 1790052286.170209
   },
-  "19f3ffd549112e88d857fbe8b831f94fd43cbf69b9fe6f054387eec9adefabe0": {
-    "title": "Attacks on Saudi oil expose Iraqi PM’s struggle to control armed factions",
-    "ts": 1789525295.632587
-  },
   "1a0daa1444e8421d5167f740dbd81a15d1d6075b68990b02919960173acde9dc": {
     "title": "Super Macklemore 64: Video game mocks Sheeran concert controversy",
     "ts": 1789777615.569948
@@ -319,6 +295,10 @@
     "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
     "ts": 1789866051.448439
   },
+  "1cdad789b811df501dad30189f8345ecaa054fad9620743e45651daa8e0b3bf2": {
+    "title": "Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms",
+    "ts": 1790142792.111318
+  },
   "1d6272cb4834c806a272d9dbbcc020449d11241930110ad87a355088e8cea04e": {
     "title": "Mexico’s Sheinbaum says she spoke with Trump as trade negotiations continue",
     "ts": 1789759135.31556
@@ -335,13 +315,13 @@
     "title": "LNG Tankers Push Through Hormuz Again as Qatar, UAE Fight Supply Crunch",
     "ts": 1789744836.091724
   },
-  "1fd6dce98f51092c838601a393ed7e71f5cec15a6141a6b1e17a4044b8775f51": {
-    "title": "At least 10 dead, dozens missing in Gaza building collapse",
-    "ts": 1789536024.748776
-  },
   "20271fdc3cfb78c94358b9cff1b3e93f5dd120316a9786a2bd0657b68ce72ca3": {
     "title": "UN findings show US strikes on Minab could be war crimes",
     "ts": 1789698044.287051
+  },
+  "20aaed0c5164471847c340aebdca61eb358b45302b14a0b46fa211bffc4ebd5d": {
+    "title": "US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz",
+    "ts": 1790142792.111318
   },
   "216fe9b1dcea6b79ec21c035b7df97c2c13e748c409d2a14340fc3aa6c4c7555": {
     "title": "14-Country Maritime Defense Alliance Moves Closer To Deploying To Red Sea, Gulf Of Aden",
@@ -423,6 +403,10 @@
     "title": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
     "ts": 1789777615.569948
   },
+  "2760bf6708777bc0b668898538dd2b55c1d46f3b1a1517462658ef5805aea9a6": {
+    "title": "Oil falls after U.S. and Iran talk for hours at UN meeting",
+    "ts": 1790142792.111318
+  },
   "27d5a52ff61340c8554789ae9cfb049cf7ec235eab32a0f4b1be9ee939dada0c": {
     "title": "Kpler Sees Oil Grinding Higher as Diesel Crunch Deepens",
     "ts": 1789662155.88349
@@ -475,9 +459,17 @@
     "title": "Four years on, Iranians reflect on impact of ‘Woman, Life, Freedom’",
     "ts": 1789572059.998421
   },
+  "2ea4dd592aaf7f27120b59b5283710b3da34286e9a5085527d39db64f4bfc848": {
+    "title": "Cooperation is the goal at the UNGA, but is it possible?",
+    "ts": 1790142792.111318
+  },
   "2eec3af859bfa2adf6a237cb261baa5006cdc3cd538c3c64cd13b8c791d3525c": {
     "title": "Trump-Xi Summit Cheat Sheet: New Deals, Extended Trade Truce, But No Breakthrough?",
     "ts": 1789827562.144311
+  },
+  "2f798316b23351a0eb83b2913dd7d4c4a0ebf200d0f594ed82ce434bd1fc3d25": {
+    "title": "Six-year-old sets Rubik’s Cube world record twice in three days",
+    "ts": 1790142792.111318
   },
   "2fd724138278d55b583cae5414b197c2b3869122d3317149021d665c358a9454": {
     "title": "Neturei Karta: Opposing Zionism",
@@ -518,6 +510,10 @@
   "36426cae55717c14d1b7afbb53beb1bbafa52a9c867c39df84f36dad9e84c929": {
     "title": "UK trade unions back motion to boycott and sanction Israel",
     "ts": 1789583014.716944
+  },
+  "365a054bcfc470ce728e1bc3a66a6d669988db9c0eeaae9284780068af08459d": {
+    "title": "Trump Backs Diesel Export Ban as Prices Hit Record Highs",
+    "ts": 1790142792.111318
   },
   "36da8752770151c6f65cf976f1cd119a6e9a984208cfb4db6a770f6675783dfb": {
     "title": "Sudan’s historical famine echoes through latest hunger crisis",
@@ -771,10 +767,6 @@
     "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
     "ts": 1790018407.844669
   },
-  "4ece706497b3559eaf2cd2b6ed612bb2375c1a799c4e506ac33f390584ce49dd": {
-    "title": "Indonesia's new finance minister faces an uphill battle on fiscal credibility",
-    "ts": 1789525295.632587
-  },
   "4f089bd15d917a54f8ab77fc7e7723c96d4e6f4b764e069f20b94408ca667169": {
     "title": "Fear and anger in South Africa as bodies of nine women found: What we know",
     "ts": 1789827562.144311
@@ -858,6 +850,10 @@
   "5759d778676f7caf555b17baea2603c022152641a613313579bb9b3fcbd706b6": {
     "title": "Goldman Sachs Sees More Upside in Gasoline as Diesel Crunch Deepens",
     "ts": 1789640512.766801
+  },
+  "57a2e44f6ee6a892c7d63fb56fcdcf11fbd5e350b91820fadd3525f652ca0193": {
+    "title": "Trump rallies Shield of the Americas coalition against drug cartels",
+    "ts": 1790142792.111318
   },
   "57f7d4aa39413c41fc049923bdddb2f203ae91e2bdab68a7f3ad1e217e13d11f": {
     "title": "Asian Games 2026: Dates, venues, sports and a growing accommodation crisis",
@@ -1159,10 +1155,6 @@
     "title": "‘Daughter of Damascus’ Assala performs in Syria after 15-year exile",
     "ts": 1789766386.596974
   },
-  "7c1fd7b6dc589b2da1d0aa4ae9ebbcf6d972c96161884722115cea854a28d673": {
-    "title": "Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel",
-    "ts": 1789532512.876211
-  },
   "7c72bd3cdb3f20235889f68a812b7c613b6101474d3089bdabfdc75449b39d5f": {
     "title": "Trump says US has ‘permanent control’ of Greenland security: Does it?",
     "ts": 1789813188.672063
@@ -1263,10 +1255,6 @@
     "title": "Iran war live: Trump confirms ‘very good’ meeting with Iran at UN",
     "ts": 1790122976.003717
   },
-  "83c9692eb90e37e0357cc921a2902b24962ba6e1539f593e991a904555867fc0": {
-    "title": "China’s defence chief warns against coercion, avoids US, Japan mention",
-    "ts": 1789532512.876211
-  },
   "842f4ff20cfacccb81e53600b1e82adef4becc845005c428fc3758cfbf27ae6c": {
     "title": "TotalEnergies and BlackRock Sign $1.8B Deal for African Oil and Gas Assets",
     "ts": 1789751914.609047
@@ -1287,10 +1275,6 @@
     "title": "As A Former Head Of MI6, It's Clear That Britain's Climate Policy Is Leaving Us Dangerously Exposed To Our Enemies",
     "ts": 1789820673.521939
   },
-  "87bd1dce9da0c2a86178e4172156a7da3cb67e82aa0d648e7847a59caa21d860": {
-    "title": "Panic on board Iranian plane as violent shaking rips cabin apart",
-    "ts": 1789518425.086393
-  },
   "884ee2ac1ef8ad73a7b9589378a7733c908c3d0da7ac43282895c241130db9a2": {
     "title": "Republican US senator slams Trump vaccine policy amid rising measles deaths",
     "ts": 1789590112.737107
@@ -1310,10 +1294,6 @@
   "896d8dc77089b00d8189fcceaf1b3618b2811928a3ea57c98dd49292e58ec263": {
     "title": "Former Assad officer sentenced to 60 years in US for torture",
     "ts": 1789698044.287051
-  },
-  "8a53c687ea4005796fdb6b039954f3d8edd9279cf24e5ed263244b24af7c49c4": {
-    "title": "Saudi Arabia cancels oil to Europe over East-West pipeline blast",
-    "ts": 1789525295.632587
   },
   "8a59a0bae0a8e7d01430fde5cb0887e4bba26ad536493c6c1b2f2d1992898724": {
     "title": "BASIS.pro Expands On-Chain Infrastructure with XDC Network Partnership and Zypher DAO as Auto Earn Goes Live",
@@ -1699,10 +1679,6 @@
     "title": "South Africans voice their anger as hundreds hold femicide vigil",
     "ts": 1789788022.952995
   },
-  "ab44a80119711388cea047b303e154a7c100a8a32b22e5d939a1e7ff135461c9": {
-    "title": "Oil falls as U.S. crude inventories reportedly rise, traders weigh Saudi pipeline closure",
-    "ts": 1789532512.876211
-  },
   "abd0f17d09c60a41da39f3f23a4a462ac9ef439c3dcbed29d65f66a2fef88d2e": {
     "title": "China willing to ‘safeguard Iran’s legitimate rights’, official says",
     "ts": 1789568548.980963
@@ -1710,10 +1686,6 @@
   "ad2f6d3b763d96ca548246666247f8e4b46d5643808b083f369916e586cf015c": {
     "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
     "ts": 1789683584.220405
-  },
-  "ad7eb115046a85fd5c519927fe45ede1845754167a903264b8347146f3aaf50f": {
-    "title": "Iran war live: Iran’s top diplomat heads to China as war drags on",
-    "ts": 1789518425.086393
   },
   "ad938f9c6cc1627d4aad52ea908aae531ee3afdabbb702db078632839abfcb31": {
     "title": "China faces oil challenge as prices soar and supply options narrow",
@@ -1758,10 +1730,6 @@
   "b2e57e6d1f46c30896b28ff49e27b5ffeb1b546420ccc543bab21b06f0331814": {
     "title": "Atletico Madrid beat 10-man Real Madrid 2-1 in feisty La Liga derby",
     "ts": 1789922765.790039
-  },
-  "b345f53213bd554678f622abb83dfbaa4696d90d7d72ebb575f1657331dbe359": {
-    "title": "Israeli soldiers rappel from helicopter in occupied West Bank",
-    "ts": 1789521607.667022
   },
   "b398ea6406ab51c6d47ce4470761e4e6ab47b95618b22800c4cce4eeddd67cb4": {
     "title": "Pakistan pledges full committment to defence of Saudi Arabia",
@@ -2059,10 +2027,6 @@
     "title": "Trump claims deal with Denmark gives US ‘permanent control’ over Greenland",
     "ts": 1789769991.824978
   },
-  "d28c6b4164a51a17fab8b21344f939d27d2ba8e3f52482645aeefe016b4e1b2a": {
-    "title": "Former Maduro ally pleads guilty to money laundering and fraud",
-    "ts": 1789521607.667022
-  },
   "d2b858c7bde6ac6f5d0c8ccb45c7524c19dbb3873b55c02205a7959d53629369": {
     "title": "What are Iran’s latest conditions to end its war with the US?",
     "ts": 1789906529.795668
@@ -2082,10 +2046,6 @@
   "d58bdf511189d2dc8e2716192a072610b6f7725a9c5ee6b28fb1780d0a74e24f": {
     "title": "U.S. Oil Inventories Edge Lower as Fuel Demand Softens",
     "ts": 1789572059.998421
-  },
-  "d5f420e6aad8856612c8f6fc37761021859a3c0106fc2f4e1dd381f6298f01e0": {
-    "title": "Libya Threatens Force Majeure As Oil Guards Shut Fields",
-    "ts": 1789521607.667022
   },
   "d61fec7cf4f4ca891fe97a3fe6b444701b26e9e731ea759888a5a32086fe9cb1": {
     "title": "Saudis Threaten Retaliation After Alleged Houthi Drone Attack On Mecca Crosses \"Red Line\"",
@@ -2259,10 +2219,6 @@
     "title": "Farmhouse holds 15.709 Bitcoin with $347K in unrealized gains",
     "ts": 1790088266.793599
   },
-  "e43224b1aa2dba0e6b085cfe6386398a3f9a5ab34cf654f8c0023be861eea670": {
-    "title": "\"I Like Them\": Trump Weighs In On Flock Surveillance Cameras",
-    "ts": 1789521607.667022
-  },
   "e4c554e30924576f9d0c7cbf6e83de44155d9e8eb4d7f8aad6e0753bfc667c82": {
     "title": "Real Madrid stars appear to hide Ceuta solidarity message",
     "ts": 1789554146.184369
@@ -2282,10 +2238,6 @@
   "e6c4c962f9cf5b0841904fe9b19affeac591f3d7ca0fa55380103015224ea0d5": {
     "title": "Bolivia’s Congress approves $1.9bn IMF loan amid protest threats",
     "ts": 1789795132.689402
-  },
-  "e7031bbb7440d41e2b53fb0edd9c6603eff835a7149bbfe5bbc33ac43ffb08f5": {
-    "title": "Israel started an anti-Qatar campaign, then scrapped it",
-    "ts": 1789525295.632587
   },
   "e71eefdc53589433b0ad8bd78ce8fd204fe5790618ecd4ec6708d598ff9b544c": {
     "title": "Energy Shock Puts Bank of England Under Pressure to Raise Rates",
@@ -2363,10 +2315,6 @@
     "title": "State funeral honours Hong Kong’s first post-colonial leader Tung Chee-hwa",
     "ts": 1789884453.26862
   },
-  "eccbb305e13d2a7220762bb44e5441e35390de4b2ebe32c7fa05d35ddaad6295": {
-    "title": "Iran war increasing inflation, straining US munitions: congressional report",
-    "ts": 1789521607.667022
-  },
   "ecd66e95041172cc7f91b07b696f8f72a4f4d82d8333f448ab4336abcf8eb96e": {
     "title": "Deadly blast hits mosque at Pakistan police complex",
     "ts": 1789734310.056764
@@ -2402,10 +2350,6 @@
   "ef5d2364d49eb7c6004af1a0e39a6ffa0bd5e947ab2131c800617568a4c6c276": {
     "title": "Brazil’s Lula announces welfare increases ahead of presidential election",
     "ts": 1789669471.242014
-  },
-  "ef7bfd5823d3e5d4df6b2021dfa20457e60ff1a66ce51f3460aa8c03631e7fa5": {
-    "title": "Saudi-led coalition intercepts drone headed for Mecca",
-    "ts": 1789521607.667022
   },
   "eff8e7af3f8b130e8a02351afdcb1f543f837d987ba1917928b323e5e23c8c84": {
     "title": "Carrick brushes off questions over his Manchester United future",
@@ -2498,10 +2442,6 @@
   "f83e0bc52733b44b69f7d1446010333192d3142cd28236c2fac57c8a7a9e13f5": {
     "title": "A sideways market and rising earnings are presenting opportunities not seen since ChatGPT first launched",
     "ts": 1789730406.355037
-  },
-  "f8467d1232edb20077ce05dacd14e6cdf5bf1a1d72ce800a9af51e687ae1f461": {
-    "title": "Anthropic CEO didn’t foresee the speed of global AI growth",
-    "ts": 1789528890.436432
   },
   "f8cf65176d9b7dae33bafb8f2ffc29484faa0307a7ca73093dad054f5da56f80": {
     "title": "Iran stages show of force during mobilisation campaign in Tehran",
