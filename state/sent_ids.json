@@ -63,10 +63,6 @@
     "title": "The Nepal floods question: When the Himalayas collapse, who gets warned?",
     "ts": 1789795132.689402
   },
-  "0ab5bf6c4a039e2e676bf5b2c12e02963d26e786e567528d3ec8fa135ce1fa44": {
-    "title": "Trump administration approves sale of F-35 jets to Saudi Arabia",
-    "ts": 1789683584.220405
-  },
   "0af5b7620733523219b6437d9213dfd6f2db6261363534bf9ab5efd8b2a60bd7": {
     "title": "‘Partial satisfaction’: Sri Lankans hail 2019 bombings ruling with a caveat",
     "ts": 1790243722.052417
@@ -118,10 +114,6 @@
   "12bc0bf5271694a618d0f58772fed8ca920a33f12a28bc4e3a7514d08c7f19ea": {
     "title": "Maybe the snowbirds are right? One state dominates this list of best places to retire.",
     "ts": 1789831166.994563
-  },
-  "12cb06ecf47353b53d5f1aa21e72a1a7590fa1fb4e52b08c3bffc50d57be9fcd": {
-    "title": "Saudi Pipeline Outage Could Deepen the Global Fuel Crunch",
-    "ts": 1789687056.05802
   },
   "13473a1bbb84e069529102fc668b443d4528fa3119a9788846639544f368094e": {
     "title": "U.S. threatens to 'shut down' Iranian airlines as Houthis tighten pressure on oil route",
@@ -366,6 +358,10 @@
   "316def0e4f09e2c01b93067737390eb450aed4ac45fe94770a93247e7443f6de": {
     "title": "It’s almost impossible to sell a condo these days: ‘I feel trapped’",
     "ts": 1789759135.31556
+  },
+  "32a14d3840a4193ccd3e007d5297530b5018a544e5ff64cc5db520ba1743ab32": {
+    "title": "At least 41 die as boat capsizes in DRC’s Lake Tanganyika",
+    "ts": 1790299518.0623
   },
   "342b9936349b31d4a4436cbd751b9669dba7a5bbaf6dd82e77759545a188b1d0": {
     "title": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
@@ -659,6 +655,10 @@
     "title": "Why a U.S. Diesel Export Ban Won’t Lower Fuel Prices",
     "ts": 1790288382.414236
   },
+  "596a8b72bccba72f26a06e6cd6c44e338657062034429f52d780a36f9864eda4": {
+    "title": "Argentina’s poverty rises to 32 percent under Milei with more pain forecast",
+    "ts": 1790299518.0623
+  },
   "59a109763e5d22e46184cfe5d2e99661cc035e424a5b6600ee4a0524c665eb39": {
     "title": "What’s behind reports that the Israeli army is low on troops, equipment?",
     "ts": 1789823989.114878
@@ -727,10 +727,6 @@
     "title": "Colombia eases gun restrictions despite fears of more violence",
     "ts": 1790088266.793599
   },
-  "62afff4b282269c76fdeaf2c31c7ce17facddbd1995bef187438594e60094c4a": {
-    "title": "What Yemen Really Means to the U.S.-Iran War",
-    "ts": 1789691228.427374
-  },
   "638b69630bbcf4019a40af656dd0a9d15a1f7371c79834bf5b9ccb7040a5ed1d": {
     "title": "US Veteran told he is ‘embarrassing’ uniform over Israeli bonds stance",
     "ts": 1789701655.835874
@@ -747,10 +743,6 @@
     "title": "US and China presidents discuss cooperation, trade and AI risks",
     "ts": 1790276609.970657
   },
-  "650925573b7bed6042d942f1611ca53b09a2891200dbbc6d1a460de27e72e1dd": {
-    "title": "Tunisia floods disrupt capital as heavy rain traps motorists and residents",
-    "ts": 1789694384.897363
-  },
   "66acff471dd69255a810ef3d572a9f7ad80f1b4e7635cdba348c2d2fda389b21": {
     "title": "Trump signs sweeping Russia sanctions over Ukraine war",
     "ts": 1789780754.610676
@@ -758,6 +750,10 @@
   "66cb8d4fdd0b2db53499134297721dac492a8b6eb6552662fa228209b3b2572e": {
     "title": "To the victor belong Venezuela’s spoils: Delcy Rodriguez’s UNGA about-face",
     "ts": 1790243722.052417
+  },
+  "6779cb07f182f675afd7366e9deb4de55710672c2d6f9552a48a64f02ad113a7": {
+    "title": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
+    "ts": 1790299518.0623
   },
   "6801b37fdeee80d897c8345ff12a3e5e38123e0cb5df48ae94edcda373b788ba": {
     "title": "NFL’s Azeez Al-Shaair honours another Palestinian girl killed by Israel",
@@ -783,10 +779,6 @@
     "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
     "ts": 1789922765.790039
   },
-  "6a57be020cf0d69a1c222ae3e5396dbcc1022c23bf5634cc88e923ac4a8d61e2": {
-    "title": "Iran expels Swedish diplomat in retaliatory move",
-    "ts": 1789691228.427374
-  },
   "6b8185fcf096c76cedc6e4b2db20c0c745bbe5175d3432b16b2ad9ad98135ec2": {
     "title": "AfD Preps Talks With Moscow To Reopen Cheap Gas Flows To Germany",
     "ts": 1789744836.091724
@@ -794,10 +786,6 @@
   "6d2ba44bb4415a5d73ed2a0ae761dac6e4d52bdd479637c864415afed79130c5": {
     "title": "Saudi Export Pivot Sends Brent Below $105",
     "ts": 1789751914.609047
-  },
-  "6ea217c93b42ed4f34ce41b259f8b56fbbcfb4dcf37f2192443a04a55a1ced25": {
-    "title": "US approves visas for top Iranian leaders to attend UN General Assembly",
-    "ts": 1789683584.220405
   },
   "6eb24dd66acce3f1954b53c19e7479a474a72a26156511065dabaa4966b47ee8": {
     "title": "Ronaldo keeps Portugal place for Nations League as Jesus names first squad",
@@ -927,10 +915,6 @@
     "title": "Bayern and England’s Kane not focused on Ballon d’Or despite 73-goal season",
     "ts": 1789726856.526367
   },
-  "8111199dcd3e92259ed3f7092ddbd3c8fc760187d646d42f7bd5e9561d66da22": {
-    "title": "Yemenis recount journey to Djibouti as refugee arrivals surge",
-    "ts": 1789683584.220405
-  },
   "8134291a181208bc9c98a19d3820c532ace7894140815bdd798c20ca7ec3b300": {
     "title": "FIFA’s Infantino ‘must go, no ifs or buts’, blasts German FA vice president",
     "ts": 1789737621.400479
@@ -938,10 +922,6 @@
   "81d244d6dd98a792d2421081f834746fcf212c1ca01da7e9e30dff882ff62562": {
     "title": "Princeton’s 15-year run as the nation’s top college is over. MIT is now No. 1.",
     "ts": 1790052286.170209
-  },
-  "81fdd9d2f318251272c3ea4bdc9da5a0fc425ee16f2cdab3fe8d05ea3254f44d": {
-    "title": "Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz",
-    "ts": 1789691228.427374
   },
   "823d1b1f91126b231bcf1b30ad1a31b35feca7b7e017129d348d31e89c96ad68": {
     "title": "Journalists locked out of the White House after Trump ban",
@@ -1035,10 +1015,6 @@
     "title": "What’s the US–China AI ‘hotline’ that Trump plans to pitch to Xi Jinping?",
     "ts": 1789999148.567874
   },
-  "9068dd3d2df806db80637aa6b7b8f5abd16c98e9bbc074affc06fe8c1041a4a3": {
-    "title": "Russia election: Could other parties challenge United Russia?",
-    "ts": 1789687056.05802
-  },
   "915520a55cd4b25c8c095a0c023e8b58aae3f684adc26cb07bfe24bee26bba04": {
     "title": "AI leaders want to ‘pace the frontier’ as part of a safety slowdown. But how?",
     "ts": 1789816732.413122
@@ -1075,17 +1051,9 @@
     "title": "Saudi Arabia Cuts Europe Off From October Crude as Gulf Exports Surge",
     "ts": 1789755766.857606
   },
-  "95c06b6eef3bf1bb112654b26efae2a0172f1518d0113149deb83b0edb70711a": {
-    "title": "Migrant crossings to Europe by sea drop sharply amid heightened risks: IOM",
-    "ts": 1789691228.427374
-  },
   "9659ebd10ec306e510454bbc1dd2774f23fb79f601d0f490ae2100533bb93013": {
     "title": "Critics in meltdown over US cheese giant Tillamook halal label",
     "ts": 1789705274.914405
-  },
-  "96f8e42658d59a8661d79cc9027532cd7b185e47f6130cb3574bb452385ee584": {
-    "title": "US approves $414M uranium investment in Niger, two years after troops left",
-    "ts": 1789691228.427374
   },
   "984359c05884a4c7542cbe93ab17b1bfe086364a043ed22ee62c53552e374c20": {
     "title": "As AI leaders warn of catastrophe, US and China shun slowdown calls",
@@ -1098,10 +1066,6 @@
   "99188299687d1f3947aefd33acd6fecf447278498d4669deb295f05b47a27427": {
     "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
     "ts": 1789766386.596974
-  },
-  "99657fb95a9e21a8c554f810aef920f108c1f31bfa52bee47f0302c1a1ced2dc": {
-    "title": "Trinidad and Tobago ends state of emergency amid pushback over mass arrests",
-    "ts": 1789687056.05802
   },
   "9a0a56f17896cfd355f714c03cb97453b28fda28cc9668a96ed2f4e8acc0249c": {
     "title": "Photos: Nepal flood survivors find little trace of former lives",
@@ -1235,10 +1199,6 @@
     "title": "South Africans voice their anger as hundreds hold femicide vigil",
     "ts": 1789788022.952995
   },
-  "ad2f6d3b763d96ca548246666247f8e4b46d5643808b083f369916e586cf015c": {
-    "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
-    "ts": 1789683584.220405
-  },
   "ae1794b71a85ec89b769284f20780fe88eb6464aeb9c35762a2bf411aeaee2d0": {
     "title": "China’s Fuel Exports Surge as Global Diesel Shortage Deepens",
     "ts": 1789723262.020775
@@ -1278,6 +1238,10 @@
   "b497fc6b725f856835653b098ebc625c57ff006e7e41a5b91153631a2ffa2122": {
     "title": "Qatari Emir says country won’t ‘limit’ itself as Gulf ‘mediator’",
     "ts": 1790114454.187355
+  },
+  "b547664e21c34c286ff2ae502d8a50103ff6fb3d5858769b5e4b11c425a90ad7": {
+    "title": "Brazil’s Lula and Flavio Bolsonaro still essentially tied in new poll",
+    "ts": 1790299518.0623
   },
   "b74d064da9582fe286781af9515949b4159e0a0f2bb37dafb3c14d5808b36456": {
     "title": "Two signs investors don’t have to fear an AI slowdown",
@@ -1390,10 +1354,6 @@
   "c6e8dcc7160d5b3229f454fdbf3bb0c86df87b7f60e05f1c774fa11837c765b8": {
     "title": "Want to retire with more money? Leave the U.S. early in your career — and then come back.",
     "ts": 1790114454.187355
-  },
-  "c78409335e2a2d69199ff0047520fb4bba5e37b599dd97c0a7d99c69bc331313": {
-    "title": "US judge orders 30-day notice prior to any Kennedy Center physical changes",
-    "ts": 1789683584.220405
   },
   "c7a4bf080de4996cd18333e71fe0553f5e1477a9e1601bb4ab4cec75bb48d978": {
     "title": "Auto Stocks Slide As VW Cuts Outlook, Industry Urges Trump To Keep BYD Cars Out",
@@ -1846,10 +1806,6 @@
   "f92c66b5ce490a76ed0d56248a62f7d5e84bab9e389b05143b4c17ce79c87ca4": {
     "title": "Oil Prices Head for Weekly Loss as Saudi Export Fears Ease",
     "ts": 1789712750.950178
-  },
-  "f956900739fc7680384321942244807656e59ece94d2a517e4204e5f32e80094": {
-    "title": "Turkey Bets $108 Billion on Wind and Solar While Expanding Oil and Gas",
-    "ts": 1789683584.220405
   },
   "f9a06b1ce5ba8a15a1a9c35cdde1af1b5c463cdb3ce49e6632e9613f22d3e058": {
     "title": "\"Not Enough Raw Material!\" - Resource Wars Put Tungsten In Crosshairs As Western Rearmament Supercycle Looms",
