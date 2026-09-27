@@ -11,10 +11,6 @@
     "title": "China is playing a different game when it comes to AI",
     "ts": 1790427628.544818
   },
-  "027ccce3e85e6725e9c056d5ac37a72b4ac1dea8f816c2d497217e184e67b50c": {
-    "title": "Hormuz Crisis to Push Global Coal Demand to Record High",
-    "ts": 1789932194.121194
-  },
   "034275df6f24a9965f95783bb5063c0860b7d42b5664842e73ac4936c6cd7403": {
     "title": "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
     "ts": 1790374487.226335
@@ -126,6 +122,10 @@
   "1cdad789b811df501dad30189f8345ecaa054fad9620743e45651daa8e0b3bf2": {
     "title": "Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms",
     "ts": 1790142792.111318
+  },
+  "1d9ab283f32ae710742eb4931313ce072f5cafe2789901691075ce42f485dcd9": {
+    "title": "Palestine Action protesters arrested in Liverpool",
+    "ts": 1790539491.531074
   },
   "20250fe902d7a65a6d894adb45e9bf1dd9d5a205d1ccce14bfe6140df4ada958": {
     "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
@@ -270,10 +270,6 @@
   "407dabda056023c8725b0bb6bbb2081935890542880532891b2b43b842c094d8": {
     "title": "Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war",
     "ts": 1790070759.439301
-  },
-  "433170683ef3d06d2e7c8dc6c338c6e53ea02af9401ce2a86d901f70e4e08cd7": {
-    "title": "How will Saudi Arabia deal with the Houthis?",
-    "ts": 1789932194.121194
   },
   "44098f49917f39f1544298849cb682ce073e1ace7964a9b64cbed188a26f9a8f": {
     "title": "The market's new 'super-cycle' hedges for world whipsawed by supply shocks and inflation",
@@ -590,6 +586,10 @@
   "8ecfe1ec71f2c71097bb1eb97f701539c190d483201be5e1128af2dae4d6d3da": {
     "title": "How and why the UN General Assembly is gaining prominence",
     "ts": 1790182168.223505
+  },
+  "8eede1a6bf11808d1992cafae85c9c3025f2cc21e762c2fda060a355edc5c4a6": {
+    "title": "Stuck between Israeli military checkpoints",
+    "ts": 1790539491.531074
   },
   "8f61604705a69cce8b594daa89167b5228560eeb31b8152b523f63397db9a723": {
     "title": "White House Cancels Coverage For 750,000 ACA Enrollees, Citing Fraud",
@@ -959,6 +959,10 @@
     "title": "Ivory Coast vs Ghana: AFCON 2027 qualifier, kick-off time, lineups, teams",
     "ts": 1790194490.075159
   },
+  "df756e77b89fcaccd947598080dd0ce89fb7626efa3674eaa5e61881d0f9bcde": {
+    "title": "The Next Global Energy Crisis Won’t Come From Just One Direction",
+    "ts": 1790539491.531074
+  },
   "dfef9411dd80c5437ae88cd82ac6a1c3013b6d003aa2da29f61a6a3f288cfee3": {
     "title": "How is Gen Z investing their money? Over a dozen share their strategies for today’s market.",
     "ts": 1790261864.938207
@@ -1102,10 +1106,6 @@
   "fdae964229f905510625fe91a0c4319534b3d2a736b70053b324062c52115912": {
     "title": "Poland boosts air defence after ‘Russian provocations’ amid Ukraine war",
     "ts": 1790361060.387194
-  },
-  "fed8f0509ac246f6151c52c331257d3c858290ffb6dcd36b991da284c27257a5": {
-    "title": "Man Utd salvage Fulham draw as pressure mounts on Carrick",
-    "ts": 1789932194.121194
   },
   "ff1318953a8af2bf2754654d8dcca628a246e058fbdb122d511bb34248e71d86": {
     "title": "ICE officer shoots and wounds man in Austin, Texas, officials say",
