@@ -23,10 +23,6 @@
     "title": "Microsoft’s stock has roared back to life, closing at its highest level of the year",
     "ts": 1790374487.226335
   },
-  "0796fb1092323e004d1cdb69d2f051b6fd5b30448dfe5432681e4736a52452d3": {
-    "title": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
-    "ts": 1789952515.270663
-  },
   "0a0e199491b6f2304259513bab4c175a70578c3257618b5f250b8f20ad638f35": {
     "title": "3 questions to ask your parents about their estate plan — other than ‘How much money do you have?’",
     "ts": 1790182168.223505
@@ -138,6 +134,10 @@
   "219202d923eb562d6e60225e5f819e11a6d5af3785488134c57d8db6c2603815": {
     "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
     "ts": 1790276609.970657
+  },
+  "21a86d6f00a55041da2f94ed4c1ae609f8580930f2ac52dd69c5fc996e293990": {
+    "title": "Refugees in South Africa fear new attacks as September 30 deadline looms",
+    "ts": 1790559288.708853
   },
   "2248aca5708fccc4028aea3647e0bab9008d658de214eb28410929a219501a95": {
     "title": "US signs ‘tremendous’ security deal with Denmark and Greenland",
@@ -531,6 +531,10 @@
     "title": "As major powers act unilaterally, experts say UN faces crisis in New York",
     "ts": 1790194490.075159
   },
+  "80f1b40d81cee192957d0dd3a50700295a5a6e5b502b7200790aa17487fb69e5": {
+    "title": "South African police discover body of 11th woman near Johannesburg",
+    "ts": 1790559288.708853
+  },
   "81d231173ab476f76415a9f654f4cbc63304d26311522458b4f50f6930bfc610": {
     "title": "‘We were wrong.’ Why Morgan Stanley changed its tune on the U.S. dollar — and what it expects now.",
     "ts": 1790343604.833047
@@ -827,10 +831,6 @@
     "title": "Qatar urges diplomacy, rejects Strait of Hormuz ‘bargaining’",
     "ts": 1790102907.748514
   },
-  "c15a63c3e01a707e044f142e89f805643003803e1fd90ff1acc6ee0a2c190161": {
-    "title": "Oracle Loans Backing Massive New Mexico Data Center Tumble To Stressed Levels",
-    "ts": 1789952515.270663
-  },
   "c1cdaaa1f0fa5b2169a13d335246e1b8a315f7342a9fe6edaf5173e4a066d089": {
     "title": "Global Refinery Crunch Pushes Diesel Prices to New Records",
     "ts": 1790032439.756073
@@ -1106,10 +1106,6 @@
   "fdae964229f905510625fe91a0c4319534b3d2a736b70053b324062c52115912": {
     "title": "Poland boosts air defence after ‘Russian provocations’ amid Ukraine war",
     "ts": 1790361060.387194
-  },
-  "ff1318953a8af2bf2754654d8dcca628a246e058fbdb122d511bb34248e71d86": {
-    "title": "ICE officer shoots and wounds man in Austin, Texas, officials say",
-    "ts": 1789952515.270663
   },
   "ff3a5888715cb81db659f524d435fc3adf732f438a53ee8d3ec51337e251eb69": {
     "title": "Houthi attack on Mecca, Medina would cross ‘red line’, Pakistan PM tells UN",
