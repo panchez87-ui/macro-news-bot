@@ -1,8 +1,4 @@
 {
-  "003a7e4c6660f7a76705b32f9b822d97e5a47dff55ec8e2a90b04ebf9aa3e555": {
-    "title": "Gunman opens fire near high school in western Turkiye, wounding eight",
-    "ts": 1790070759.439301
-  },
   "00d5b29ab7eceb46b87317a080d19a107093c2b2e0e6caed437ff7e1db75faab": {
     "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
     "ts": 1790617018.685746
@@ -82,10 +78,6 @@
   "12866c64ff4620267d13c53522e5452df24407d1adf559efa7e92776d978271c": {
     "title": "Record-breaking diesel prices look set to push grocery bills even higher — and Thanksgiving is getting closer",
     "ts": 1790194490.075159
-  },
-  "13473a1bbb84e069529102fc668b443d4528fa3119a9788846639544f368094e": {
-    "title": "U.S. threatens to 'shut down' Iranian airlines as Houthis tighten pressure on oil route",
-    "ts": 1790070759.439301
   },
   "135cfa8d665b2cd03d97f82e295b0197757df6de8c2067f13d27c0c3ac8a693c": {
     "title": "Spain’s Sanchez warns of far-right threat in UNGA speech",
@@ -183,6 +175,10 @@
     "title": "‘Source of anxiety’: Pakistan cracks down before march to free Imran Khan",
     "ts": 1790243722.052417
   },
+  "2535fc90ffd87f130acb90d4bdac60bece1ec4c1422aa7b7fef7d409350d34ad": {
+    "title": "Hormuz and Yemen: Iran offers de-escalation at a price others will pay",
+    "ts": 1790685767.137302
+  },
   "25c2f83c4cc82a2a83b6f731272df84f8f774742e2ba0c8e4a3f39b835f62fd8": {
     "title": "Oil extends gains as Middle East supply concerns persist",
     "ts": 1790660196.806963
@@ -223,6 +219,10 @@
     "title": "Yemen government forces claim control of Mount Qarfan in Taiz",
     "ts": 1790162763.796122
   },
+  "2fd80fa53280df6d65b5de490dee339916b58a415703427989c943461a4b6221": {
+    "title": "Can Tajikistan’s economic boom survive its debt gamble?",
+    "ts": 1790685767.137302
+  },
   "301ea4567fabab19c70de2e39bed8193a2d8cda46d8dc172849a0cd7fac9f5db": {
     "title": "Selena Gomez sells her Encino mansion, once owned by Tom Petty, for $5.4 million",
     "ts": 1790243722.052417
@@ -250,10 +250,6 @@
   "3547af31f4b21fca5791b141d9d68be004b52e8125a5d755b5b23c68d1f48d01": {
     "title": "DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins",
     "ts": 1790288382.414236
-  },
-  "35a492b33fcbf001a9a551b7cf8be0fee8845a597c86ee99e66ff0da7c2c76b7": {
-    "title": "What this machine-learning model with 65% accuracy says is coming next for the 10-year Treasury",
-    "ts": 1790070759.439301
   },
   "365a054bcfc470ce728e1bc3a66a6d669988db9c0eeaae9284780068af08459d": {
     "title": "Trump Backs Diesel Export Ban as Prices Hit Record Highs",
@@ -311,10 +307,6 @@
     "title": "Manchester United losses jump nearly a third to $57m despite record revenue",
     "ts": 1790194490.075159
   },
-  "407dabda056023c8725b0bb6bbb2081935890542880532891b2b43b842c094d8": {
-    "title": "Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war",
-    "ts": 1790070759.439301
-  },
   "42eb7be339450adc69bfd322259538e9c2f56ab66af905537fed013ea972abc5": {
     "title": "Public transport drivers strike in Manila over soaring fuel prices",
     "ts": 1790660196.806963
@@ -338,6 +330,10 @@
   "45385fa81e01a4c3e061fbc47233d514290e576a2416e26e47df682d54cd5448": {
     "title": "Bessent Emerges As \"AI Czar\" Frontrunner",
     "ts": 1790114454.187355
+  },
+  "459bf08030d41a8396891359972f507a07e853b03c0a1e16cce3acfe6704d471": {
+    "title": "Taking Ozempic and worried about vision loss? This test can help you understand your risk.",
+    "ts": 1790685767.137302
   },
   "46516ba254f4b21ebcf64326265fde6b2428126da120a6e09d845d73e53e0773": {
     "title": "Asia's Crude Imports Hit Highest Level Since the Iran War Began",
@@ -366,6 +362,10 @@
   "499970bd7834e37f92007487bdc65f46fc296c54f28338da9e1834238bed10d0": {
     "title": "Activist Toms Capital urges Devon Energy in letter to explore alternatives, including a sale",
     "ts": 1790182168.223505
+  },
+  "4a212603e1fc8d2816cf5bee65eeba413a2c62782a23a7ad15002f92770316c8": {
+    "title": "Tether Says It Helped Freeze $550M In Iran-Linked USDT This Year",
+    "ts": 1790685767.137302
   },
   "4c72d831eb66bc78ab4f2e4e891cce7a1e3866cdadb53a32a563edf2971b913e": {
     "title": "Argentina’s Milei says UN ‘looking the other way’ on Falkland Islands",
@@ -435,10 +435,6 @@
     "title": "Argentina’s poverty rises to 32 percent under Milei with more pain forecast",
     "ts": 1790299518.0623
   },
-  "5b21dcac716162aace174cf259daebfb63ac668ab5c37b6ebe56ad6901bef58a": {
-    "title": "Amanda Seyfried splits with husband Thomas Sadoski, weeks after listing L.A. home for $3.2 million",
-    "ts": 1790070759.439301
-  },
   "5dbad5e343d57ec82c04d55405c7d38a5ed9f458d94a81cdba800a7cb0aac7d0": {
     "title": "U.S.-Iran Talks Revive June Plan for Ending Hormuz Standoff",
     "ts": 1790343604.833047
@@ -503,6 +499,10 @@
     "title": "US Gasoline, Distillate Inventories Continue to Fall as Crude Stocks Hold",
     "ts": 1790114454.187355
   },
+  "6aede7bfd86879c56de993bc29a10427692b559f5fd50b62c3d389ff6e604895": {
+    "title": "Turkiye arrests president, six members of football refereeing body in probe",
+    "ts": 1790685767.137302
+  },
   "6baf09294841fa99587d0e8d84dd6a3491a0fcabc4bf64bdd281a08f56e32b6e": {
     "title": "Tens of thousands attend right-wing protest over Ceuta migrant crisis",
     "ts": 1790456603.596276
@@ -542,6 +542,10 @@
   "76c4ef7bc812baf532ab6cfdeceacbaebaf23b3230d0bdaeef5f4bb0c0544c07": {
     "title": "Canada’s Oil Patch On Track For Biggest M&A Wave In A Decade",
     "ts": 1790206661.951291
+  },
+  "7722976e82a24bc1572a7e446af7a55182372c93245d4229c587ec9bee2fc557": {
+    "title": "Oura Shelves $2.2 Billion IPO Despite Strong Demand As Listing Delays Mount",
+    "ts": 1790685767.137302
   },
   "775e5c50c12a111c0258a34a1d769fce029faf0881578ee9f7469aa67aea9ad5": {
     "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
@@ -615,9 +619,9 @@
     "title": "Who is Gavin Bazunu, and why is he boycotting the Ireland vs Israel match?",
     "ts": 1790528078.098502
   },
-  "86e2299be508536d83b8584832cd3e7cb2796ea35e80f631ec7052a943072513": {
-    "title": "‘She gave a neighbor $2,000’: Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?",
-    "ts": 1790070759.439301
+  "85e5c311891639f1082709ae8c5d58061e672d7174377808baf17f1e616c589b": {
+    "title": "21X LLC Seeks Regulatory Approval to Operate as a US Broker Dealer and Appoints Ray Tierney as CEO",
+    "ts": 1790685767.137302
   },
   "89282fd9dfba1d99d508b7ef608d915287e8b1b5b411c2f69abe13a1ff5e7fd8": {
     "title": "Oil falls amid optimism over potential diplomatic solution to the Iran conflict",
@@ -627,17 +631,9 @@
     "title": "Global Energy Demand Set to Jump 60% by 2060 as Developing Nations Power Up",
     "ts": 1790114454.187355
   },
-  "8ca0b7293350c5cada5ce8d58f39d9277ed8eafd686ec489b6ca483866061835": {
-    "title": "Margex Launches $2.7M ETH Airdrop Campaign Celebrating 4 Years of Proof of Stake",
-    "ts": 1790070759.439301
-  },
   "8ca0ef9863732a512f34e285738a611314f7ece6714d8bff1b27a458676d8964": {
     "title": "The AI ‘scare trade’ is finally hitting banks. Bargain hunters should take note.",
     "ts": 1790194490.075159
-  },
-  "8d46a8498feeec580b46aae55cebee2aeb516d7703010d19e21ee0e4ab3ff5b8": {
-    "title": "India’s Oil Import Bill Jumps 48% as Crude Prices Soar",
-    "ts": 1790070759.439301
   },
   "8ecfe1ec71f2c71097bb1eb97f701539c190d483201be5e1128af2dae4d6d3da": {
     "title": "How and why the UN General Assembly is gaining prominence",
@@ -670,6 +666,10 @@
   "92ddf328fe5f4fd4796af04fe2d9b0b9c5ad4374dc27f236d9541ca4c5f594a8": {
     "title": "Yemeni government in military and diplomatic push to reverse Houthi gains",
     "ts": 1790182168.223505
+  },
+  "93e05f1d7a38d41d7e34f555734d72c653bc64cfed3b3a0495f7f43355b4df45": {
+    "title": "What did Yamal say to Messi at World Cup final? ‘Thank you for everything’",
+    "ts": 1790685767.137302
   },
   "94f457223e7ca1f8f05fbca01408596e96611352df0f62587dfdca1cfd3b98de": {
     "title": "Nuclear Safety Brings America Into Russia's Uzbek Energy Project",
@@ -707,10 +707,6 @@
     "title": "Lula warns against foreign interference, defends Brazil’s sovereignty at UN",
     "ts": 1790102907.748514
   },
-  "9c4a73699ba63a235c8542cc549eaae22f2b4f9d7add975f68789ec8a785eb41": {
-    "title": "‘Deadly hazards’: Behind Sudan gold mine collapse, a wartime desperation",
-    "ts": 1790070759.439301
-  },
   "9efed94950b76b7709a894d8c6d96bb49c608106fcc0a036bf97fd341d3e97e5": {
     "title": "Libya’s Largest Oilfield Hit by New Armed Group Blockade",
     "ts": 1790088266.793599
@@ -722,6 +718,10 @@
   "9f7056df76c8fa0537996ae0bce9c3ac43f5bb8e2515467b9c96d2dbc3794d3d": {
     "title": "Harvey Weinstein sentenced to 15 years in sexual assault retrial",
     "ts": 1790194490.075159
+  },
+  "9fde669bf213f44eb65557d4920eb8a58568a6d67740315f33f28c259267113d": {
+    "title": "Iranians stock up on food and medicine as fears of new US fighting grow",
+    "ts": 1790685767.137302
   },
   "a3ab7c2f13a0dd402a8c67f143d85d9ef3f8ee768adaffaebd8e300db38e220b": {
     "title": "Calls to Overhaul the UN Security Council Gain New Momentum",
@@ -758,6 +758,10 @@
   "a6d39b946a39e67594b42fa011b282bd0c43b9f3131d678d5aab5a71b0e01539": {
     "title": "Everyone knows Social Security and Medicare are on the ropes. Here’s what to do instead of panicking.",
     "ts": 1790261864.938207
+  },
+  "a736f2a273014ee0acdab5a67bed57f4e676e95fa98352d7d6b58ef004893c88": {
+    "title": "India Looks to Boost Exploration as Hormuz Crisis Threatens Supply",
+    "ts": 1790685767.137302
   },
   "a74966cfd16b02193b40734ccc48df73c518b9c1244677f8a3619ece470260ae": {
     "title": "This is why you might see 8% mortgage rates soon",
@@ -843,10 +847,6 @@
     "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
     "ts": 1790617018.685746
   },
-  "bbbd7592a7fe5954595c23ddbd007705483bd0c481fb82f705c3948a9cf11422": {
-    "title": "Singer Charlie Puth sells $18.5 million SoCal mansion where he married Brook Sansone",
-    "ts": 1790070759.439301
-  },
   "bbe918530b3394f77656f4309de6141c373e613373a5dea2fb1b083debf1b756": {
     "title": "Al Jazeera rejects Netanyahu’s attack on journalists in UN speech",
     "ts": 1790361060.387194
@@ -903,6 +903,10 @@
     "title": "Want to retire with more money? Leave the U.S. early in your career — and then come back.",
     "ts": 1790114454.187355
   },
+  "c7c47bfbe5a06617f19c5c17b4e6c4ff5160be878684511d8412f0e5f87763ef": {
+    "title": "UAE's Next $25 Billion Bet On India Includes Energy Sector",
+    "ts": 1790685767.137302
+  },
   "c9358485e631ac84dc64211648f704de06a4459634c4ec06dab32afe341cb663": {
     "title": "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
     "ts": 1790374487.226335
@@ -958,6 +962,10 @@
   "d24756c9e703e2d74548056485e1dc188e5c4155d1caa3c7c2613f3db23827cd": {
     "title": "Israeli soldier wounded in car-ramming attack in occupied West Bank",
     "ts": 1790194490.075159
+  },
+  "d49faa0346926e64ab662c13c6d266efe8845dfaeccceb6044c811ef69cd68c5": {
+    "title": "Malaysia sends Rohingya back to Myanmar despite safety warnings",
+    "ts": 1790685767.137302
   },
   "d4b361f056c434f9885e47748b17a1bd837f04ebb0a4020c52fc9114c82ec524": {
     "title": "EOS Climbs 12% As Investors Gain Confidence",
@@ -1035,10 +1043,6 @@
     "title": "Ukraine’s Zelenskyy calls for sustained pressure to end ‘Putin’s crazy war’",
     "ts": 1790194490.075159
   },
-  "e270da9403b0474f9b8bb4160b7fe5d2cb1b27f73caab3299d7f43b33869f4e3": {
-    "title": "Bitcoin climbs toward $86k as Strategy buys more coins",
-    "ts": 1790070759.439301
-  },
   "e324418bdd2981c596315409d821d74a0d1ac975258d43f22093855eb5449cfd": {
     "title": "Record Fuel Prices Send European EV Sales Soaring",
     "ts": 1790261864.938207
@@ -1099,6 +1103,10 @@
     "title": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage",
     "ts": 1790361060.387194
   },
+  "ef983892ffcd7345318a3a2e8349e45c0842e450a52a43a879c2d8a0809033cd": {
+    "title": "Journalist ascends to throne in Uganda kingdom after succession dispute",
+    "ts": 1790685767.137302
+  },
   "f2721b5b41b90ee884f6d558f5f3d4038eba1a3ccad42ef8b940e270a008aa12": {
     "title": "Micron has a chance to set the record straight with its earnings report",
     "ts": 1790617018.685746
@@ -1126,10 +1134,6 @@
   "f576b51d82297c97f87a60c6dfb2b936a7f0392813dc9800d4f984b1acfeebd0": {
     "title": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
     "ts": 1790456603.596276
-  },
-  "f68ae280b915b097e1823816b85e704b721f8a009bbff0af15ddcc55e7c0d44b": {
-    "title": "India defeat Sri Lanka by 147 runs as Mandhana shines in Asian Games final",
-    "ts": 1790070759.439301
   },
   "f69d9eeacce894a64a1010cbfb1cf9da16c0d62ecd3cc9e2c6b68f9e23f1745b": {
     "title": "Russia strike sets National Academy of Sciences of Ukraine ablaze",
