@@ -27,10 +27,6 @@
     "title": "Could SpaceX be worth $12 trillion one day? Citi says Starship gets it a step closer.",
     "ts": 1790722589.948481
   },
-  "0a0e199491b6f2304259513bab4c175a70578c3257618b5f250b8f20ad638f35": {
-    "title": "3 questions to ask your parents about their estate plan — other than ‘How much money do you have?’",
-    "ts": 1790182168.223505
-  },
   "0a242fa6e8cb649f2eb7e7c0ec58dd08fb15099640e0fde0248a55fed467a5ef": {
     "title": "Powerful storm brings flooding, power outages to northeastern United States",
     "ts": 1790465666.335347
@@ -79,10 +75,6 @@
     "title": "Meta gets price-target boost as JPMorgan says Muse agent has potential to become the top AI application since ChatGPT",
     "ts": 1790243722.052417
   },
-  "12866c64ff4620267d13c53522e5452df24407d1adf559efa7e92776d978271c": {
-    "title": "Record-breaking diesel prices look set to push grocery bills even higher — and Thanksgiving is getting closer",
-    "ts": 1790194490.075159
-  },
   "135cfa8d665b2cd03d97f82e295b0197757df6de8c2067f13d27c0c3ac8a693c": {
     "title": "Spain’s Sanchez warns of far-right threat in UNGA speech",
     "ts": 1790224647.166279
@@ -90,6 +82,10 @@
   "146dff6e9c76d5a90de8b9cccaa56b70f35d10d9e7ea4f440b79d4ba329ee4a2": {
     "title": "The market is pricing in too many Fed hikes, says the former Dallas Fed chief",
     "ts": 1790243722.052417
+  },
+  "17cfce37989a8614771e251195eecd59d6ca490b59f6361ecd0f81119fe4a1f3": {
+    "title": "Paramount’s mega debt sale reveals how higher bond yields are squeezing corporate America",
+    "ts": 1790801161.526386
   },
   "186abaa582cba2d789741241add3a34f3b78332e6112f493a95994874d69f44a": {
     "title": "U.S. Taps Strategic Oil Reserve Again as Diesel Tops $6",
@@ -235,6 +231,10 @@
     "title": "At least 41 die as boat capsizes in DRC’s Lake Tanganyika",
     "ts": 1790299518.0623
   },
+  "337bdec06d04ab6f2ec54862758b4d12afff5ea78482d9ed2814a74d4564ab8e": {
+    "title": "Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight",
+    "ts": 1790801161.526386
+  },
   "33d94ba494c4049f489484e836ab7e1acbcf79d8602acb8d1150231204e16ab6": {
     "title": "OpenAI launches a rival to Meta’s Muse, as the battle for AI agents kicks into high gear",
     "ts": 1790706932.11364
@@ -275,10 +275,6 @@
     "title": "Lebanese in Brazil, Brazilian in Lebanon",
     "ts": 1790361060.387194
   },
-  "406edefa03546bd922914bb625866a557826a1dfbf86e1a85b22b8a640736b3b": {
-    "title": "Manchester United losses jump nearly a third to $57m despite record revenue",
-    "ts": 1790194490.075159
-  },
   "42eb7be339450adc69bfd322259538e9c2f56ab66af905537fed013ea972abc5": {
     "title": "Public transport drivers strike in Manila over soaring fuel prices",
     "ts": 1790660196.806963
@@ -315,21 +311,9 @@
     "title": "Why Blocking U.S. Diesel Exports Could Make Fuel More Expensive",
     "ts": 1790637168.59339
   },
-  "496347f73a825813f2f28127fc063dcd88a4982f666864321b87200edc21ac52": {
-    "title": "KPMG manager says she was fired after facing harassment over her keffiyeh",
-    "ts": 1790182168.223505
-  },
-  "499970bd7834e37f92007487bdc65f46fc296c54f28338da9e1834238bed10d0": {
-    "title": "Activist Toms Capital urges Devon Energy in letter to explore alternatives, including a sale",
-    "ts": 1790182168.223505
-  },
   "4a212603e1fc8d2816cf5bee65eeba413a2c62782a23a7ad15002f92770316c8": {
     "title": "Tether Says It Helped Freeze $550M In Iran-Linked USDT This Year",
     "ts": 1790685767.137302
-  },
-  "4c72d831eb66bc78ab4f2e4e891cce7a1e3866cdadb53a32a563edf2971b913e": {
-    "title": "Argentina’s Milei says UN ‘looking the other way’ on Falkland Islands",
-    "ts": 1790194490.075159
   },
   "4cf0da6939ea128147d57a4c8aebb441273200f86ee0b0ba337c2da0f31415fd": {
     "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
@@ -343,6 +327,10 @@
     "title": "SpaceX’s next big growth engine isn’t rockets — it’s this play on AI power, analysts say",
     "ts": 1790637168.59339
   },
+  "4e9bf6aeea4bebfa94a836df1bf57ba24e307d9b0cd1b87dbf75ff5373e2f56b": {
+    "title": "How does Trump’s White House AI accord work?",
+    "ts": 1790801161.526386
+  },
   "4ff9131e105e4934b279ffaa8bcdf4ac75a1a0f622c27829416b0aef1c142112": {
     "title": "The stock market could be due for a nasty selloff, judging by these two signals",
     "ts": 1790343604.833047
@@ -350,10 +338,6 @@
   "50bb0e9ab8dd62ddc5f458949e483b79dda1f28125727b24d7d3bd9e3fff105b": {
     "title": "Garvaghy Road standoff brings Northern Ireland’s old wounds back to surface",
     "ts": 1790783553.315705
-  },
-  "5133bf9164d039287771ff9d0adf2c53321bb5162759827133b2f7af585f76b2": {
-    "title": "Bond yields surge as Wall Street fears more potential Federal Reserve rate hikes",
-    "ts": 1790182168.223505
   },
   "51c170f0918a48602e219cfd6657a96325476c9913fa596e1fc445a34ad7b49a": {
     "title": "Israel’s Abu Farchi sent off for gun celebration in Nations League match",
@@ -382,6 +366,10 @@
   "577c73dcb440e28b32781d78a9ace142f41edbb8128006f7b8cadfcc6d17620e": {
     "title": "Social Security checks are projected to be cut by $540 a month in just six years",
     "ts": 1790261864.938207
+  },
+  "585bd6158bae6cd33731c423002df03385f53d0267d4aa54ab1096a9a846bcc7": {
+    "title": "Senators clinch construction permitting deal before election jet-set",
+    "ts": 1790801161.526386
   },
   "58792389e341fa0a72b0750826c2aaa5f6602b2ab68007c347bcff997303db6a": {
     "title": "Ebola cases surpass 8,000 as DRC struggles to control outbreak",
@@ -415,17 +403,13 @@
     "title": "Ed Sheeran concerts at Robert Kraft stadiums cancelled over weather",
     "ts": 1790361060.387194
   },
-  "5f8c44384fab73724a1d0ffd0a95069d3e512613cb282f09069099bf74fccc0b": {
-    "title": "McDonald’s is making a historic bet on chicken — and AI — to bring back customers",
-    "ts": 1790194490.075159
-  },
   "60bbc7d6c4deebbe8478f948f3ab68102d91d27f0bf6152248caa796234d9068": {
     "title": "Bitcoin tests $82,975 support as bull flag nears completion: Live",
     "ts": 1790756715.558534
   },
-  "6194f9b1c01f1560172a3e3765f31444662699c32b10c39b2c526a002a953c33": {
-    "title": "Social Security stopped our checks due to a hacked bank account. We’re relying on our church for help. What can we do?",
-    "ts": 1790182168.223505
+  "60d6e4aee5f50acce0d52c30f0f4f6153b94da2b23340ed6d76c585b5e4446e5": {
+    "title": "Africa’s Massive Cement Expansion Could Drive An Energy Boom",
+    "ts": 1790801161.526386
   },
   "619cf731b792bb794a08820cd43ee02bc798a52a624450979e525307603ef105": {
     "title": "US judge blocks Trump’s White House ban on CNN, MS NOW, and Politico",
@@ -446,10 +430,6 @@
   "6779cb07f182f675afd7366e9deb4de55710672c2d6f9552a48a64f02ad113a7": {
     "title": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
     "ts": 1790299518.0623
-  },
-  "685eba62d2ef9fe9113b120bf6c79aab063a27e40e35252c4ac7cfc3bc1ecda3": {
-    "title": "‘I don’t consider him our responsibility,’ but my wife wants to give money to a relative starting college. Please help.",
-    "ts": 1790182168.223505
   },
   "693952c1884f6f1d8e28fd9c16084ee183ad8750349764799c7b137453b30594": {
     "title": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money",
@@ -475,6 +455,10 @@
     "title": "Nigeria and Ghana suffer huge AFCON 2027 qualifying shocks",
     "ts": 1790756715.558534
   },
+  "6d6c4a58d1e9fe30d534435db716c7ab3808d93b36075cc71db94652cb96f2e1": {
+    "title": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
+    "ts": 1790801161.526386
+  },
   "6d73288e6b4d901350def033ea4e74d956b0e8dbbd78c53ca45d4d19db8b165c": {
     "title": "US consumer confidence hits its lowest level since 2014 ahead of midterms",
     "ts": 1790722589.948481
@@ -490,10 +474,6 @@
   "72995d1ed578a8383407bc1af3b3549f327624e342c561323ec51b3b2e265188": {
     "title": "‘Unstoppable’ Rumesh revives Sri Lanka’s glory, one javelin throw at a time",
     "ts": 1790261864.938207
-  },
-  "732950019127844c1638b753d1de6cb4019a7b92f6b30fd367b265c272551ba3": {
-    "title": "Only 7% Of Voters Rank Data Centers As A Top Political Issue; New Survey Finds",
-    "ts": 1790194490.075159
   },
   "7462ead5b64352ef132b348ece4e9c50087072361bd1d56a18712927ef9431e1": {
     "title": "Nepal’s leader labels devastating flood a ‘warning to the world’",
@@ -547,6 +527,10 @@
     "title": "Russia Tightens Secrecy On Energy Exports",
     "ts": 1790617018.685746
   },
+  "7d2a1031c0da999109db28398b5442f537bcd7070c56a0781cd93f715b91b25d": {
+    "title": "Israeli attacks across Gaza kill at least eight",
+    "ts": 1790801161.526386
+  },
   "7d8632a1797cf916afc0bc61df27dd30d0af03dd5152f9ca30eb39c08a32d8b7": {
     "title": "Israel offers cash to firms hit by trade ban; Europe dithers on new rules",
     "ts": 1790261864.938207
@@ -555,25 +539,21 @@
     "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
     "ts": 1790442366.366242
   },
-  "7fc769193222daa773044113cea24d2aea3c0b58f7e1935fa5d5f705d27aea2a": {
-    "title": "As major powers act unilaterally, experts say UN faces crisis in New York",
-    "ts": 1790194490.075159
+  "801ce35fa8df3681927efd24ab6980c13cdb7b75bd662e2f5302005b77b36886": {
+    "title": "Displaced by war, young Sudanese turn to entrepeneurship to survive",
+    "ts": 1790801161.526386
   },
   "80f1b40d81cee192957d0dd3a50700295a5a6e5b502b7200790aa17487fb69e5": {
     "title": "South African police discover body of 11th woman near Johannesburg",
     "ts": 1790559288.708853
   },
+  "81cc42dd3b4bd256a663585c7e93330589af619cd425d9b75b60c107cc28af47": {
+    "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
+    "ts": 1790801161.526386
+  },
   "81d231173ab476f76415a9f654f4cbc63304d26311522458b4f50f6930bfc610": {
     "title": "‘We were wrong.’ Why Morgan Stanley changed its tune on the U.S. dollar — and what it expects now.",
     "ts": 1790343604.833047
-  },
-  "8394c680999e747d52a88e5c08d3273f0ef9b3478eca53ebed0ee03b7c62a649": {
-    "title": "'Mr.Gold' Warns Higher Rates Will Blow Everything Up",
-    "ts": 1790194490.075159
-  },
-  "8454a86684aee7ff3ad9bfbd29e750a7387a7a56aa3fd4fad02bc8f25b350941": {
-    "title": "The ingredients for a market crash are all in place",
-    "ts": 1790194490.075159
   },
   "85b4acd0f9eee2adcc5dcfaaf8f8e96fda2fb58bded6ef6e79b02994b3b3b136": {
     "title": "Who is Gavin Bazunu, and why is he boycotting the Ireland vs Israel match?",
@@ -587,37 +567,21 @@
     "title": "Oil falls amid optimism over potential diplomatic solution to the Iran conflict",
     "ts": 1790343604.833047
   },
-  "8ca0ef9863732a512f34e285738a611314f7ece6714d8bff1b27a458676d8964": {
-    "title": "The AI ‘scare trade’ is finally hitting banks. Bargain hunters should take note.",
-    "ts": 1790194490.075159
-  },
-  "8ecfe1ec71f2c71097bb1eb97f701539c190d483201be5e1128af2dae4d6d3da": {
-    "title": "How and why the UN General Assembly is gaining prominence",
-    "ts": 1790182168.223505
+  "8e309bfa558c8f7c390aca8a3d66a2a1c3c188b5a0b25bcfeed0ae47d5b3bb6b": {
+    "title": "Flydubai FZ1073 timeline: How the Israel-bound flight emergency unfolded",
+    "ts": 1790801161.526386
   },
   "8eede1a6bf11808d1992cafae85c9c3025f2cc21e762c2fda060a355edc5c4a6": {
     "title": "Stuck between Israeli military checkpoints",
     "ts": 1790539491.531074
   },
-  "8fa09fc4ef9029b5a6bb2e23b67a69a35e52230a0579fa4b043b784160a6e93a": {
-    "title": "US lawmakers propose sweeping AI restrictions with superintelligence ban",
-    "ts": 1790194490.075159
-  },
   "916ca0ad3d95b43b187b4d6b5254e168037d501ca3000939b37cadebad71609c": {
     "title": "8 grassroots porchfests for experiencing free live music and neighborhood culture",
     "ts": 1790243722.052417
   },
-  "92666c226449c9b41b0ff5825a1eff0043b22c4cbb2ed82c08ae047adf071155": {
-    "title": "Micron’s stock has become a ‘battleground’ as the AI narrative shifts",
-    "ts": 1790194490.075159
-  },
   "928b0028c3476683fba5b78f36ff4f2080e90e2a9cc89a0a447fb0a8b56b608f": {
     "title": "Why Record Heat Failed To Lift US Natural Gas Prices",
     "ts": 1790617018.685746
-  },
-  "92ddf328fe5f4fd4796af04fe2d9b0b9c5ad4374dc27f236d9541ca4c5f594a8": {
-    "title": "Yemeni government in military and diplomatic push to reverse Houthi gains",
-    "ts": 1790182168.223505
   },
   "93e05f1d7a38d41d7e34f555734d72c653bc64cfed3b3a0495f7f43355b4df45": {
     "title": "What did Yamal say to Messi at World Cup final? ‘Thank you for everything’",
@@ -647,17 +611,13 @@
     "title": "Pakistan vows to defend Saudi Arabia against Houthis",
     "ts": 1790756715.558534
   },
-  "9bd3a746b79401b47c8d0cd2927f00ddd218dc9b1b22f4b958878f52df2eb1d2": {
-    "title": "Hormuz Supply Crisis to Change LNG Market Forever",
-    "ts": 1790194490.075159
+  "9da14f06a61f58be65eb09dbe0c5f43d886e044dbd4aea595cd244d15c73cf26": {
+    "title": "US regulator launches probe into AI companies",
+    "ts": 1790801161.526386
   },
   "9f186126650ad633ea45e27bcbbd4bd35e816c27a42f2fcfe526a7d98ab98f4f": {
     "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
     "ts": 1790550023.650302
-  },
-  "9f7056df76c8fa0537996ae0bce9c3ac43f5bb8e2515467b9c96d2dbc3794d3d": {
-    "title": "Harvey Weinstein sentenced to 15 years in sexual assault retrial",
-    "ts": 1790194490.075159
   },
   "9fde669bf213f44eb65557d4920eb8a58568a6d67740315f33f28c259267113d": {
     "title": "Iranians stock up on food and medicine as fears of new US fighting grow",
@@ -666,14 +626,6 @@
   "a3ab7c2f13a0dd402a8c67f143d85d9ef3f8ee768adaffaebd8e300db38e220b": {
     "title": "Calls to Overhaul the UN Security Council Gain New Momentum",
     "ts": 1790442366.366242
-  },
-  "a4e16521f6d8d2fa4fd2f26833a9b3bfd9f16654b2d3d8f1402d84dbe690774e": {
-    "title": "Here's what happens to the economy when Treasury yields soar like they are now",
-    "ts": 1790194490.075159
-  },
-  "a62b46b5f318a6d3d95dcc61aae2e62359a51e24731c157ab7e8c9382a4c61ac": {
-    "title": "Bitcoin pinned at $84,328 as bearish momentum builds: Live levels",
-    "ts": 1790194490.075159
   },
   "a62f8096bb76f9f1880f4f70b59ada1d5fe12fecd46205be1965ad2f61ef1d49": {
     "title": "Hormuz Tanker Transits Crash to Single Digits as Crisis Deepens",
@@ -707,17 +659,9 @@
     "title": "This is why you might see 8% mortgage rates soon",
     "ts": 1790361060.387194
   },
-  "a793b51c29d8531f21d79568fce6f5f2a4bf2ffac1204a510a938c086d81f0a7": {
-    "title": "‘They kill, we are punished’: Iran calls out Western hypocrisy",
-    "ts": 1790182168.223505
-  },
   "a8a9d41d6f4ed1f0e8c117e09c80143317a3d2c0dd45ed51415cb25a253e13ee": {
     "title": "Can Fracking Reverse Colombia’s Oil and Gas Decline?",
     "ts": 1790617018.685746
-  },
-  "a90a90c6a8a26ecb727816b6c19484e5514b6895b893d2d398e9a73b5057cd0f": {
-    "title": "US envoy walks out on Pezeshkian UN speech slamming war on Iran",
-    "ts": 1790182168.223505
   },
   "aa467c58f6cbeb0ce1f0690ce90aa543fd64f13d88199a459c9be10833b69b3d": {
     "title": "Anti-South Asian ‘hate speech’ has exploded online in US, report finds",
@@ -751,10 +695,6 @@
     "title": "Global Gas Squeeze Could Last Through Next Summer",
     "ts": 1790465666.335347
   },
-  "b1b9c97f369364653c22a817dec20693f488c9449b58a9383667a21dd2d44e43": {
-    "title": "Iran threatens countries enforcing US airline sanctions",
-    "ts": 1790194490.075159
-  },
   "b1f655df302e0a9bcab5b639205d3505ecb69d1f082ea6f76c2de0723cc8df4f": {
     "title": "Susan Sarandon, Hannah Einbinder arrested at Netanyahu UN protest",
     "ts": 1790288382.414236
@@ -775,9 +715,17 @@
     "title": "EU Pressures UK to Match Its Tariffs on Chinese-Made Cars",
     "ts": 1790343604.833047
   },
+  "b9becec01ce716d79ebb2a373071cab45bd216777154d9487fd2e6c9cef5ed41": {
+    "title": "French court sentences 13 men over deadliest small-boat crossing to UK",
+    "ts": 1790801161.526386
+  },
   "ba819c936d7117893e999f10af365ad5bd08616204f2690ba663ad402f3eea0c": {
     "title": "Consumer Credit Stress: What The Data Really Shows",
     "ts": 1790528078.098502
+  },
+  "baccf9b593a7bba2ffc6bfccd23816594d30ba092ddcc17d471a46320570feaf": {
+    "title": "US judge rules Wisconsin mosque leader Salah Sarsour can be deported",
+    "ts": 1790801161.526386
   },
   "baee399f7f0c92773bbda35cfd1a7db0717e796bbbbf6e0689a0c5e406645824": {
     "title": "Oil Extends Rally Despite Higher Hormuz Volume Reports",
@@ -823,10 +771,6 @@
     "title": "Escobar: The Calm Before The Showdown",
     "ts": 1790243722.052417
   },
-  "c35e4a27267485ac8103df0d3b8c232865e838c3cf980e69903547b7f8eb44f4": {
-    "title": "Dangote's Kenya Refinery Project Launches This Week at Up to $20B",
-    "ts": 1790182168.223505
-  },
   "c56a8ba40aaf9426279b3d1e87045d3379774b13974b5b2cafb73bc5b936f457": {
     "title": "Trump ‘very seriously’ considering diesel export ban as global supply crunch worsens",
     "ts": 1790584693.587825
@@ -855,10 +799,6 @@
     "title": "I spend my time and money caring for my aging mother — yet she gave my brother $100,000. Should I pull back?",
     "ts": 1790276609.970657
   },
-  "c9f909bd5b888b685f780a17568d8523fcd26a82a034981fd215635f1924704b": {
-    "title": "Hormuz Workarounds Keep Gulf Oil Flowing—at a Steep Cost",
-    "ts": 1790194490.075159
-  },
   "ca327f1f70ac5ba67037c1449beb7f626026533b92dbb29e1a61e1c332672b74": {
     "title": "Big business warns Trump against diesel export ban in joint letter",
     "ts": 1790261864.938207
@@ -866,10 +806,6 @@
   "ca625e5df65d2f640001e51ed943f2bd01e4f1d6769a790ddac2b17c82697f7f": {
     "title": "Italy Returns to Nuclear After 40-Year Hiatus",
     "ts": 1790276609.970657
-  },
-  "ca62b528f257e2666436cc5f58bf678864dba108acd8a0aacd092f062623c963": {
-    "title": "Oil industry warns a diesel export ban will raise fuel prices as Trump weighs restrictions",
-    "ts": 1790194490.075159
   },
   "cc415996fb012566a96fea5601a959c972fff4e4661a5ca41dd7db0061dcca31": {
     "title": "South Korea Follows Japan's Playbook With $22.3 Billion Texas Gas Bet",
@@ -886,14 +822,6 @@
   "ce53856889741db53d04ec595956feb791afcc4f28617912953ab5428adf8fc0": {
     "title": "Oil falls on report Asia will import highest volume of crude since start of Iran war",
     "ts": 1790224647.166279
-  },
-  "ceee006df6ecec20bd26590294571b6791c95858fe6d9b9302cc9ac5e9ad2a89": {
-    "title": "How to avoid the ‘widow tax’ and other financial headaches if your spouse dies",
-    "ts": 1790182168.223505
-  },
-  "d24756c9e703e2d74548056485e1dc188e5c4155d1caa3c7c2613f3db23827cd": {
-    "title": "Israeli soldier wounded in car-ramming attack in occupied West Bank",
-    "ts": 1790194490.075159
   },
   "d2a7b43a5e600d536717f76f8af8038abe432e8c9f8b724384f6b59521e47bf2": {
     "title": "Boston Mayor Michelle Wu Paying Illegals $575 To Become 'Organizers'... And US-Born Residents Are Excluded",
@@ -927,18 +855,6 @@
     "title": "France’s far-right National Rally gains ground in Senate vote",
     "ts": 1790584693.587825
   },
-  "dc7ffe1548df165751e7ad2e17d484a81669945d6507887355b36a9a8c3285d6": {
-    "title": "Zelenskyy: Putin is making the world ‘more dangerous’",
-    "ts": 1790194490.075159
-  },
-  "dec551040936c7bc752947445f45d0cebad4801041ed1bce4b0c398dee5d97c9": {
-    "title": "Argentina to UN: Falkland Islands are a ‘national cause’",
-    "ts": 1790182168.223505
-  },
-  "df1e073ff4cf6e8fac95fb9b478003df1ee04005961172a939cfef5f12003cef": {
-    "title": "Ivory Coast vs Ghana: AFCON 2027 qualifier, kick-off time, lineups, teams",
-    "ts": 1790194490.075159
-  },
   "df756e77b89fcaccd947598080dd0ce89fb7626efa3674eaa5e61881d0f9bcde": {
     "title": "The Next Global Energy Crisis Won’t Come From Just One Direction",
     "ts": 1790539491.531074
@@ -962,10 +878,6 @@
   "e1adefb4cfe924788ecc29e2c5294b09801aa7e3c91ca95549b546fb548aa5a2": {
     "title": "Netanyahu takes UN stage with one eye on Israel’s election",
     "ts": 1790243722.052417
-  },
-  "e1e166e5c14a2b5c73dcdbfc928a1d379df17401345f6a7505c607ff46cdc4d2": {
-    "title": "Ukraine’s Zelenskyy calls for sustained pressure to end ‘Putin’s crazy war’",
-    "ts": 1790194490.075159
   },
   "e324418bdd2981c596315409d821d74a0d1ac975258d43f22093855eb5449cfd": {
     "title": "Record Fuel Prices Send European EV Sales Soaring",
@@ -1027,10 +939,6 @@
     "title": "Trump administration ‘must be changed’: Iran’s IRGC appeals to US voters",
     "ts": 1790706932.11364
   },
-  "f3b36593b9f1c56b0766f7b89be6c2a8e7f9f53c46c4a5bc21f3f7e4eeac674e": {
-    "title": "Trump administration to defend its ban of major news outlets in court",
-    "ts": 1790194490.075159
-  },
   "f3b93b5f1ae9f2d2f28a9405ccac9a85bf67c7f77aeb7c21ca1ffcb2bf729bf1": {
     "title": "8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges",
     "ts": 1790276609.970657
@@ -1038,10 +946,6 @@
   "f3fd4bfd7bcc3e114fe49aff75827bc4c5a52cb40908194029862a0bb015ec3e": {
     "title": "Senate narrowly votes down resolution calling for end to Iran war",
     "ts": 1790276609.970657
-  },
-  "f565182989a089c76fea011c3e1f04f2af01d63d1e4e1372496dd76999f4bd76": {
-    "title": "Scientists warn super El Nino could cause 450,000 deaths: Should we worry?",
-    "ts": 1790182168.223505
   },
   "f576b51d82297c97f87a60c6dfb2b936a7f0392813dc9800d4f984b1acfeebd0": {
     "title": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
