@@ -95,6 +95,10 @@
     "title": "U.S. Taps Strategic Oil Reserve Again as Diesel Tops $6",
     "ts": 1790706932.11364
   },
+  "189a3fc9a21faceb035469ef52350045406a01034daa1de119610ad3ce30568b": {
+    "title": "EIA Reports Crude Build as Diesel Stocks Fall 14% Below Average",
+    "ts": 1790783553.315705
+  },
   "18c793e461d4206448431e8dd9529a0340a724554c62387104c3cd635aa30111": {
     "title": "Nigeria Joins IEA As Crude Output Hits Six-Year High",
     "ts": 1790374487.226335
@@ -110,6 +114,10 @@
   "195a1baf3c87dcfe871f9d61661f5924a72428a0364c8f746e11983f436c8e6f": {
     "title": "Group To Sue New York Over Union-Backed \"Hit-Job\" Law",
     "ts": 1790706932.11364
+  },
+  "19a331825aaf1d84f6a81108e6b1d5cc0a326ce071b15f99894ebf37f7d6f1a1": {
+    "title": "Citi tells investors it’s time to sell Moderna after 600%-plus stock gains",
+    "ts": 1790783553.315705
   },
   "19c6a474159e37b410e5fed64c36c0cc28a2f1a4817d9689c170bf700da00e2e": {
     "title": "Pro-Imran Khan rally delayed amid government closures",
@@ -135,10 +143,6 @@
     "title": "Goldman Warns Diesel Export Ban Would Send Gasoline Prices Higher",
     "ts": 1790584693.587825
   },
-  "1c7c3e1b4426a0f1b2bc0624d76eecfa12601fa921f545fe2f1d37f549a7f2e5": {
-    "title": "Zelenskyy says Ukraine ready for ‘energy ceasefire’, calls for trilateral meeting with Putin, Trump",
-    "ts": 1790162763.796122
-  },
   "1cdcccd1edee374cbf3c8d477fd59a1bbc15bd87001d82b128ba0ca2e599e873": {
     "title": "Bitcoin rises to $83.5k amid a fall in oil prices and a let up in Treasury yields",
     "ts": 1790722589.948481
@@ -151,13 +155,13 @@
     "title": "Palestine Action protesters arrested in Liverpool",
     "ts": 1790539491.531074
   },
+  "1edd2cb0450324ea910cd4793351e5ce60d41c5522e0de4cd4c1b0c9520e2383": {
+    "title": "China extends 52-year unbeaten record as Asian Games organisers apologise",
+    "ts": 1790783553.315705
+  },
   "1f64040ac41f641537a374544a241309b3a7dc44535b53b2ba9c82b6fe962d43": {
     "title": "Florida authorities ask court to block OpenAI’s ChatGPT over safety issues",
     "ts": 1790617018.685746
-  },
-  "20250fe902d7a65a6d894adb45e9bf1dd9d5a205d1ccce14bfe6140df4ada958": {
-    "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
-    "ts": 1790162763.796122
   },
   "219202d923eb562d6e60225e5f819e11a6d5af3785488134c57d8db6c2603815": {
     "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
@@ -206,10 +210,6 @@
   "2f1e56bdc0c4a8ce743386845efbd24d9b4b1a4bb1678a328c99a67333eb034a": {
     "title": "Paris court finds Swiftair guilty over 2014 Mali crash that killed 116",
     "ts": 1790617018.685746
-  },
-  "2fb9cd17b678b3ecf8835cc19567a158c0f6ef27d1811f21dc21f2f455016e36": {
-    "title": "Yemen government forces claim control of Mount Qarfan in Taiz",
-    "ts": 1790162763.796122
   },
   "2fd80fa53280df6d65b5de490dee339916b58a415703427989c943461a4b6221": {
     "title": "Can Tajikistan’s economic boom survive its debt gamble?",
@@ -275,14 +275,6 @@
     "title": "Lebanese in Brazil, Brazilian in Lebanon",
     "ts": 1790361060.387194
   },
-  "3dbda4d9481dcb4347e91a909047cad586467280288072828ae5abc9b5fc882b": {
-    "title": "Analyst says Bitcoin bull market is underway and sets 2029 target",
-    "ts": 1790162763.796122
-  },
-  "3fcb153798cf8bbf35ef06110a600aecccd637918b048e220ed6ca13eba297c8": {
-    "title": "China’s swimming prodigy Yu Zidi bags third gold in Asian Games record",
-    "ts": 1790162763.796122
-  },
   "406edefa03546bd922914bb625866a557826a1dfbf86e1a85b22b8a640736b3b": {
     "title": "Manchester United losses jump nearly a third to $57m despite record revenue",
     "ts": 1790194490.075159
@@ -310,10 +302,6 @@
   "459bf08030d41a8396891359972f507a07e853b03c0a1e16cce3acfe6704d471": {
     "title": "Taking Ozempic and worried about vision loss? This test can help you understand your risk.",
     "ts": 1790685767.137302
-  },
-  "46516ba254f4b21ebcf64326265fde6b2428126da120a6e09d845d73e53e0773": {
-    "title": "Asia's Crude Imports Hit Highest Level Since the Iran War Began",
-    "ts": 1790162763.796122
   },
   "474f0f7c4ef69c57b3fa3b7ed455a31308c57d20d97e62ae35b2f3503609278b": {
     "title": "South Korea suspects North Korean mines behind DMZ blast",
@@ -355,13 +343,13 @@
     "title": "SpaceX’s next big growth engine isn’t rockets — it’s this play on AI power, analysts say",
     "ts": 1790637168.59339
   },
-  "4e2cfedcb4fb62dcf3296a2d1a2b06211fc8dc47a2602db0c9cbb69493567ccb": {
-    "title": "European Commission Proposes Energy & Water Efficiency Disclosure Rules For Data-Centers",
-    "ts": 1790162763.796122
-  },
   "4ff9131e105e4934b279ffaa8bcdf4ac75a1a0f622c27829416b0aef1c142112": {
     "title": "The stock market could be due for a nasty selloff, judging by these two signals",
     "ts": 1790343604.833047
+  },
+  "50bb0e9ab8dd62ddc5f458949e483b79dda1f28125727b24d7d3bd9e3fff105b": {
+    "title": "Garvaghy Road standoff brings Northern Ireland’s old wounds back to surface",
+    "ts": 1790783553.315705
   },
   "5133bf9164d039287771ff9d0adf2c53321bb5162759827133b2f7af585f76b2": {
     "title": "Bond yields surge as Wall Street fears more potential Federal Reserve rate hikes",
@@ -407,6 +395,10 @@
     "title": "Argentina’s poverty rises to 32 percent under Milei with more pain forecast",
     "ts": 1790299518.0623
   },
+  "5a98156df3e8ddb2df129509379c05800cd560e2fedacdad75abdfacc6f2fd51": {
+    "title": "Photos: Kashmir’s 600-year-old Wazwan wedding feast adapts to modern life",
+    "ts": 1790783553.315705
+  },
   "5dbad5e343d57ec82c04d55405c7d38a5ed9f458d94a81cdba800a7cb0aac7d0": {
     "title": "U.S.-Iran Talks Revive June Plan for Ending Hormuz Standoff",
     "ts": 1790343604.833047
@@ -438,10 +430,6 @@
   "619cf731b792bb794a08820cd43ee02bc798a52a624450979e525307603ef105": {
     "title": "US judge blocks Trump’s White House ban on CNN, MS NOW, and Politico",
     "ts": 1790243722.052417
-  },
-  "63e7e850a16ceb6812f15e76cbb33cd4726b88e43b6f83c05180732586308796": {
-    "title": "Powerful El Nino could cause more than 450,000 deaths, scientists say",
-    "ts": 1790162763.796122
   },
   "649052e6dd01afb97baaca6c1fe6771445b0f7e08eabd9e782ada11000affd99": {
     "title": "US and China presidents discuss cooperation, trade and AI risks",
@@ -643,10 +631,6 @@
     "title": "Bitcoin pauses near $84k with focus on rate jitters, Bitget hack",
     "ts": 1790322061.247902
   },
-  "984359c05884a4c7542cbe93ab17b1bfe086364a043ed22ee62c53552e374c20": {
-    "title": "As AI leaders warn of catastrophe, US and China shun slowdown calls",
-    "ts": 1790162763.796122
-  },
   "98f18e02aafd2b2f8ef802c1b317aeca5697297f65867cae6471e710a37199af": {
     "title": "Aramco Restores East-West Pipeline as War Risk Closes In on Yanbu",
     "ts": 1790343604.833047
@@ -791,10 +775,6 @@
     "title": "EU Pressures UK to Match Its Tariffs on Chinese-Made Cars",
     "ts": 1790343604.833047
   },
-  "b76208c7a04c74fccea28c08669d1ce37bdc9511d124be1d26cc9ef235050513": {
-    "title": "Why CoreWeave’s beaten-down stock could be due for a major comeback",
-    "ts": 1790162763.796122
-  },
   "ba819c936d7117893e999f10af365ad5bd08616204f2690ba663ad402f3eea0c": {
     "title": "Consumer Credit Stress: What The Data Really Shows",
     "ts": 1790528078.098502
@@ -830,6 +810,10 @@
   "bfb061de4b780b3c561cfad6e3e8e22c07be1ddd4b8150343056faaccfc1e7a5": {
     "title": "Morgan Stanley: Diesel Export Ban Would Push U.S. Gas Prices Higher",
     "ts": 1790243722.052417
+  },
+  "c0a54aa6c07b417c2e10ed351239fbcb96aae98e0e3609666707216a56c373d3": {
+    "title": "Is Spain’s anti-eviction decree a fix for its housing crisis?",
+    "ts": 1790783553.315705
   },
   "c21690d064dbe5f428ab86e58ab1c464ad3e687780399f618e463c745bba82db": {
     "title": "India’s ‘cockroach’ movement demands election chief’s resignation",
@@ -907,10 +891,6 @@
     "title": "How to avoid the ‘widow tax’ and other financial headaches if your spouse dies",
     "ts": 1790182168.223505
   },
-  "d008dad066ce0f7d22dbca4a6b11b2474bfa4a95b0e0ca3a6ac5b1feab2c9ba3": {
-    "title": "Financial stocks are falling as rates rise. Why that’s a problem for the broader market.",
-    "ts": 1790162763.796122
-  },
   "d24756c9e703e2d74548056485e1dc188e5c4155d1caa3c7c2613f3db23827cd": {
     "title": "Israeli soldier wounded in car-ramming attack in occupied West Bank",
     "ts": 1790194490.075159
@@ -938,6 +918,10 @@
   "daf895ce4f24c41590413931682182cf5218753a8bf2b5ef5aa989d87c5378e0": {
     "title": "Bitcoin drops to $83.3k as yields, oil spike spook risk",
     "ts": 1790243722.052417
+  },
+  "db3a73a598a3db9ad75aca48fa096f1bac31f83ac19736c3a1bff7c7479f9c78": {
+    "title": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
+    "ts": 1790783553.315705
   },
   "dc28670da484e7c93d9092c5be119656f9b8582dcfcbc477ab8ab3fb1e816ac7": {
     "title": "France’s far-right National Rally gains ground in Senate vote",
@@ -1015,14 +999,6 @@
     "title": "Hollywood’s big debt deal hits a wall of higher yields as Paramount finances Warner Bros. buyout",
     "ts": 1790722589.948481
   },
-  "e98196acfcccc78bfafc4a6a99c6f553935bd18714ca7a30132cbb43a1289952": {
-    "title": "Qatar on mediation efforts: ‘We can’t let diplomacy fail’",
-    "ts": 1790162763.796122
-  },
-  "ea48be1130757daca346846a86d9b20b5bdfef5a41121f1107646e34bd286b6e": {
-    "title": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
-    "ts": 1790162763.796122
-  },
   "ea96c737ea99889eb31c7fc49059bb55fbb63c3f135f2335d759ed7b7a065f1d": {
     "title": "Rubio warns of Iraq ‘Balkanisation’: Is that a real threat?",
     "ts": 1790261864.938207
@@ -1079,13 +1055,13 @@
     "title": "Russia strike sets National Academy of Sciences of Ukraine ablaze",
     "ts": 1790617018.685746
   },
-  "f6d758265bc0f1cdbfbbee52cdcf4a0f3188d1ff328adf7f2034facb41cfe583": {
-    "title": "The AI-infrastructure trade is still not over, says this top-performing fund manager. Here’s where he’s investing.",
-    "ts": 1790162763.796122
-  },
   "f78426dab80803a1b9ffb012df9f0cf734be20e6b4535803dc844c9c92544509": {
     "title": "Indonesia suspends five officials over luxury apartments for inmates",
     "ts": 1790733732.476372
+  },
+  "f824ee35667d1c4998b5eb1fed518ea70c13d32a12d1de25fd47e1fa6bbdbe50": {
+    "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
+    "ts": 1790783553.315705
   },
   "f8a3ec8a94d4c1758230942dae16ac05a368be72b22291395ea72227d0d147bd": {
     "title": "Saudi Oil Export Costs Surge as Red Sea Risks Mount",
