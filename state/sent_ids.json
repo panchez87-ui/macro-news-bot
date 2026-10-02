@@ -67,6 +67,10 @@
     "title": "Iran’s Disappearing Oil Is Becoming Everyone’s Problem",
     "ts": 1790814653.585766
   },
+  "1787048c0fcd5211f0d05f90330cf4cfd260811daa55da4145a6e1995fa5870c": {
+    "title": "Europe's Housing Crisis Is An Immigration Crisis, Berlin Data Confirms",
+    "ts": 1790924266.16793
+  },
   "17cfce37989a8614771e251195eecd59d6ca490b59f6361ecd0f81119fe4a1f3": {
     "title": "Paramount’s mega debt sale reveals how higher bond yields are squeezing corporate America",
     "ts": 1790801161.526386
@@ -202,10 +206,6 @@
   "318058a0d085d5a58635a71ff02bc7804f26d20a915e2b4f93e4204a0f4a7d76": {
     "title": "Migrant children protest after police clear beach camp in Ceuta",
     "ts": 1790617018.685746
-  },
-  "32a14d3840a4193ccd3e007d5297530b5018a544e5ff64cc5db520ba1743ab32": {
-    "title": "At least 41 die as boat capsizes in DRC’s Lake Tanganyika",
-    "ts": 1790299518.0623
   },
   "337bdec06d04ab6f2ec54862758b4d12afff5ea78482d9ed2814a74d4564ab8e": {
     "title": "Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight",
@@ -347,10 +347,6 @@
     "title": "Ebola cases surpass 8,000 as DRC struggles to control outbreak",
     "ts": 1790617018.685746
   },
-  "596a8b72bccba72f26a06e6cd6c44e338657062034429f52d780a36f9864eda4": {
-    "title": "Argentina’s poverty rises to 32 percent under Milei with more pain forecast",
-    "ts": 1790299518.0623
-  },
   "5a98156df3e8ddb2df129509379c05800cd560e2fedacdad75abdfacc6f2fd51": {
     "title": "Photos: Kashmir’s 600-year-old Wazwan wedding feast adapts to modern life",
     "ts": 1790783553.315705
@@ -406,10 +402,6 @@
   "676b252dcd754888946b79f61db987947b2a61a19e9f44e2abf581c2d930eb60": {
     "title": "Jerusalem Daily: Israeli incursions at Al-Aqsa Mosque",
     "ts": 1790617018.685746
-  },
-  "6779cb07f182f675afd7366e9deb4de55710672c2d6f9552a48a64f02ad113a7": {
-    "title": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
-    "ts": 1790299518.0623
   },
   "6977f62d4a54dc87cc455b3a7c3a8fa39e710a5cdef13b9bde193d9874688d4a": {
     "title": "Why the upcoming jobs report could send 10-year and 30-year Treasury yields surging",
@@ -655,6 +647,10 @@
     "title": "This is why you might see 8% mortgage rates soon",
     "ts": 1790361060.387194
   },
+  "a89b3c9f51bffbc31f6bf349a5f496d24bccf2eb0a235b2514fb6e26df781fa4": {
+    "title": "Asian Games 2026: Taiwan’s gender-row boxer Lin Yu-ting wins gold medal",
+    "ts": 1790924266.16793
+  },
   "a8a9d41d6f4ed1f0e8c117e09c80143317a3d2c0dd45ed51415cb25a253e13ee": {
     "title": "Can Fracking Reverse Colombia’s Oil and Gas Decline?",
     "ts": 1790617018.685746
@@ -691,6 +687,10 @@
     "title": "Global Gas Squeeze Could Last Through Next Summer",
     "ts": 1790465666.335347
   },
+  "b1b031b5d92425f705389477f36abc418388d967de2795850b3d7a72f01bd671": {
+    "title": "Greece pushes EU to suspend asylum during mass migration surges",
+    "ts": 1790924266.16793
+  },
   "b2d0a2b17a2ade97b2d40f4e8a0ba68614561e89e0cab8517a304d306f93aab4": {
     "title": "Sunday in Japan: A Ugandan asylum seeker turns to filmmaking",
     "ts": 1790868253.230429
@@ -706,10 +706,6 @@
   "b522459e1b0c7c18ce7c09dfbdb926af4f57c00044104e57bdde00cd5f926378": {
     "title": "Tesla Patents \"Electric Fan Car\" Weeks Before Roadster Reveal",
     "ts": 1790706932.11364
-  },
-  "b547664e21c34c286ff2ae502d8a50103ff6fb3d5858769b5e4b11c425a90ad7": {
-    "title": "Brazil’s Lula and Flavio Bolsonaro still essentially tied in new poll",
-    "ts": 1790299518.0623
   },
   "b5a24d4c39b4220b900157368c24a2288cdb4d12d0707f4cab5f24e7b15c7618": {
     "title": "EU Pressures UK to Match Its Tariffs on Chinese-Made Cars",
@@ -775,6 +771,10 @@
     "title": "168 hours on the dance floor: Nigerian dancer chases Guinness World Record",
     "ts": 1790617018.685746
   },
+  "c60919490ad88c83e2192ffc5e7d69f6f9e0866fed808e9392c2b180e4bc2339": {
+    "title": "Miami judge rules federal noncitizen voting law violates US Constitution",
+    "ts": 1790924266.16793
+  },
   "c62dcbd80a2bd88c9e1b84024f9920c331333abccd0ecb56168f7fbcfdf593ae": {
     "title": "Education Department Scraps Biden-Era Title IX Gender Identity Protections",
     "ts": 1790706932.11364
@@ -834,6 +834,10 @@
   "db3a73a598a3db9ad75aca48fa096f1bac31f83ac19736c3a1bff7c7479f9c78": {
     "title": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
     "ts": 1790783553.315705
+  },
+  "dc15ab9ab50c14536b91f4a4f606e2beeb3c59dbb5db2abf7a701ceb37f53db3": {
+    "title": "Election debate cancelled in Brazil, bomb scare outside Supreme Court",
+    "ts": 1790924266.16793
   },
   "dc28670da484e7c93d9092c5be119656f9b8582dcfcbc477ab8ab3fb1e816ac7": {
     "title": "France’s far-right National Rally gains ground in Senate vote",
