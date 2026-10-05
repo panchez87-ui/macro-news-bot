@@ -83,10 +83,6 @@
     "title": "EIA Reports Crude Build as Diesel Stocks Fall 14% Below Average",
     "ts": 1790783553.315705
   },
-  "191cb045217b108203c4e2de17d3f44ebd533dacef030f106544beac1d45493f": {
-    "title": "A World Turned Upside Down",
-    "ts": 1790584693.587825
-  },
   "195a1baf3c87dcfe871f9d61661f5924a72428a0364c8f746e11983f436c8e6f": {
     "title": "Group To Sue New York Over Union-Backed \"Hit-Job\" Law",
     "ts": 1790706932.11364
@@ -106,10 +102,6 @@
   "1bd6b2adccedcd0400f747f5f5d13d4e4c19da2c7524d818133c8a78f168a607": {
     "title": "Gold, Banking, & A Historical Disturbance In The Force",
     "ts": 1790617018.685746
-  },
-  "1c3233d25a13ad1bd30f0cd70ddc9c7a077c4fbb70e1ccc805bcd453376d3c41": {
-    "title": "Goldman Warns Diesel Export Ban Would Send Gasoline Prices Higher",
-    "ts": 1790584693.587825
   },
   "1cdcccd1edee374cbf3c8d477fd59a1bbc15bd87001d82b128ba0ca2e599e873": {
     "title": "Bitcoin rises to $83.5k amid a fall in oil prices and a let up in Treasury yields",
@@ -338,6 +330,10 @@
   "58792389e341fa0a72b0750826c2aaa5f6602b2ab68007c347bcff997303db6a": {
     "title": "Ebola cases surpass 8,000 as DRC struggles to control outbreak",
     "ts": 1790617018.685746
+  },
+  "59200d567b9b201f0009e0e9ec9175a121b08977665b1c28b18baace3a9cf4dd": {
+    "title": "Aramco Cuts Asia Oil Prices to Six-Year Low, Raises Prices for Europe",
+    "ts": 1791190401.39742
   },
   "5a98156df3e8ddb2df129509379c05800cd560e2fedacdad75abdfacc6f2fd51": {
     "title": "Photos: Kashmir’s 600-year-old Wazwan wedding feast adapts to modern life",
@@ -591,10 +587,6 @@
     "title": "Brazil’s Lula and Bolsonaro draw thousands as campaigns near end",
     "ts": 1791004172.634182
   },
-  "999cdae2a7d8c50f5d39b5e6f09a835483bcea8ad31ac3ef920dd6c09f597c75": {
-    "title": "Belgium vs France – Nations League: Team line-ups, head-to-head, Mbappe",
-    "ts": 1790584693.587825
-  },
   "9a265e27fb36df9425ad569dec450d469da6bb7efc10daaaf0c3d57ebf4e02f9": {
     "title": "U.S. manufacturers say inflation is bad and not getting any better",
     "ts": 1790868253.230429
@@ -654,6 +646,10 @@
   "a8a9d41d6f4ed1f0e8c117e09c80143317a3d2c0dd45ed51415cb25a253e13ee": {
     "title": "Can Fracking Reverse Colombia’s Oil and Gas Decline?",
     "ts": 1790617018.685746
+  },
+  "a9cf41f7ad4207e0a5ec23ba95b3546563c0fd4c7129c328e9f2f148c20191ea": {
+    "title": "Cowen: \"Early Stages Of Looming EV Comeback\"",
+    "ts": 1791190401.39742
   },
   "aa467c58f6cbeb0ce1f0690ce90aa543fd64f13d88199a459c9be10833b69b3d": {
     "title": "Anti-South Asian ‘hate speech’ has exploded online in US, report finds",
@@ -759,10 +755,6 @@
     "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
     "ts": 1790901746.763739
   },
-  "c56a8ba40aaf9426279b3d1e87045d3379774b13974b5b2cafb73bc5b936f457": {
-    "title": "Trump ‘very seriously’ considering diesel export ban as global supply crunch worsens",
-    "ts": 1790584693.587825
-  },
   "c56b53ab60323b543501327300b3852d0a4a655e67b86fcf3de4e1241c474a8b": {
     "title": "168 hours on the dance floor: Nigerian dancer chases Guinness World Record",
     "ts": 1790617018.685746
@@ -839,10 +831,6 @@
     "title": "Election debate cancelled in Brazil, bomb scare outside Supreme Court",
     "ts": 1790924266.16793
   },
-  "dc28670da484e7c93d9092c5be119656f9b8582dcfcbc477ab8ab3fb1e816ac7": {
-    "title": "France’s far-right National Rally gains ground in Senate vote",
-    "ts": 1790584693.587825
-  },
   "dc73f44f4e7e692202fd46a973b32839bb430558cc0eda713780cced30aa10e7": {
     "title": "Sweat Wallet and the SWEAT Token as They Exist Today End on 30 December 2026",
     "ts": 1790868253.230429
@@ -851,9 +839,9 @@
     "title": "Pakistan summons Indian diplomat over border killing of two Pakistanis",
     "ts": 1791027307.520721
   },
-  "e0ae6ea69ee00ddbeb2fbe8f86e2ea729e63ab61dfa9d8329d81d4949146d284": {
-    "title": "Silver Is Backed Up For Months. Here's Why",
-    "ts": 1790584693.587825
+  "e1970aa85f458e0f32cdc9a59e40b3d1bb938737d9469254db6698a764d6bc91": {
+    "title": "France vs Belgium: UEFA Nations League – Olise, De Bruyne, teams and format",
+    "ts": 1791190401.39742
   },
   "e2d85612db6d38a38d4bfec6f3c30dcddc4483f16b910e17ffb0293db942aac1": {
     "title": "To Build Golden Fleet Frigate Fast, Two Shipyards Are Needed",
@@ -934,6 +922,10 @@
   "f172ebcc8ea754a6d11cf83781082bc57410adcfe8b27507ec7bbd164fef8210": {
     "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
     "ts": 1790968345.5952
+  },
+  "f18bc9b2b98c9ad31086aa8a78cec1f4993e4908e06780c7ce9fe6ae471d06f7": {
+    "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
+    "ts": 1791190401.39742
   },
   "f2721b5b41b90ee884f6d558f5f3d4038eba1a3ccad42ef8b940e270a008aa12": {
     "title": "Micron has a chance to set the record straight with its earnings report",
