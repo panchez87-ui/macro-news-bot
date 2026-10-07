@@ -91,10 +91,6 @@
     "title": "WHO warns of ‘devastating consequences’ due to delayed aid entry into Gaza",
     "ts": 1791004172.634182
   },
-  "2c17ac5d98b832c072be694c3e9a3c5982425d848a21254b04adb9d6f37ee0d5": {
-    "title": "S Korea demands apology over DMZ blasts as N Korea denies planting mines",
-    "ts": 1790756715.558534
-  },
   "2e005b1343a99e2d92fff762c0623e11c71124861b3a0b755bc83efa4d7ed8eb": {
     "title": "What we know about the co-pilot accused in Flydubai attack",
     "ts": 1791043839.198541
@@ -219,6 +215,10 @@
     "title": "Ethiopian government troops seize Tigray’s capital Mekelle",
     "ts": 1791081146.516511
   },
+  "554cb0d08cc5562cf748cbab895c2950f5fe9b6306ddc12f3b6042e10894248c": {
+    "title": "Ex-German spy chief arrested: A history of spooks working for enemy powers",
+    "ts": 1791387027.372659
+  },
   "55c1da40ee80817ba2626d2034bfc0f1f04a3e2b18b53165c610e6fcf1371da4": {
     "title": "Art Of Leverage? France Pushes 100-Million-Barrel Emergency Release After Trump Threatens Diesel Export Ban",
     "ts": 1790948909.033766
@@ -291,10 +291,6 @@
     "title": "Saudi Arabia says East-West pipeline pumping 5.8 million bpd",
     "ts": 1791299001.285844
   },
-  "60bbc7d6c4deebbe8478f948f3ab68102d91d27f0bf6152248caa796234d9068": {
-    "title": "Bitcoin tests $82,975 support as bull flag nears completion: Live",
-    "ts": 1790756715.558534
-  },
   "60d6e4aee5f50acce0d52c30f0f4f6153b94da2b23340ed6d76c585b5e4446e5": {
     "title": "Africa’s Massive Cement Expansion Could Drive An Energy Boom",
     "ts": 1790801161.526386
@@ -335,10 +331,6 @@
     "title": "What’s happening in Ethiopia?",
     "ts": 1791247551.082979
   },
-  "6c88420a6df090dae689a3fde61f11052244508390a17b09020a6d558f16ea29": {
-    "title": "Nigeria and Ghana suffer huge AFCON 2027 qualifying shocks",
-    "ts": 1790756715.558534
-  },
   "6d6c4a58d1e9fe30d534435db716c7ab3808d93b36075cc71db94652cb96f2e1": {
     "title": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
     "ts": 1790801161.526386
@@ -374,6 +366,10 @@
   "74e6e5ca920c0becb5df2cb27466a539833745b97ffba11e74e101b89bdf7839": {
     "title": "Moment mother bear slams into car to protect cub",
     "ts": 1790948909.033766
+  },
+  "76811d132dd69df2b3d73dffa5717f8eb73baba8421dd23fb89f43469bb681fe": {
+    "title": "U.S. Crude Stocks Dip But Distillates Hold Steady",
+    "ts": 1791387027.372659
   },
   "76cb3f8d4ae4658b8d45543b6d6ea630c650301641e031f121665b834356c158": {
     "title": "Global Crop Prices Log Biggest Quarterly Jump Since Ukraine Invasion As Sticky Inflation Hits Grocery Bills",
@@ -447,6 +443,10 @@
     "title": "Russia denies imposing anti-plague measures after lab worker death",
     "ts": 1791317614.369219
   },
+  "83ff6ccfb8053603171b4de438a77759f640b447ccbb6ef86883e1d7213ea522": {
+    "title": "South Korea Unveils $747 Billion Plan to Break Its Fossil Fuel Habit",
+    "ts": 1791387027.372659
+  },
   "859010d52e054569104cb4f41ad9df7b2bc9d88b25e359f6cf8f822c40b8fc0c": {
     "title": "Ethiopia’s government forces retake airport from Tigray rebels in Mekelle",
     "ts": 1791027307.520721
@@ -458,6 +458,10 @@
   "86a4acea62e6f6a812f9d0aacce77d31672e704c415977b6ad6d483e2087d410": {
     "title": "Jobs Huge Miss: Sept Payrolls Plunge To 29K, Below All Estimates As July Revised Negative... But Employment Soars",
     "ts": 1790948909.033766
+  },
+  "8700e69f4853507fe1e5d13f7c043e6c0138927107064d646542ee98e01dbaa3": {
+    "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+    "ts": 1791387027.372659
   },
   "87c76dba07b42fad2f04cba9f508345557cee698974568205b69ea98b7f54493": {
     "title": "Inside the ‘kill box’: The Yemenis who stayed behind in Houthi-held Mocha",
@@ -523,10 +527,6 @@
     "title": "The S&P 500 is back in record territory as the ‘Magnificent Seven’ ride to the rescue",
     "ts": 1791317614.369219
   },
-  "94ab8db5bc2b08d0cac37d31bc08187e3e20b7341465b585c655103d285f2c28": {
-    "title": "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert",
-    "ts": 1790756715.558534
-  },
   "95629b0275533f2ebf8e540ba3c6b04dae24020e22a14d8a24d94841f36e961a": {
     "title": "Halliburton Shuns Falklands Oil Project",
     "ts": 1791317614.369219
@@ -546,10 +546,6 @@
   "9a265e27fb36df9425ad569dec450d469da6bb7efc10daaaf0c3d57ebf4e02f9": {
     "title": "U.S. manufacturers say inflation is bad and not getting any better",
     "ts": 1790868253.230429
-  },
-  "9a5104bdbb108153f489003a9f48897915102ddec29a2613ff19293fd7613619": {
-    "title": "Pakistan vows to defend Saudi Arabia against Houthis",
-    "ts": 1790756715.558534
   },
   "9ac9bbb535bc119a95c1fb84c51342f0d6d16786a6a4f3f27db8de2bafa79378": {
     "title": "Tens of thousands protest in Spain after failed housing reforms",
@@ -622,10 +618,6 @@
   "ac68e771cc440586599c3d18f895f3b373db3933dc065fc3bdfac17e4fc087d7": {
     "title": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk",
     "ts": 1790968345.5952
-  },
-  "ae408c83ac501ca36b10307dfc895c8c0cfc9a7f2498cc358b80d5880eae0396": {
-    "title": "Trump denies offering Iran sanctions relief; Qatar pushes for peace talks",
-    "ts": 1790756715.558534
   },
   "aed22fce5b7fba5db894aad156b3a5d2f15f1c0780c0dbab4039f71f698afe4c": {
     "title": "Private Equity Firms Double Down on Fossil Fuels",
@@ -706,6 +698,10 @@
   "c3a164c455cff49c2c29e92d0bbbb8857b16df33836b35b8dde9a7ec4b25db71": {
     "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
     "ts": 1790901746.763739
+  },
+  "c3ad58474a1d40c1e22156b9a18d05e3b13ec7a9c566c9829c77fec396fbbb53": {
+    "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. What could we have done to prevent it?",
+    "ts": 1791387027.372659
   },
   "c60919490ad88c83e2192ffc5e7d69f6f9e0866fed808e9392c2b180e4bc2339": {
     "title": "Miami judge rules federal noncitizen voting law violates US Constitution",
@@ -814,10 +810,6 @@
   "e44bf728554a8d916df7272616d49fd67b404c90a95ba984a52d991b369a432f": {
     "title": "India vs Pakistan live: Asian Games cricket final",
     "ts": 1791004172.634182
-  },
-  "e488ca52afbd4dc1211c4924bf173edac5587ba9f56a0177ffdafbfd4dae7135": {
-    "title": "‘Dire situation’: Lebanese prisoners on hunger strike for 18 days",
-    "ts": 1790756715.558534
   },
   "e5de1749278418ff82d956150e5c56b929c716c39d2e73d27975f0ec903adb0b": {
     "title": "Fuel Price Shock Pushes Global Gas Car Sales Below 50% for First Time",
