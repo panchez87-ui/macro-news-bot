@@ -55,25 +55,9 @@
     "title": "Europe's Housing Crisis Is An Immigration Crisis, Berlin Data Confirms",
     "ts": 1790924266.16793
   },
-  "17cfce37989a8614771e251195eecd59d6ca490b59f6361ecd0f81119fe4a1f3": {
-    "title": "Paramount’s mega debt sale reveals how higher bond yields are squeezing corporate America",
-    "ts": 1790801161.526386
-  },
   "1868f36bdbec89237ea24921eed43a74814126db186806bb4f5ca2320edf1ecf": {
     "title": "Most Americans say US-Israel war on Iran not worth fighting: Poll",
     "ts": 1790888382.0537
-  },
-  "189a3fc9a21faceb035469ef52350045406a01034daa1de119610ad3ce30568b": {
-    "title": "EIA Reports Crude Build as Diesel Stocks Fall 14% Below Average",
-    "ts": 1790783553.315705
-  },
-  "19a331825aaf1d84f6a81108e6b1d5cc0a326ce071b15f99894ebf37f7d6f1a1": {
-    "title": "Citi tells investors it’s time to sell Moderna after 600%-plus stock gains",
-    "ts": 1790783553.315705
-  },
-  "1edd2cb0450324ea910cd4793351e5ce60d41c5522e0de4cd4c1b0c9520e2383": {
-    "title": "China extends 52-year unbeaten record as Asian Games organisers apologise",
-    "ts": 1790783553.315705
   },
   "227cb08c6ec30440bd587f2b4901deb37d5833ac0b7591a17fb305fddfe7c292": {
     "title": "Japan’s JERA Creates Oil Storage Firm to Manage National Reserve Sites",
@@ -114,10 +98,6 @@
   "335fb87caf0560cbd7ae505c5b1d472be09f7a03417b97927658f9173df15e06": {
     "title": "Minnesota Might Hand Republicans A Senate Upset Nobody Predicted",
     "ts": 1791081146.516511
-  },
-  "337bdec06d04ab6f2ec54862758b4d12afff5ea78482d9ed2814a74d4564ab8e": {
-    "title": "Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight",
-    "ts": 1790801161.526386
   },
   "33df3ecbb2c91a9595c8521d6bf4d0abce5757c0970998643ef5db1f2d55bf4f": {
     "title": "‘Not the act of a friend’: Israel’s deadline to close UK consulate nears",
@@ -175,13 +155,13 @@
     "title": "Man City lodge appeal after guilty finding in financial breach scandal",
     "ts": 1790948909.033766
   },
+  "4cb0cbdf0e4c634e4c9008567452d7eebe648c3297a38c79a305cc4526e122aa": {
+    "title": "Democratic FCC member warns of AI robocall misinformation risks in US",
+    "ts": 1791407667.996198
+  },
   "4d8294d7b7051dbdf4b6dd4ea40bf8ba12c4d0c983f7ddceea85bbe0fefa038a": {
     "title": "Moroccan journalists recount years of surveillance amid new Amnesty claim",
     "ts": 1791247551.082979
-  },
-  "4e9bf6aeea4bebfa94a836df1bf57ba24e307d9b0cd1b87dbf75ff5373e2f56b": {
-    "title": "How does Trump’s White House AI accord work?",
-    "ts": 1790801161.526386
   },
   "4ee0e7f8d49a7dcf2d8e3a384592734c03679a19299b57730a3543a86f658d24": {
     "title": "Western Digital and Seagate shares bounce back as analysts downplay the Toshiba threat",
@@ -190,10 +170,6 @@
   "4fe49a95472be7a523e8d1bb077984a2d6833a1e0a7eb61b78eea5f37e8bcdcf": {
     "title": "Prediction markets are coming for pop culture",
     "ts": 1791299001.285844
-  },
-  "50bb0e9ab8dd62ddc5f458949e483b79dda1f28125727b24d7d3bd9e3fff105b": {
-    "title": "Garvaghy Road standoff brings Northern Ireland’s old wounds back to surface",
-    "ts": 1790783553.315705
   },
   "5174614189c7186dd03cfc7b288423c26968ce1898b42422e38027af3d4b5328": {
     "title": "India’s Cockroach Party headlines day of anti-establishment protests",
@@ -235,10 +211,6 @@
     "title": "In Gaza, we cannot even begin to recover from trauma",
     "ts": 1791299001.285844
   },
-  "585bd6158bae6cd33731c423002df03385f53d0267d4aa54ab1096a9a846bcc7": {
-    "title": "Senators clinch construction permitting deal before election jet-set",
-    "ts": 1790801161.526386
-  },
   "5901991248a3bb1a424da1f1e5696c0c51f2e2edd308a67b39ad6b82064607e5": {
     "title": "Iran war live: Yemen forces reclaim strategic port city Mocha from Houthis",
     "ts": 1791247551.082979
@@ -246,10 +218,6 @@
   "59200d567b9b201f0009e0e9ec9175a121b08977665b1c28b18baace3a9cf4dd": {
     "title": "Aramco Cuts Asia Oil Prices to Six-Year Low, Raises Prices for Europe",
     "ts": 1791190401.39742
-  },
-  "5a98156df3e8ddb2df129509379c05800cd560e2fedacdad75abdfacc6f2fd51": {
-    "title": "Photos: Kashmir’s 600-year-old Wazwan wedding feast adapts to modern life",
-    "ts": 1790783553.315705
   },
   "5ad05a733fd0812256bc3aaaadc4f6be6b2c63a42c2f07a2432db218db482f55": {
     "title": "$9.6 Billion in Southeast Asian Upstream Assets Are for Sale Through 2027",
@@ -291,9 +259,9 @@
     "title": "Saudi Arabia says East-West pipeline pumping 5.8 million bpd",
     "ts": 1791299001.285844
   },
-  "60d6e4aee5f50acce0d52c30f0f4f6153b94da2b23340ed6d76c585b5e4446e5": {
-    "title": "Africa’s Massive Cement Expansion Could Drive An Energy Boom",
-    "ts": 1790801161.526386
+  "5fadc5618cef82a069016039123dc3add137f3a60a9c35fab63d41b0e85647bd": {
+    "title": "Pentagon Prepares 'Options' For Trump To Strike Iran Before Midterms",
+    "ts": 1791407667.996198
   },
   "60ee3c98c3bec41908580313243d5d46218694246f262dc7312ac1ec6c2229e1": {
     "title": "Oil prices fall on report of potential diesel, crude stock release; Brent back below $100",
@@ -330,10 +298,6 @@
   "67baac0ceae0efe461abdf5dc426c2fe5139a37c2da0e80820b7dfb5e6927a7d": {
     "title": "What’s happening in Ethiopia?",
     "ts": 1791247551.082979
-  },
-  "6d6c4a58d1e9fe30d534435db716c7ab3808d93b36075cc71db94652cb96f2e1": {
-    "title": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
-    "ts": 1790801161.526386
   },
   "7099353182345140fb314fd70da5d89d969262480ee60e7d28a3734d6d0c274a": {
     "title": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
@@ -379,6 +343,10 @@
     "title": "Syrian Airlines unveils laser-sharp look for the future",
     "ts": 1791247551.082979
   },
+  "7871d9d2fe6208c52ba340ca5a39a2f435806770ff1dfdcaba5d965066742ea5": {
+    "title": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
+    "ts": 1791407667.996198
+  },
   "7963c6d00eb93310acd3dbee34285c4e2b2c6adf0946aa85ec46b22262d24eca": {
     "title": "World Bank Warns Asia Is Running Out of Money to Fight Energy Shock",
     "ts": 1791271786.522128
@@ -386,6 +354,10 @@
   "7ad38d10c956fb658e7f6a0646dc03baea4408d47741db27cc5a951b3bf82bb9": {
     "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
     "ts": 1790814653.585766
+  },
+  "7b50e45ca8133ddde988c2b7abf25a0396ab0218c8a98004068ad885d680d4a9": {
+    "title": "NY Times Suggests Babies Are Not Conscious",
+    "ts": 1791407667.996198
   },
   "7bb42d1c7a6bc06bfb7f5f608dee5b753b9e0194c8ea564d49285296d48cc318": {
     "title": "As Treasury yields touch generational highs, investors brace for the market fallout",
@@ -403,10 +375,6 @@
     "title": "What Michael Milken Would See In AI Chip Financing",
     "ts": 1791043839.198541
   },
-  "7d2a1031c0da999109db28398b5442f537bcd7070c56a0781cd93f715b91b25d": {
-    "title": "Israeli attacks across Gaza kill at least eight",
-    "ts": 1790801161.526386
-  },
   "7d8f100fcba84c97363708ad7938c79bf946da9844a10459942c9bf968d1488a": {
     "title": "Cornell rape allegations renew push to change New York sexual assault law",
     "ts": 1790888382.0537
@@ -419,10 +387,6 @@
     "title": "Gulf Producers Say Importers Should Share the Cost of Hormuz Workarounds",
     "ts": 1791299001.285844
   },
-  "801ce35fa8df3681927efd24ab6980c13cdb7b75bd662e2f5302005b77b36886": {
-    "title": "Displaced by war, young Sudanese turn to entrepeneurship to survive",
-    "ts": 1790801161.526386
-  },
   "8024f71c6d7916ecc00954f7dd73d5b3dc69ef8ea5130bbeaf0afa51c58a08b9": {
     "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
     "ts": 1791357017.620356
@@ -434,10 +398,6 @@
   "81064d20e20676cc78eadd4ac8c96b0848e744ff5f4eab490d473e40ed416644": {
     "title": "Tennessee Man Who Recorded Police Sues After Eight Armed Officers Raided His Home",
     "ts": 1790888382.0537
-  },
-  "81cc42dd3b4bd256a663585c7e93330589af619cd425d9b75b60c107cc28af47": {
-    "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
-    "ts": 1790801161.526386
   },
   "8324a648d6a9085d36dab39a3d455de344d46adc202d5135e35a2908066001a2": {
     "title": "Russia denies imposing anti-plague measures after lab worker death",
@@ -479,6 +439,10 @@
     "title": "AI chatbots recommend shopping at Walmart over just about anywhere else, analysts find",
     "ts": 1791224448.126531
   },
+  "8a9f089ecdbce606c16404ab15c7c4cfd2b4d8579fc70945978f443f81d892bb": {
+    "title": "Iran War Pushes 25 Countries Into New Electrification Policies",
+    "ts": 1791407667.996198
+  },
   "8cef2fb33e5573c804e0b3699640b1d785c9dd7a6fbfac712025a0dac45eca49": {
     "title": "\"Showings Have Stopped\": Housing Market Freezes As Mortgage Rates Soar To 7.28%, Highest In 3 Years",
     "ts": 1790888382.0537
@@ -490,10 +454,6 @@
   "8d64e70c0f86dddbbd18934ecf0e47de32bee005a00e09e5e5e35f4febfb17eb": {
     "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
     "ts": 1791299001.285844
-  },
-  "8e309bfa558c8f7c390aca8a3d66a2a1c3c188b5a0b25bcfeed0ae47d5b3bb6b": {
-    "title": "Flydubai FZ1073 timeline: How the Israel-bound flight emergency unfolded",
-    "ts": 1790801161.526386
   },
   "8ebb9c75478ac72443c83c351c2060ec1d60790f68e1452d1152bcd473afcafc": {
     "title": "September jobs report may show labor market is on the mend — but it’s far from cured",
@@ -543,6 +503,10 @@
     "title": "DOJ Sues University Of Delaware: Illegal Aliens Get In-State Tuition, Out-Of-State Americans Pay 2.7x More",
     "ts": 1791247551.082979
   },
+  "995438df78e7d800d7407bc1fad228c0ab626ef17db52d1556df2cb8ed2c32d4": {
+    "title": "More Ukrainian-Style One-Way Attack Drones Seized In Mexico",
+    "ts": 1791407667.996198
+  },
   "9a265e27fb36df9425ad569dec450d469da6bb7efc10daaaf0c3d57ebf4e02f9": {
     "title": "U.S. manufacturers say inflation is bad and not getting any better",
     "ts": 1790868253.230429
@@ -554,10 +518,6 @@
   "9c6465c9437e1b15e1a14419de35ac2c35dfb83d59b0e517e714c8e2f8ff5e74": {
     "title": "Western militaries are undermining Ukraine’s defence, experts say",
     "ts": 1790868253.230429
-  },
-  "9da14f06a61f58be65eb09dbe0c5f43d886e044dbd4aea595cd244d15c73cf26": {
-    "title": "US regulator launches probe into AI companies",
-    "ts": 1790801161.526386
   },
   "9e199235a347576bb34e1f9c398c1357563b9768f49e9579f065168b207e5eb8": {
     "title": "Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years",
@@ -611,6 +571,10 @@
     "title": "Cowen: \"Early Stages Of Looming EV Comeback\"",
     "ts": 1791190401.39742
   },
+  "aa5316f3f2ca61171d831cab3714c62044932e121f81da879293fec73614229d": {
+    "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
+    "ts": 1791407667.996198
+  },
   "abe10d716e41f9123e969e6b3775f6e1a2b0b2048ade1613c00dd95af69bc487": {
     "title": "Cars have become unaffordable for many Americans. Here’s what the numbers show.",
     "ts": 1790968345.5952
@@ -643,6 +607,10 @@
     "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
     "ts": 1790968345.5952
   },
+  "b29aab8839899c49d42a6d11ded956ecad5e62b1075a5edeecb49da8e7a7ff28": {
+    "title": "Options traders are betting on a dramatic drop in interest rates",
+    "ts": 1791407667.996198
+  },
   "b2d0a2b17a2ade97b2d40f4e8a0ba68614561e89e0cab8517a304d306f93aab4": {
     "title": "Sunday in Japan: A Ugandan asylum seeker turns to filmmaking",
     "ts": 1790868253.230429
@@ -659,17 +627,13 @@
     "title": "Trump Admits Diesel US Export Ban Could Raise Gasoline Prices",
     "ts": 1790948909.033766
   },
-  "b9becec01ce716d79ebb2a373071cab45bd216777154d9487fd2e6c9cef5ed41": {
-    "title": "French court sentences 13 men over deadliest small-boat crossing to UK",
-    "ts": 1790801161.526386
-  },
-  "baccf9b593a7bba2ffc6bfccd23816594d30ba092ddcc17d471a46320570feaf": {
-    "title": "US judge rules Wisconsin mosque leader Salah Sarsour can be deported",
-    "ts": 1790801161.526386
-  },
   "bd1e6687461c49664d6e353cee38abee68ade9f80a88fb2e91ce388466cd7a99": {
     "title": "Anvil Announces SDK Launch, Enterprise Partnerships, and $5M ANVL Token Sale",
     "ts": 1791317614.369219
+  },
+  "be417c4d7ee331f62305416f954f16b59029fdac3b47364f15ec044f851becb9": {
+    "title": "Global Diesel Crunch Fuels New Wave of Energy Nationalism",
+    "ts": 1791407667.996198
   },
   "be7dbab0c45e34f7529f70852cf5e091ffe30f677d469d63d5a0f4dd77d76183": {
     "title": "What new measures is Iran taking to counter US economic pressure?",
@@ -682,10 +646,6 @@
   "c0810cae441f2a0b1fb5bbae3a52acad8bdafaa5824842115809bc9e40c01ec3": {
     "title": "10 injured after car crashes into rugby supporters in Australia",
     "ts": 1791004172.634182
-  },
-  "c0a54aa6c07b417c2e10ed351239fbcb96aae98e0e3609666707216a56c373d3": {
-    "title": "Is Spain’s anti-eviction decree a fix for its housing crisis?",
-    "ts": 1790783553.315705
   },
   "c23f0f83fddbe058089ce97fec50a76216c63e273e1c8ba44d3a35dccbd7598b": {
     "title": "Pentagon Backs Ambitious Plan to Beam Solar Power From Space",
@@ -766,10 +726,6 @@
   "dac640fa5559b78c3e80dcbaaf1f6bd9725ea0a15f531b8211094db0bce3924a": {
     "title": "China In Large Russia-Hosted Drills Featuring 'Applied Lessons Of Ukraine War'",
     "ts": 1791357017.620356
-  },
-  "db3a73a598a3db9ad75aca48fa096f1bac31f83ac19736c3a1bff7c7479f9c78": {
-    "title": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
-    "ts": 1790783553.315705
   },
   "dc15ab9ab50c14536b91f4a4f606e2beeb3c59dbb5db2abf7a701ceb37f53db3": {
     "title": "Election debate cancelled in Brazil, bomb scare outside Supreme Court",
@@ -887,10 +843,6 @@
     "title": "War on Iran: Is escalation more likely than a deal?",
     "ts": 1791142386.287211
   },
-  "f824ee35667d1c4998b5eb1fed518ea70c13d32a12d1de25fd47e1fa6bbdbe50": {
-    "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
-    "ts": 1790783553.315705
-  },
   "f868f9d4293c56a791ea21da94377c5d8c4d36d174104b0c6fa7d2ac276a3e0b": {
     "title": "Sudan’s army says it captured RSF stronghold in North Kordofan",
     "ts": 1790968345.5952
@@ -915,12 +867,24 @@
     "title": "As a mortgage loan officer, I rejected wealthy couples. Here’s what can get your application declined.",
     "ts": 1791299001.285844
   },
+  "fc45879ec968531ef07aab15c02307b1deb5d36e407d2cf62d78780d9935a0b7": {
+    "title": "Israel’s deadline to close UK consulate in East Jerusalem nears",
+    "ts": 1791407667.996198
+  },
   "fc6f6a16c9101396d0e198fa3799d6490bef8e85d876c81dcd44650d16f0dfcc": {
     "title": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
     "ts": 1791357017.620356
   },
+  "fe715824762ecea834c09314ea033f068ca2fa4516a90e6c19500ce6344eaed3": {
+    "title": "Trump’s diesel order exposes White House limits to counter surging fuel prices",
+    "ts": 1791407667.996198
+  },
   "ff6af0f213ffae15eee1bb59da55581d43bc467cffce3be52075494cc1c2108b": {
     "title": "Gunmen Attack Christian Town In Syria, Wounding Woman & Smashing Shops",
     "ts": 1791247551.082979
+  },
+  "fff12b7cc25ffae64c0cc05c32082609c63a36071045eb3185df84f534bba752": {
+    "title": "US Republicans, independents express low trust in election integrity: Poll",
+    "ts": 1791407667.996198
   }
 }
