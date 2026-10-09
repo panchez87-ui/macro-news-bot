@@ -59,10 +59,6 @@
     "title": "Israel’s Supreme Court overturns election panel ban on Arab parties",
     "ts": 1790968345.5952
   },
-  "1787048c0fcd5211f0d05f90330cf4cfd260811daa55da4145a6e1995fa5870c": {
-    "title": "Europe's Housing Crisis Is An Immigration Crisis, Berlin Data Confirms",
-    "ts": 1790924266.16793
-  },
   "1a626b4fc82618b97fd7b8acc7002bf7353145359573b9bd7b8945fc032e9456": {
     "title": "Guacaccino? Starbucks Explores Chipotle Takeover In Potential Record QSR Mega-Deal",
     "ts": 1791476680.500654
@@ -259,6 +255,10 @@
     "title": "Pentagon Prepares 'Options' For Trump To Strike Iran Before Midterms",
     "ts": 1791407667.996198
   },
+  "600414ddef45dce4473004b12cce5abb5e79758d26e399957ba6f5add599037f": {
+    "title": "Japan’s Okinawa calls for review of US forces pact after killing",
+    "ts": 1791536215.646093
+  },
   "60ee3c98c3bec41908580313243d5d46218694246f262dc7312ac1ec6c2229e1": {
     "title": "Oil prices fall on report of potential diesel, crude stock release; Brent back below $100",
     "ts": 1790948909.033766
@@ -323,6 +323,10 @@
     "title": "Sea off Thai island turns green",
     "ts": 1790948909.033766
   },
+  "72a82b5db7ee92cecca21f1a0c824bee22782ef2b17e9d1d44487c071b6c3d4d": {
+    "title": "US ICE releases Kashmiri filmmaker Arfat Sheikh from custody",
+    "ts": 1791536215.646093
+  },
   "73a38368906625b81492e222276810aba96949756ad8aedf97c7e3fb6d832869": {
     "title": "Why $100 Oil Is Hard to Kill",
     "ts": 1791333439.843716
@@ -370,6 +374,10 @@
   "7d28d26c7f1b1ce349eb4e8c0a8936e54a14cb787dcf3c97d4002803864713e5": {
     "title": "What Michael Milken Would See In AI Chip Financing",
     "ts": 1791043839.198541
+  },
+  "7d7d797818041493e41afa406695a7b34ea467f08a711421ef8ce7d3ede6b45d": {
+    "title": "Why one Wall Street firm sees parallels to the late 1970s and recommends shorting U.S. stocks",
+    "ts": 1791536215.646093
   },
   "7d990c791b2293aec316681290a869f85521245cb951fd215cbc43db349a70ac": {
     "title": "Police use tear gas and water cannons on student protestors in Paris",
@@ -451,6 +459,10 @@
     "title": "Oil prices jump 4% as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production",
     "ts": 1791476680.500654
   },
+  "8fbc99f8c01029e5dc049b3cae8307bf48bebea0f2b392d361b1935ab3e85851": {
+    "title": "LeBron James stars in NBA preseason debut but Nets defeat 76ers",
+    "ts": 1791536215.646093
+  },
   "90ba24510c8afdecabd1c87e77754da9258a5fa1e9fb4f719c2da93b01c0d154": {
     "title": "European Utopia Burns: Far-left Riots Spread Like Cancer From France To Belgium",
     "ts": 1791271786.522128
@@ -498,6 +510,14 @@
   "9ac9bbb535bc119a95c1fb84c51342f0d6d16786a6a4f3f27db8de2bafa79378": {
     "title": "Tens of thousands protest in Spain after failed housing reforms",
     "ts": 1791043839.198541
+  },
+  "9c10f2d553725bc18b04eea7f2a6277c4d760969e5c25c1531f3772ba0797be1": {
+    "title": "Why has Iraq decided to ban online map service Waze?",
+    "ts": 1791536215.646093
+  },
+  "9c50c5da9220f8ad16ab572073f4aa95649a5daa25a7f10f6cde33f68556add0": {
+    "title": "Three years after October 7, prolonged war takes its toll on Israelis",
+    "ts": 1791536215.646093
   },
   "9cd11c11ac9b74cab6c2b9ae27298b252c31e15d5e96c193bab3be973645fb33": {
     "title": "Why Israel loves skunk water",
@@ -559,10 +579,6 @@
     "title": "Nicaragua says it will withdraw from Central American Parliament",
     "ts": 1791154906.102136
   },
-  "a89b3c9f51bffbc31f6bf349a5f496d24bccf2eb0a235b2514fb6e26df781fa4": {
-    "title": "Asian Games 2026: Taiwan’s gender-row boxer Lin Yu-ting wins gold medal",
-    "ts": 1790924266.16793
-  },
   "a92846a990106f12a8bcb595a4bf4ad99bb164bb4a2c3dce0a0986ee36878fcd": {
     "title": "London voters go to polls for Holborn and St Pancras by-election",
     "ts": 1791476680.500654
@@ -598,10 +614,6 @@
   "af8d4911449f95b47bd50a0fe35b375eeb237eacd64b980cb3889566663aa727": {
     "title": "These companies look set to face high-profile hearings and other scrutiny if Democrats win the House",
     "ts": 1791027307.520721
-  },
-  "b1b031b5d92425f705389477f36abc418388d967de2795850b3d7a72f01bd671": {
-    "title": "Greece pushes EU to suspend asylum during mass migration surges",
-    "ts": 1790924266.16793
   },
   "b1d4b1b40acd1a4785c698397c90c91c43b4526aca6a3bca64f0154fe120524e": {
     "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
@@ -654,10 +666,6 @@
   "c3ad58474a1d40c1e22156b9a18d05e3b13ec7a9c566c9829c77fec396fbbb53": {
     "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. What could we have done to prevent it?",
     "ts": 1791387027.372659
-  },
-  "c60919490ad88c83e2192ffc5e7d69f6f9e0866fed808e9392c2b180e4bc2339": {
-    "title": "Miami judge rules federal noncitizen voting law violates US Constitution",
-    "ts": 1790924266.16793
   },
   "c866a1d23977f9bf8febaa145100bd26862348a0ca3bcb168da5cd84a48da282": {
     "title": "UK ex-prince Andrew search warrants quashed after police accept legal error",
@@ -718,10 +726,6 @@
   "dac640fa5559b78c3e80dcbaaf1f6bd9725ea0a15f531b8211094db0bce3924a": {
     "title": "China In Large Russia-Hosted Drills Featuring 'Applied Lessons Of Ukraine War'",
     "ts": 1791357017.620356
-  },
-  "dc15ab9ab50c14536b91f4a4f606e2beeb3c59dbb5db2abf7a701ceb37f53db3": {
-    "title": "Election debate cancelled in Brazil, bomb scare outside Supreme Court",
-    "ts": 1790924266.16793
   },
   "dc8332167e166155c3939471c7d0aa4c1e02899ec22a267b95464ceb05dc758f": {
     "title": "Yemen’s displaced children dream of returning to school",
@@ -842,6 +846,10 @@
   "fc6f6a16c9101396d0e198fa3799d6490bef8e85d876c81dcd44650d16f0dfcc": {
     "title": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
     "ts": 1791357017.620356
+  },
+  "fd709fbff47676cda39d03ad16bf2425766dc5431524688759df41165555ee84": {
+    "title": "Venture Global Loses LNG Arbitration to Portugal's Galp",
+    "ts": 1791536215.646093
   },
   "fe715824762ecea834c09314ea033f068ca2fa4516a90e6c19500ce6344eaed3": {
     "title": "Trump’s diesel order exposes White House limits to counter surging fuel prices",
