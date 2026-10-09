@@ -43,10 +43,6 @@
     "title": "Siberian Plague-Lab Death Draws FSB Escort For Ambulances",
     "ts": 1791067839.718727
   },
-  "161839b196fa95aeface49c0c284203b9cf25541cfe515bf741458c77dd34566": {
-    "title": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock",
-    "ts": 1790948909.033766
-  },
   "166cb0b067c8f9c7de4a7f3ce7bfe1608c03c4b979af4ef9a3fbba2f7f57b6a5": {
     "title": "Trump Admin Cracks Down On Foreign Worker Fraud: Bans MSFT From H1-B Program, Probes 9 Colleges Over J-1 Visas, Hikes Costs For Students",
     "ts": 1791476680.500654
@@ -59,6 +55,10 @@
     "title": "Israel’s Supreme Court overturns election panel ban on Arab parties",
     "ts": 1790968345.5952
   },
+  "19b85c52d25e7b24338a4f99df16294d928fb9eb7a48053feafff5c3e467ed66": {
+    "title": "US sanctions International Criminal Court itself in latest escalation",
+    "ts": 1791562071.700972
+  },
   "1a626b4fc82618b97fd7b8acc7002bf7353145359573b9bd7b8945fc032e9456": {
     "title": "Guacaccino? Starbucks Explores Chipotle Takeover In Potential Record QSR Mega-Deal",
     "ts": 1791476680.500654
@@ -67,9 +67,9 @@
     "title": "Russia's Crown Jewel Refinery Ablaze After Drone Strike, Data Center Also Hit In War First",
     "ts": 1791476680.500654
   },
-  "227cb08c6ec30440bd587f2b4901deb37d5833ac0b7591a17fb305fddfe7c292": {
-    "title": "Japan’s JERA Creates Oil Storage Firm to Manage National Reserve Sites",
-    "ts": 1790948909.033766
+  "1f73472a04f8bbca40249d3a9c3b9d5f511e95aa97934900808ecd56d934f690": {
+    "title": "Israeli settler attacks target Palestinian olive harvest in West Bank",
+    "ts": 1791562071.700972
   },
   "233e827426c90eda3995f82445741dec2b2db506f9cbd07fc9f020274aa2998b": {
     "title": "Yemeni government forces claim 1,860 Houthis ‘neutralised’",
@@ -87,6 +87,10 @@
     "title": "WHO warns of ‘devastating consequences’ due to delayed aid entry into Gaza",
     "ts": 1791004172.634182
   },
+  "29c1c86249073f5283f3bb435809a9ffdbac289e7a308ac13fafb662bfd39cac": {
+    "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
+    "ts": 1791562071.700972
+  },
   "2dabba496f1173366d7da6b47814713a60de043911db05ef584f49a5e8c88f2a": {
     "title": "The Treasury market is facing a crucial vote of investor confidence",
     "ts": 1791476680.500654
@@ -94,10 +98,6 @@
   "2e005b1343a99e2d92fff762c0623e11c71124861b3a0b755bc83efa4d7ed8eb": {
     "title": "What we know about the co-pilot accused in Flydubai attack",
     "ts": 1791043839.198541
-  },
-  "2f7656d1bdb600f84d6b13e11e64f174d3940656aba86eb61a7881d9867d1d6b": {
-    "title": "Why Western Digital and Seagate are seeing big stock drops today",
-    "ts": 1790948909.033766
   },
   "305e141c7ba3bdbf72d1553bdd6c43bf39352fc83d31f4e598b817ccce7a8a8d": {
     "title": "Cowardly Europe Fears Dissent",
@@ -131,33 +131,17 @@
     "title": "Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy",
     "ts": 1791496864.670769
   },
-  "3b9f407b9d7398ccbef4c66b1a0039749ebee220c19e7c42e7e1e485c049d7de": {
-    "title": "Trump vs Europe as US presses for release of emergency diesel stocks",
-    "ts": 1790948909.033766
-  },
   "3d24a84273f8dfdce3191ef3a310edd3eb60b3d8c96681b9ec300e8bb681c02b": {
     "title": "Zimbabweans struggle to rebuild after fleeing xenophobia in South Africa",
     "ts": 1791081146.516511
   },
-  "3d4aad789738ca5d0b069d0692cb552a95e00bceea39a4fda67815aa8a508e86": {
-    "title": "Wolf encounter: A photographer on what humans have lost",
-    "ts": 1790948909.033766
-  },
-  "409afcca66fbda22f09dd5c3982ac91339eeb7d0dec5d99a010470b2f62c5d4f": {
-    "title": "'Massive Short Squeeze': Yields, Rate-Hike Odds Plummet After Piss-Poor Payrolls Print",
-    "ts": 1790948909.033766
+  "3e031eb84a4bef270915be27655d332439663ed7272580b32bc6a153072622d8": {
+    "title": "Trump’s planned DC arch faces new lawsuit",
+    "ts": 1791562071.700972
   },
   "411f7ca6e58d677faa5db53c06148e14a6519e980e119b7c681f274bbaec3849": {
     "title": "Energy Shock Wipes $264 Billion Off the World's Top Mining Stocks",
     "ts": 1791299001.285844
-  },
-  "47d31702cd15c94489442d946540df8a9ce302dda548915e158769eb18826879": {
-    "title": "Protests shutter hundreds of French schools as violence flares",
-    "ts": 1790948909.033766
-  },
-  "4add9688c4331ebb37afafd39ef77b920a2a978258b424cae15794699d14a15c": {
-    "title": "Man City lodge appeal after guilty finding in financial breach scandal",
-    "ts": 1790948909.033766
   },
   "4cb0cbdf0e4c634e4c9008567452d7eebe648c3297a38c79a305cc4526e122aa": {
     "title": "Democratic FCC member warns of AI robocall misinformation risks in US",
@@ -171,6 +155,10 @@
     "title": "Western Digital and Seagate shares bounce back as analysts downplay the Toshiba threat",
     "ts": 1791224448.126531
   },
+  "4fe2897eb5b9f525070e31133b6fc480337c346ecd101a954f07a89ba2229ef0": {
+    "title": "Hurricane Isaias strengthens into Category 3 storm with US in its sights",
+    "ts": 1791562071.700972
+  },
   "4fe49a95472be7a523e8d1bb077984a2d6833a1e0a7eb61b78eea5f37e8bcdcf": {
     "title": "Prediction markets are coming for pop culture",
     "ts": 1791299001.285844
@@ -183,17 +171,9 @@
     "title": "India’s Cockroach Party headlines day of anti-establishment protests",
     "ts": 1791004172.634182
   },
-  "53efa1832fd73a3eee7b5005ffb912a4aa32d182de7bead454d35d0c1af31e38": {
-    "title": "12 minutes of madness: How Flydubai pilot, passengers saved plane midfall",
-    "ts": 1790948909.033766
-  },
   "5406fb6604117c3f8b5153df2a8bb7f945a072119f7cc03d7f5d9257123295c5": {
     "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
     "ts": 1791299001.285844
-  },
-  "547891d4bda19cea08f32f819da1bc401065fc663d115d0c67c8a4c90352a15f": {
-    "title": "Ebola death toll surpasses 4,000 as DR Congo struggles to suppress outbreak",
-    "ts": 1790948909.033766
   },
   "54e73ea8ef1f0d49892fd4145debb5e57b3d65716de4941fd45f5d2db34e7378": {
     "title": "Ethiopian government troops seize Tigray’s capital Mekelle",
@@ -202,14 +182,6 @@
   "554cb0d08cc5562cf748cbab895c2950f5fe9b6306ddc12f3b6042e10894248c": {
     "title": "Ex-German spy chief arrested: A history of spooks working for enemy powers",
     "ts": 1791387027.372659
-  },
-  "55c1da40ee80817ba2626d2034bfc0f1f04a3e2b18b53165c610e6fcf1371da4": {
-    "title": "Art Of Leverage? France Pushes 100-Million-Barrel Emergency Release After Trump Threatens Diesel Export Ban",
-    "ts": 1790948909.033766
-  },
-  "5730967154f7832831262c31c2c76ed32801aa2c1a50891a405ff56e831238f8": {
-    "title": "Tesla’s EV sales beat Wall Street’s expectations again, and the stock jumps",
-    "ts": 1790948909.033766
   },
   "57bc99a53d2b966f75ff755004e4bcc60674b1a61d8756942d32ed5d4f747ced": {
     "title": "In Gaza, we cannot even begin to recover from trauma",
@@ -259,10 +231,6 @@
     "title": "Japan’s Okinawa calls for review of US forces pact after killing",
     "ts": 1791536215.646093
   },
-  "60ee3c98c3bec41908580313243d5d46218694246f262dc7312ac1ec6c2229e1": {
-    "title": "Oil prices fall on report of potential diesel, crude stock release; Brent back below $100",
-    "ts": 1790948909.033766
-  },
   "612fd3a1098885c6f4684674da7c8f3340985a5dce62bd156a3e8fd29d53cab2": {
     "title": "India defends satellite internet approval process after Elon Musk jab",
     "ts": 1791449462.237112
@@ -311,6 +279,10 @@
     "title": "What’s happening in Ethiopia?",
     "ts": 1791247551.082979
   },
+  "6e31a24b13bdb830274cc64d86e76d67dab87a13e4cc31859b2dae68ce67e964": {
+    "title": "Pashinyan’s Nuclear U-Turn Gives Moscow an Opening in Armenia",
+    "ts": 1791562071.700972
+  },
   "7099353182345140fb314fd70da5d89d969262480ee60e7d28a3734d6d0c274a": {
     "title": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
     "ts": 1791299001.285844
@@ -319,10 +291,6 @@
     "title": "25 States Ask Supreme Court To End Maine's 72-Hour Gun-Purchase Wait",
     "ts": 1791081146.516511
   },
-  "72864940bcf6f6a6ee8072e9c6654d20c2d91afa717df818414b4d12ff978dab": {
-    "title": "Sea off Thai island turns green",
-    "ts": 1790948909.033766
-  },
   "72a82b5db7ee92cecca21f1a0c824bee22782ef2b17e9d1d44487c071b6c3d4d": {
     "title": "US ICE releases Kashmiri filmmaker Arfat Sheikh from custody",
     "ts": 1791536215.646093
@@ -330,10 +298,6 @@
   "73a38368906625b81492e222276810aba96949756ad8aedf97c7e3fb6d832869": {
     "title": "Why $100 Oil Is Hard to Kill",
     "ts": 1791333439.843716
-  },
-  "74e6e5ca920c0becb5df2cb27466a539833745b97ffba11e74e101b89bdf7839": {
-    "title": "Moment mother bear slams into car to protect cub",
-    "ts": 1790948909.033766
   },
   "76811d132dd69df2b3d73dffa5717f8eb73baba8421dd23fb89f43469bb681fe": {
     "title": "U.S. Crude Stocks Dip But Distillates Hold Steady",
@@ -418,10 +382,6 @@
   "862d21c5e2245db6aa6ce7b9777a1f96e1a4cf4c89a7cdb6a264e93c4046b8c4": {
     "title": "Standard Chartered Says Hormuz Oil Flows Are Far From Normal",
     "ts": 1791247551.082979
-  },
-  "86a4acea62e6f6a812f9d0aacce77d31672e704c415977b6ad6d483e2087d410": {
-    "title": "Jobs Huge Miss: Sept Payrolls Plunge To 29K, Below All Estimates As July Revised Negative... But Employment Soars",
-    "ts": 1790948909.033766
   },
   "8700e69f4853507fe1e5d13f7c043e6c0138927107064d646542ee98e01dbaa3": {
     "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
@@ -535,10 +495,6 @@
     "title": "Croatia vs Spain: UEFA Nations League – Yamal, Modric, head-to-head",
     "ts": 1791271786.522128
   },
-  "a08ef4ef665fc4e0ad816aa32165f908c6edc50d96c54f672101fcea047bb907": {
-    "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
-    "ts": 1790948909.033766
-  },
   "a1d0c6f9c72457e6b250ddbd2967703d3ce3b593fd00697c627079f58f78fa57": {
     "title": "Protests, debate follow death of Maricarmen, 87, Spain protest symbol",
     "ts": 1791511396.649233
@@ -615,6 +571,10 @@
     "title": "These companies look set to face high-profile hearings and other scrutiny if Democrats win the House",
     "ts": 1791027307.520721
   },
+  "b025e62767f12895249aea85b6f17a75be7a9e832b9b6f0e8df12f2243976d38": {
+    "title": "Man City charges: How Premier League reacted – United, Arsenal, Liverpool",
+    "ts": 1791562071.700972
+  },
   "b1d4b1b40acd1a4785c698397c90c91c43b4526aca6a3bca64f0154fe120524e": {
     "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
     "ts": 1790968345.5952
@@ -631,10 +591,6 @@
     "title": "Should I put my nest egg in a 30-year Treasury bond?",
     "ts": 1791299001.285844
   },
-  "b65c69ff7373e47a930ab491de67ecc4872b2b168d674c642daadc466bf41153": {
-    "title": "Trump Admits Diesel US Export Ban Could Raise Gasoline Prices",
-    "ts": 1790948909.033766
-  },
   "bd1e6687461c49664d6e353cee38abee68ade9f80a88fb2e91ce388466cd7a99": {
     "title": "Anvil Announces SDK Launch, Enterprise Partnerships, and $5M ANVL Token Sale",
     "ts": 1791317614.369219
@@ -642,6 +598,10 @@
   "bd736e5864b4a029eaafe515bd00f3d0db58cc500ac6747013592e139ab4e0ab": {
     "title": "This chart shows the No. 1 reason why the cost of raising kids jumped 60% in eight years",
     "ts": 1791476680.500654
+  },
+  "be238f1825406af432a41cc1ba9d9e5c3d654539312a7814c330eedf9890d68e": {
+    "title": "Can Lasers Beat Drone Swarms? The Pentagon Is About to Find Out",
+    "ts": 1791562071.700972
   },
   "be417c4d7ee331f62305416f954f16b59029fdac3b47364f15ec044f851becb9": {
     "title": "Global Diesel Crunch Fuels New Wave of Energy Nationalism",
@@ -783,13 +743,17 @@
     "title": "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
     "ts": 1791165218.426769
   },
+  "eea30a1f7f88a662a42e955f1c146b82e92edfa6c7e11d415754b485a3c2cdc9": {
+    "title": "Mortgage rates are soaring. In America, the smart money rents.",
+    "ts": 1791562071.700972
+  },
   "efb9488036bf6fd8fb76b92358554aa8327432c6912738fb083e94b25d7104d5": {
     "title": "Anthropic President Daniela Amodei Created A Stuffed-Animal Advisory Council While At OpenAI",
     "ts": 1791333439.843716
   },
-  "f1187957450109d299c695ac7932928ce18bd0adfe8723d2f354610efb8b1a0a": {
-    "title": "Three reasons this Wall Street market-making powerhouse says investors should reload on stocks right now",
-    "ts": 1790948909.033766
+  "f1370edb32ed6b1db3749ab072d9a4103f3db9e3ed517f581301819325cc6c41": {
+    "title": "Here’s how much stocks could fall if the Democrats sweep Congress, according to BofA",
+    "ts": 1791562071.700972
   },
   "f172ebcc8ea754a6d11cf83781082bc57410adcfe8b27507ec7bbd164fef8210": {
     "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
