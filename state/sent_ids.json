@@ -35,6 +35,10 @@
     "title": "Video said to show Mali army in Kidal after retaking city",
     "ts": 1791476680.500654
   },
+  "144e71530c98e84126691e7e74061190701acef91fb191ae061537e090c6f00c": {
+    "title": "USS Abraham Lincoln returns after record-breaking deployment",
+    "ts": 1791511396.649233
+  },
   "14f2c3213606b241358b4b7300128807dd59afc3f61dc47697d0466ae5403295": {
     "title": "Siberian Plague-Lab Death Draws FSB Escort For Ambulances",
     "ts": 1791067839.718727
@@ -126,10 +130,6 @@
   "377e4aaeaa498a34e9df5acf1a01c6e3b0829ff54ab1456120b03f47daefa965": {
     "title": "Rubio: No direct link between US bombers removal and UK base incident",
     "ts": 1791224448.126531
-  },
-  "37a87f23de79b21b0b6d9aed3ce2a1bc7c9f5ca8736a8485b52e97aca8befd73": {
-    "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
-    "ts": 1790901746.763739
   },
   "382872f685464ae003baf51cd304149e0859aa480a135ab2b4b38a828ad80ace": {
     "title": "Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy",
@@ -231,10 +231,6 @@
     "title": "$9.6 Billion in Southeast Asian Upstream Assets Are for Sale Through 2027",
     "ts": 1791224448.126531
   },
-  "5afa328ecaff19805c79ba34666c812a8e7ee392b75347615f4dc7b446e88c82": {
-    "title": "5 Energy ETFs That Have Soared in 2026",
-    "ts": 1790901746.763739
-  },
   "5bba224810b43a7a40fe32521833d32224fb83cd4ceb73c54313be751953ebc7": {
     "title": "Chevron, Shell and BP Pull Workers From the Gulf Ahead of Hurricane",
     "ts": 1791357017.620356
@@ -307,6 +303,10 @@
     "title": "Wall Street is hyping AI. This fund manager is betting instead on fires, HVAC and Berkshire Hathaway.",
     "ts": 1791299001.285844
   },
+  "6704c99f1148ab987c93a2a53ed67e24004fa5bb5cd2c8d77f8c034169370ff3": {
+    "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
+    "ts": 1791511396.649233
+  },
   "67baac0ceae0efe461abdf5dc426c2fe5139a37c2da0e80820b7dfb5e6927a7d": {
     "title": "What’s happening in Ethiopia?",
     "ts": 1791247551.082979
@@ -362,6 +362,10 @@
   "7c4d30018157aefcab433f088f3aae9c78c14b097bd7f6b1eac159c314e16b40": {
     "title": "Al Jazeera speaks to Palestinian schoolboy from viral photograph",
     "ts": 1791056902.774275
+  },
+  "7d14b03ad7f98ed0be7176ba99a390eb7582e646e7db580df1048601567e59c1": {
+    "title": "UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal",
+    "ts": 1791511396.649233
   },
   "7d28d26c7f1b1ce349eb4e8c0a8936e54a14cb787dcf3c97d4002803864713e5": {
     "title": "What Michael Milken Would See In AI Chip Financing",
@@ -515,6 +519,10 @@
     "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
     "ts": 1790948909.033766
   },
+  "a1d0c6f9c72457e6b250ddbd2967703d3ce3b593fd00697c627079f58f78fa57": {
+    "title": "Protests, debate follow death of Maricarmen, 87, Spain protest symbol",
+    "ts": 1791511396.649233
+  },
   "a238c778b2f54e6a30627f203280b5882d10eef83fc87e417f46114846e03b33": {
     "title": "Hormuz ship attacks surge: Are increased oil exports sustainable?",
     "ts": 1791299001.285844
@@ -643,10 +651,6 @@
     "title": "Pentagon Backs Ambitious Plan to Beam Solar Power From Space",
     "ts": 1791142386.287211
   },
-  "c3a164c455cff49c2c29e92d0bbbb8857b16df33836b35b8dde9a7ec4b25db71": {
-    "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-    "ts": 1790901746.763739
-  },
   "c3ad58474a1d40c1e22156b9a18d05e3b13ec7a9c566c9829c77fec396fbbb53": {
     "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. What could we have done to prevent it?",
     "ts": 1791387027.372659
@@ -662,10 +666,6 @@
   "c96f7ff356fa2d01e7eb7d6084916ac1c458c10a6db518c7e2aeafd9d314fc87": {
     "title": "Venezuela’s Nicolas Maduro and his wife charged over torture allegations",
     "ts": 1791476680.500654
-  },
-  "c9c2eab74ebcd032a22b8e77f260449a38412bb2e0a27bebf2eae159b55d1781": {
-    "title": "This could be the worst year ever for Nike’s stock, with sales set to fall further",
-    "ts": 1790901746.763739
   },
   "cbc44e328aab708988975600b68a4f783575de15bd4d4a8b91cff8620febd237": {
     "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
@@ -686,10 +686,6 @@
   "d3535ea057a18146910ddc87f25888618b36e145c0273dcf6a9ea7253385d922": {
     "title": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears",
     "ts": 1791154906.102136
-  },
-  "d3d0e356cb6314a6ccbb6cf83b04c74dd718ceb92b730fca5e4145b868cd47eb": {
-    "title": "Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz",
-    "ts": 1790901746.763739
   },
   "d531ab279911956b0df5f7435e87fdd46806886b4a4d97f32270b9b4a39d6acb": {
     "title": "At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine",
@@ -770,14 +766,6 @@
   "e79189224a1ea3c83553feb6004f9c8ce5b6da30d534962b20ab70ebeb17f109": {
     "title": "Democrats sue US President Trump over taxpayer-funded ad campaign",
     "ts": 1791424250.2717
-  },
-  "e8577d6ff152e6b54bffad04d6cdb0e9b315387fa1cf7b91d8a54317045bf558": {
-    "title": "Trump Sees Likely Iran Link In FlyDubai Attack, Vows 'Very Hard' Response",
-    "ts": 1790901746.763739
-  },
-  "e90992c0ef28cf6dfb1f5e42a7f0394b107b252e6f216db2c08bacc53b5e8c05": {
-    "title": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
-    "ts": 1790901746.763739
   },
   "ea4347ff41f3dbdc7f246d6c9a53642b28479fa4bf44589015dca92a1d59db3a": {
     "title": "Cornell president says university ‘must do better’ after rape allegations",
