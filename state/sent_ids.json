@@ -35,10 +35,6 @@
     "title": "USS Abraham Lincoln returns after record-breaking deployment",
     "ts": 1791511396.649233
   },
-  "14f2c3213606b241358b4b7300128807dd59afc3f61dc47697d0466ae5403295": {
-    "title": "Siberian Plague-Lab Death Draws FSB Escort For Ambulances",
-    "ts": 1791067839.718727
-  },
   "166cb0b067c8f9c7de4a7f3ce7bfe1608c03c4b979af4ef9a3fbba2f7f57b6a5": {
     "title": "Trump Admin Cracks Down On Foreign Worker Fraud: Bans MSFT From H1-B Program, Probes 9 Colleges Over J-1 Visas, Hikes Costs For Students",
     "ts": 1791476680.500654
@@ -138,6 +134,10 @@
   "382872f685464ae003baf51cd304149e0859aa480a135ab2b4b38a828ad80ace": {
     "title": "Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy",
     "ts": 1791496864.670769
+  },
+  "3b2ec452a114a4030b0edf6ec6f70e65fda09ac38a9277213dcbe22edad2d580": {
+    "title": "Emergency Oil Releases Risk Draining the World’s Last Supply Cushion",
+    "ts": 1791674929.462902
   },
   "3caae174742cb83cefd257feed6b2b3a3549899c1c1215b5e83e515049eaadb0": {
     "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
@@ -283,10 +283,6 @@
     "title": "New York state declares measles disaster amid resurgence of disease in US",
     "ts": 1791247551.082979
   },
-  "65ae792652742704ffa14914ca430239847bf67d91661eeba0b2ba358f1be059": {
-    "title": "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
-    "ts": 1791067839.718727
-  },
   "65e9e44932c41fe68e4f6f0390cc2acde200f0ed51db8868f7a35e29cc95b241": {
     "title": "Will Cristiano Ronaldo play for Portugal after a row with coach Jesus?",
     "ts": 1791271786.522128
@@ -342,6 +338,10 @@
   "7963c6d00eb93310acd3dbee34285c4e2b2c6adf0946aa85ec46b22262d24eca": {
     "title": "World Bank Warns Asia Is Running Out of Money to Fight Energy Shock",
     "ts": 1791271786.522128
+  },
+  "7ab6eff9dc48ea07d1a39f8c1517d514ea72ee63bf87ca0fe3ae02d7c4d9af98": {
+    "title": "Liverpool vs Man City: the top five clashes between Premier League giants",
+    "ts": 1791674929.462902
   },
   "7b50e45ca8133ddde988c2b7abf25a0396ab0218c8a98004068ad885d680d4a9": {
     "title": "NY Times Suggests Babies Are Not Conscious",
@@ -599,6 +599,10 @@
     "title": "Should I put my nest egg in a 30-year Treasury bond?",
     "ts": 1791299001.285844
   },
+  "bb413157c1af2e915d9e6767a19893f5789baa782b9ef64e12f152a1ef28d07e": {
+    "title": "WHO says no plague case registered after Russian lab worker’s death",
+    "ts": 1791674929.462902
+  },
   "bd1e6687461c49664d6e353cee38abee68ade9f80a88fb2e91ce388466cd7a99": {
     "title": "Anvil Announces SDK Launch, Enterprise Partnerships, and $5M ANVL Token Sale",
     "ts": 1791317614.369219
@@ -822,6 +826,10 @@
   "fbcdc84ab719fec259767b7714d1dee2c9158abce8affe3793f7b586c4e60b7c": {
     "title": "As a mortgage loan officer, I rejected wealthy couples. Here’s what can get your application declined.",
     "ts": 1791299001.285844
+  },
+  "fbeebb36f8ee4b5480d58a29c55d89ad5a9ffb80081a58f2c073b39b51ccfcbe": {
+    "title": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis",
+    "ts": 1791674929.462902
   },
   "fc45879ec968531ef07aab15c02307b1deb5d36e407d2cf62d78780d9935a0b7": {
     "title": "Israel’s deadline to close UK consulate in East Jerusalem nears",
