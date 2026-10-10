@@ -19,6 +19,10 @@
     "title": "Search Intensifies Off Nantucket After Gulfstream Jet Vanishes From Radar",
     "ts": 1791056902.774275
   },
+  "065044c258331e30e7b570970d51fb4c426450bb78bf1941c8d122a049600a79": {
+    "title": "Why is the US sanctioning the International Criminal Court?",
+    "ts": 1791645415.368462
+  },
   "084a7d3279b7ac0d575e901a8269deaadfeec3a563672e7b13e863ce883bff81": {
     "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
     "ts": 1791424250.2717
@@ -26,10 +30,6 @@
   "0c36aba9921de74ae8ebe45a6f21038170878a614a3f4daa783c409d756f5193": {
     "title": "How has Israel’s genocide changed Gaza?",
     "ts": 1791357017.620356
-  },
-  "1043a2917b64bce130f1b8eb2421782e00bd7339022b0c0624fdc85b994091f5": {
-    "title": "Palestinians gather for football amid Gaza’s ruins",
-    "ts": 1791027307.520721
   },
   "12d2316144d47d63774ad552136ea6580aed5e2e5d273162162925beed4bd023": {
     "title": "Video said to show Mali army in Kidal after retaking city",
@@ -87,6 +87,10 @@
     "title": "Yemeni government forces claim 1,860 Houthis ‘neutralised’",
     "ts": 1791424250.2717
   },
+  "261ea1e530312c41d29d582a262130bf1424e744daabbf3a093a4b8c6e885cee": {
+    "title": "Mexican judge sentences three men for murders of Australian, US surfers",
+    "ts": 1791645415.368462
+  },
   "2650810462ce8b5786fdf22ef932dff59bc1608ef80f312978a13e40d33431ca": {
     "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
     "ts": 1791496864.670769
@@ -118,10 +122,6 @@
   "305e141c7ba3bdbf72d1553bdd6c43bf39352fc83d31f4e598b817ccce7a8a8d": {
     "title": "Cowardly Europe Fears Dissent",
     "ts": 1791357017.620356
-  },
-  "312e49507b6fbea9f7ca3684069e9a724af7bc5a97364fdc3bcd4df46722b8e9": {
-    "title": "Far Left UK Green Party Wants The Words 'Mother' And 'Father' Erased",
-    "ts": 1791027307.520721
   },
   "32170711b656e4a123c051772d84c2148768f71461c0bcd7f56b7b98fe129a4e": {
     "title": "Iran War Energy Shock Puts Hydrogen Back on the Table",
@@ -167,13 +167,25 @@
     "title": "Democratic FCC member warns of AI robocall misinformation risks in US",
     "ts": 1791407667.996198
   },
+  "4cf28dd1501b5a750d68a407258676b583837d8d683fc54a19e3cfd10741872f": {
+    "title": "Abbas postpones Palestinian legislative elections to September 2027",
+    "ts": 1791645415.368462
+  },
   "4d8294d7b7051dbdf4b6dd4ea40bf8ba12c4d0c983f7ddceea85bbe0fefa038a": {
     "title": "Moroccan journalists recount years of surveillance amid new Amnesty claim",
     "ts": 1791247551.082979
   },
+  "4df9b33d1fe4ec076a3229e414a4d9e84c052fb2155f154454cee0cc3f24acff": {
+    "title": "Has Yemen returned to ‘full-scale war’?",
+    "ts": 1791645415.368462
+  },
   "4ee0e7f8d49a7dcf2d8e3a384592734c03679a19299b57730a3543a86f658d24": {
     "title": "Western Digital and Seagate shares bounce back as analysts downplay the Toshiba threat",
     "ts": 1791224448.126531
+  },
+  "4f2d88efe8a7b46bad90e0a86375cc771ab6865f03dfd5fa9422d9816f278178": {
+    "title": "Jerusalem Daily: Israeli settlers attack olive farmers",
+    "ts": 1791645415.368462
   },
   "4fe2897eb5b9f525070e31133b6fc480337c346ecd101a954f07a89ba2229ef0": {
     "title": "Hurricane Isaias strengthens into Category 3 storm with US in its sights",
@@ -339,10 +351,6 @@
     "title": "NY Times Suggests Babies Are Not Conscious",
     "ts": 1791407667.996198
   },
-  "7bb42d1c7a6bc06bfb7f5f608dee5b753b9e0194c8ea564d49285296d48cc318": {
-    "title": "As Treasury yields touch generational highs, investors brace for the market fallout",
-    "ts": 1791027307.520721
-  },
   "7bb44c62e93247b88d6a3d99cf47d5c04d7d5d612ae53907ecb1f2a821afde9a": {
     "title": "Iran war live: Yemen forces claim control over strategic Taiz mountain peak",
     "ts": 1791333439.843716
@@ -394,10 +402,6 @@
   "83ff6ccfb8053603171b4de438a77759f640b447ccbb6ef86883e1d7213ea522": {
     "title": "South Korea Unveils $747 Billion Plan to Break Its Fossil Fuel Habit",
     "ts": 1791387027.372659
-  },
-  "859010d52e054569104cb4f41ad9df7b2bc9d88b25e359f6cf8f822c40b8fc0c": {
-    "title": "Ethiopia’s government forces retake airport from Tigray rebels in Mekelle",
-    "ts": 1791027307.520721
   },
   "862d21c5e2245db6aa6ce7b9777a1f96e1a4cf4c89a7cdb6a264e93c4046b8c4": {
     "title": "Standard Chartered Says Hormuz Oil Flows Are Far From Normal",
@@ -583,6 +587,14 @@
     "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
     "ts": 1791407667.996198
   },
+  "ac78c874656abd7008a858f50b22fb974b86d9356d959d08eeacb33b2b85d707": {
+    "title": "Arsenal beat Leeds 2-1 in comeback win to move level with Man City at top",
+    "ts": 1791645415.368462
+  },
+  "acffc8fc72fafaa126a61e01418c0a8b93cf9448bb20874920b4e677c11a79d9": {
+    "title": "Bitcoin steadies near $83,000 as spot ETF outflows top $680 million",
+    "ts": 1791645415.368462
+  },
   "aed22fce5b7fba5db894aad156b3a5d2f15f1c0780c0dbab4039f71f698afe4c": {
     "title": "Private Equity Firms Double Down on Fossil Fuels",
     "ts": 1791127110.413822
@@ -590,10 +602,6 @@
   "af33856fc23cb8c22a588ddc8b8d43f1b325994f5dbed9ab831c931bd7a28b22": {
     "title": "The Indian billionaire investing in Trump's refinery project is also buying more Venezuelan crude",
     "ts": 1791449462.237112
-  },
-  "af8d4911449f95b47bd50a0fe35b375eeb237eacd64b980cb3889566663aa727": {
-    "title": "These companies look set to face high-profile hearings and other scrutiny if Democrats win the House",
-    "ts": 1791027307.520721
   },
   "b025e62767f12895249aea85b6f17a75be7a9e832b9b6f0e8df12f2243976d38": {
     "title": "Man City charges: How Premier League reacted – United, Arsenal, Liverpool",
@@ -699,10 +707,6 @@
     "title": "Spain calls snap election amid housing crisis",
     "ts": 1791224448.126531
   },
-  "d84ab72b2f49dd166317f9680bbb9c8c6c7fd227d6cda0c1474f707109d672dc": {
-    "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-    "ts": 1791027307.520721
-  },
   "d8b1adf45002cdb7a660adb3b8f9dc1df21134278646be6eb49d15467788ebc8": {
     "title": "Video: Signs removed from British consulate in occupied East Jerusalem",
     "ts": 1791449462.237112
@@ -710,10 +714,6 @@
   "d95addf1c2581631b46c9f2ace3a698e0f8731daa0a58903aa6da04efefee85a": {
     "title": "Catalan separatist Puigdemont to return to Spain after warrant lifted",
     "ts": 1791317614.369219
-  },
-  "d9ab107f9f2cb89be0afefb63ab0131bb1e5b3d0e839aa00215aa0d0951382db": {
-    "title": "A Yemeni family spends a week on the road fleeing another Houthi offensive",
-    "ts": 1791027307.520721
   },
   "dac640fa5559b78c3e80dcbaaf1f6bd9725ea0a15f531b8211094db0bce3924a": {
     "title": "China In Large Russia-Hosted Drills Featuring 'Applied Lessons Of Ukraine War'",
@@ -727,13 +727,13 @@
     "title": "Iraq Builds 2027 Budget on $58 Oil—and a Very Large Deficit",
     "ts": 1791317614.369219
   },
-  "df611564071b49dc0fcf0a2824fd32a28e313deed173cdf02e6f269485986ac4": {
-    "title": "Pakistan summons Indian diplomat over border killing of two Pakistanis",
-    "ts": 1791027307.520721
-  },
   "dfb800eab0c96dba3b8ab8a860f890480b2581490a9f386ebec963ddc250a1ab": {
     "title": "Bitcoin consolidates below $87K resistance: Live levels",
     "ts": 1791271786.522128
+  },
+  "e191adedca72adbaa86b093e7e1b683bf1e8c4f9e7bd9dcf41e7cb91c2266fc4": {
+    "title": "Pentagon Unveils $350 Million In Quantum Computing Initiatives",
+    "ts": 1791645415.368462
   },
   "e1970aa85f458e0f32cdc9a59e40b3d1bb938737d9469254db6698a764d6bc91": {
     "title": "France vs Belgium: UEFA Nations League – Olise, De Bruyne, teams and format",
@@ -811,13 +811,13 @@
     "title": "My brother-in-law convinced his parents to sign over their home and savings to buy a $3 million compound. Do I intervene?",
     "ts": 1791299001.285844
   },
-  "f90a4b664bd1beff7628eb997a7d0ea86e1454b7f218a7f6949298d8613865fd": {
-    "title": "How AI is helping Mexico detect breast cancer earlier",
-    "ts": 1791027307.520721
-  },
   "f925f7fa409641734c15655017a617482b14bade77a293ffbe47b04fb73c9d8a": {
     "title": "Iran’s Oil Minister Resigns as U.S. Blockade Chokes Crude Exports",
     "ts": 1791224448.126531
+  },
+  "faec10668e18331edd9020901ed2ffe97604d0df8284969d2c4de89fcd0f680a": {
+    "title": "The Iran War Is Fueling a Boom in Clean Energy",
+    "ts": 1791645415.368462
   },
   "fbcdc84ab719fec259767b7714d1dee2c9158abce8affe3793f7b586c4e60b7c": {
     "title": "As a mortgage loan officer, I rejected wealthy couples. Here’s what can get your application declined.",
