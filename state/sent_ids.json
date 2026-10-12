@@ -87,6 +87,10 @@
     "title": "Yemeni government forces claim 1,860 Houthis ‘neutralised’",
     "ts": 1791424250.2717
   },
+  "2340b2f6e871cf1997212dfb0dc8e392c00f64516c7b31673ca96584bb18aedf": {
+    "title": "Iran’s FM urges diplomacy in call with Saudi counterpart",
+    "ts": 1791767672.150478
+  },
   "261ea1e530312c41d29d582a262130bf1424e744daabbf3a093a4b8c6e885cee": {
     "title": "Mexican judge sentences three men for murders of Australian, US surfers",
     "ts": 1791645415.368462
@@ -94,6 +98,10 @@
   "2650810462ce8b5786fdf22ef932dff59bc1608ef80f312978a13e40d33431ca": {
     "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
     "ts": 1791496864.670769
+  },
+  "2693eff41801a5c5d6829f82e4c500d95b609e4b54fb4f9175600b67fd9c1bdb": {
+    "title": "Hurricane Isaias leaves trail of destruction across the US Gulf Coast",
+    "ts": 1791767672.150478
   },
   "26e7c6d319621774c7824834e15ea688d673a95836cb9966c1a34eff6cdfbc59": {
     "title": "PepsiCo CEO’s message to employees: If you’re not producing growth, you’re out",
@@ -242,10 +250,6 @@
   "5bba224810b43a7a40fe32521833d32224fb83cd4ceb73c54313be751953ebc7": {
     "title": "Chevron, Shell and BP Pull Workers From the Gulf Ahead of Hurricane",
     "ts": 1791357017.620356
-  },
-  "5cbc1b2c80475867e3b6f248aaa01706fc703714a6b343d530a7e7a9ec2c55c6": {
-    "title": "All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East",
-    "ts": 1791154906.102136
   },
   "5d33fa7ab8072953dfa7330e11dce410a937d9c7a6658da1fa2f0eefc1a0e230": {
     "title": "US opens antitrust probe into TV networks halting Trump coverage",
@@ -411,9 +415,17 @@
     "title": "South Korea Unveils $747 Billion Plan to Break Its Fossil Fuel Habit",
     "ts": 1791387027.372659
   },
+  "84ca2293c5e3de7b4a730c67945e0ac99ee1ee6c5cccc43d97c2b7f8382cf061": {
+    "title": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
+    "ts": 1791767672.150478
+  },
   "862d21c5e2245db6aa6ce7b9777a1f96e1a4cf4c89a7cdb6a264e93c4046b8c4": {
     "title": "Standard Chartered Says Hormuz Oil Flows Are Far From Normal",
     "ts": 1791247551.082979
+  },
+  "868208e25b5eb8d32cfd60986273f8214733e9130d1793c7132b7b6c6052f55d": {
+    "title": "Trump's Russia-Ukraine Energy Ceasefire May Only Cover Oil Refineries",
+    "ts": 1791767672.150478
   },
   "8700e69f4853507fe1e5d13f7c043e6c0138927107064d646542ee98e01dbaa3": {
     "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
@@ -575,10 +587,6 @@
     "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
     "ts": 1791476680.500654
   },
-  "a8737cc02251945c08f82d1773c8a19e67e841480ba41c6c35d013f49fc8aa92": {
-    "title": "Nicaragua says it will withdraw from Central American Parliament",
-    "ts": 1791154906.102136
-  },
   "a92846a990106f12a8bcb595a4bf4ad99bb164bb4a2c3dce0a0986ee36878fcd": {
     "title": "London voters go to polls for Holborn and St Pancras by-election",
     "ts": 1791476680.500654
@@ -715,10 +723,6 @@
     "title": "Trump waives rules on red-dyed diesel, but local tax and other concerns remain",
     "ts": 1791317614.369219
   },
-  "d3535ea057a18146910ddc87f25888618b36e145c0273dcf6a9ea7253385d922": {
-    "title": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears",
-    "ts": 1791154906.102136
-  },
   "d531ab279911956b0df5f7435e87fdd46806886b4a4d97f32270b9b4a39d6acb": {
     "title": "At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine",
     "ts": 1791357017.620356
@@ -775,6 +779,10 @@
     "title": "Waves crash into homes as excavators try to protect California properties",
     "ts": 1791755456.509625
   },
+  "e0c39cc50504575036c219c11fc2159b4e9d8301310b477c67350fab01114a1d": {
+    "title": "Ceuta or Sebta? Why one city has two names and a disputed status",
+    "ts": 1791767672.150478
+  },
   "e0cd56e2ac7868b5575d7f5be863b55e4befbb89317da638afb34a0c749b292a": {
     "title": "NATO Country Detains, Expels Popular Russian Military Blogger",
     "ts": 1791722434.50677
@@ -798,10 +806,6 @@
   "e4d88e458469dbf01a2c388bf7d2ee4368f4ae19993f68b244026bb86dba811b": {
     "title": "How kidnappings are hitting Nigeria’s Borno families hard",
     "ts": 1791424250.2717
-  },
-  "e5de1749278418ff82d956150e5c56b929c716c39d2e73d27975f0ec903adb0b": {
-    "title": "Fuel Price Shock Pushes Global Gas Car Sales Below 50% for First Time",
-    "ts": 1791154906.102136
   },
   "e6396461fb3182d5686f61bb2fea7ed360fa0fb3cbeadb840f766f361496b9cb": {
     "title": "Finland orders halt to work on Google data centre sites",
