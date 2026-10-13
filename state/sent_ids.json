@@ -15,10 +15,6 @@
     "title": "Big Oil Begins Shutting In Gulf of Mexico Production",
     "ts": 1791449462.237112
   },
-  "05de8155ad440ff060ca789dc6c3e3a7162338cdda9227a47ac5e51e881b478b": {
-    "title": "Photos: France braces for day of school blockades and street protests",
-    "ts": 1791299001.285844
-  },
   "065044c258331e30e7b570970d51fb4c426450bb78bf1941c8d122a049600a79": {
     "title": "Why is the US sanctioning the International Criminal Court?",
     "ts": 1791645415.368462
@@ -46,10 +42,6 @@
   "166cb0b067c8f9c7de4a7f3ce7bfe1608c03c4b979af4ef9a3fbba2f7f57b6a5": {
     "title": "Trump Admin Cracks Down On Foreign Worker Fraud: Bans MSFT From H1-B Program, Probes 9 Colleges Over J-1 Visas, Hikes Costs For Students",
     "ts": 1791476680.500654
-  },
-  "16f433245517cb1bccf33d90cff0e30bf9d061694dd3c8282ed42be43c7880e9": {
-    "title": "France protests: What we know as schools face nationwide action",
-    "ts": 1791299001.285844
   },
   "19b85c52d25e7b24338a4f99df16294d928fb9eb7a48053feafff5c3e467ed66": {
     "title": "US sanctions International Criminal Court itself in latest escalation",
@@ -82,6 +74,10 @@
   "1f96585bf8e5ef081b24541ffd47fc2ba31535f769f940c39944ec6059fe5eda": {
     "title": "Kenya’s Eliud Kipchoge wins his first marathon in three years in Melbourne",
     "ts": 1791722434.50677
+  },
+  "20203da50a6b34ce048d28882bbd7da9cd36284087c940f246ff7639fec8eee3": {
+    "title": "Argentina Takes Falklands Oil Fight to International Tribunal",
+    "ts": 1791912805.217645
   },
   "22ab88a9310202e3747d0e4d5bab03b6c0967458093575d9acfff195dda7d867": {
     "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
@@ -127,6 +123,10 @@
     "title": "The Treasury market is facing a crucial vote of investor confidence",
     "ts": 1791476680.500654
   },
+  "2f4e20f5473448c9b3a5ea2f1a801225a78ac0461ec64bf029ef45db2fb0c348": {
+    "title": "Trump's diesel deal with Russia equals less than two weeks of U.S. demand",
+    "ts": 1791912805.217645
+  },
   "305e141c7ba3bdbf72d1553bdd6c43bf39352fc83d31f4e598b817ccce7a8a8d": {
     "title": "Cowardly Europe Fears Dissent",
     "ts": 1791357017.620356
@@ -139,13 +139,13 @@
     "title": "Ethiopian forces enter strategic Tigray town of Adwa, witnesses say",
     "ts": 1791831541.912644
   },
+  "336ea959f34f966df65701b300650848d82571316f8d10848c04b95ef1f1303e": {
+    "title": "491 Fugitives Hiding In Public Housing Arrested In Nationwide Sweep",
+    "ts": 1791912805.217645
+  },
   "33a910b4b521ab6e9e4d903deb8840db04b6082c4a9ff8a812705ce61a207ca2": {
     "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
     "ts": 1791854204.957518
-  },
-  "33df3ecbb2c91a9595c8521d6bf4d0abce5757c0970998643ef5db1f2d55bf4f": {
-    "title": "‘Not the act of a friend’: Israel’s deadline to close UK consulate nears",
-    "ts": 1791299001.285844
   },
   "34f3e25ccc6c71dacc2f728458f870b60d14223b488de7f53696929a1536b027": {
     "title": "UK Greens leader seeks rule change after party declares Zionism is racism",
@@ -178,10 +178,6 @@
   "3e031eb84a4bef270915be27655d332439663ed7272580b32bc6a153072622d8": {
     "title": "Trump’s planned DC arch faces new lawsuit",
     "ts": 1791562071.700972
-  },
-  "411f7ca6e58d677faa5db53c06148e14a6519e980e119b7c681f274bbaec3849": {
-    "title": "Energy Shock Wipes $264 Billion Off the World's Top Mining Stocks",
-    "ts": 1791299001.285844
   },
   "427a9cbb56c24ffa4e53e798af2572c01dd16251f96c13484c26e487f11fe2d0": {
     "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
@@ -219,10 +215,6 @@
     "title": "Hurricane Isaias strengthens into Category 3 storm with US in its sights",
     "ts": 1791562071.700972
   },
-  "4fe49a95472be7a523e8d1bb077984a2d6833a1e0a7eb61b78eea5f37e8bcdcf": {
-    "title": "Prediction markets are coming for pop culture",
-    "ts": 1791299001.285844
-  },
   "4ffad3250a7b6b6f72b9c75e3eef7fcd7f40c7e2f08b6bd03b09201a5a40c1a0": {
     "title": "Mapping Africa’s energy wealth and 560 million who remain without power",
     "ts": 1791883171.39415
@@ -230,10 +222,6 @@
   "509d0cd2e94d4444b9600a001c814fcb90d88357f44cad396d71b133f16798c4": {
     "title": "Another One Bites The Dust: Nvidia-Backed Firmus Slashes IPO Price 25% As AI Data Center Window Slams Shut",
     "ts": 1791476680.500654
-  },
-  "5406fb6604117c3f8b5153df2a8bb7f945a072119f7cc03d7f5d9257123295c5": {
-    "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
-    "ts": 1791299001.285844
   },
   "54405c26bcee58fa002d312d39d07df0a924b8e280158cf54ec002654a844052": {
     "title": "Japan Urges Asia to Build Up Oil Reserves as Middle East Risks Mount",
@@ -255,9 +243,9 @@
     "title": "Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
     "ts": 1791722434.50677
   },
-  "57bc99a53d2b966f75ff755004e4bcc60674b1a61d8756942d32ed5d4f747ced": {
-    "title": "In Gaza, we cannot even begin to recover from trauma",
-    "ts": 1791299001.285844
+  "57b330c6f83b811c1abdc9c05c3f3b65a75e40afe42dabed240ac487515372fa": {
+    "title": "China’s $3 Billion Qatar LNG Deal Raises an Awkward Question",
+    "ts": 1791912805.217645
   },
   "5bba224810b43a7a40fe32521833d32224fb83cd4ceb73c54313be751953ebc7": {
     "title": "Chevron, Shell and BP Pull Workers From the Gulf Ahead of Hurricane",
@@ -282,10 +270,6 @@
   "5f32614f7c9add9f4d1134211261f9f556ea811fdad0087dd0ac2fc1fb4f9f5f": {
     "title": "China Buys Record Amount Of Gold As India Panics, Scraps Key Tax Relief On Precious Imports",
     "ts": 1791596547.675883
-  },
-  "5f66c55cd32dea2548c4389f69dff6125e815b7d6bbb48f7608ff7b9b1fe2639": {
-    "title": "Saudi Arabia says East-West pipeline pumping 5.8 million bpd",
-    "ts": 1791299001.285844
   },
   "5fadc5618cef82a069016039123dc3add137f3a60a9c35fab63d41b0e85647bd": {
     "title": "Pentagon Prepares 'Options' For Trump To Strike Iran Before Midterms",
@@ -331,10 +315,6 @@
     "title": "Man City beat 10-man Liverpool 3-0 in first game after guilty verdict",
     "ts": 1791741657.374442
   },
-  "66efe15a17a52d9df9d3db39ff0ee3ea743f6f28c6a085b11b9a9d3d1d011ea4": {
-    "title": "Wall Street is hyping AI. This fund manager is betting instead on fires, HVAC and Berkshire Hathaway.",
-    "ts": 1791299001.285844
-  },
   "6704c99f1148ab987c93a2a53ed67e24004fa5bb5cd2c8d77f8c034169370ff3": {
     "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
     "ts": 1791511396.649233
@@ -351,9 +331,9 @@
     "title": "Pashinyan’s Nuclear U-Turn Gives Moscow an Opening in Armenia",
     "ts": 1791562071.700972
   },
-  "7099353182345140fb314fd70da5d89d969262480ee60e7d28a3734d6d0c274a": {
-    "title": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
-    "ts": 1791299001.285844
+  "70d75eee2a0b1d08046065a36c01025fc23ae4c928f2ca93d0f7aa7ce78e3494": {
+    "title": "Floods submerge cars, homes and hospitals in Libya’s Tripoli",
+    "ts": 1791912805.217645
   },
   "72a82b5db7ee92cecca21f1a0c824bee22782ef2b17e9d1d44487c071b6c3d4d": {
     "title": "US ICE releases Kashmiri filmmaker Arfat Sheikh from custody",
@@ -395,6 +375,10 @@
     "title": "Iran war live: Yemen forces claim control over strategic Taiz mountain peak",
     "ts": 1791333439.843716
   },
+  "7cc87019592dc835bd56f4b53f26bd4c674b5d7c27ef702921f7c85c3e6d2eaf": {
+    "title": "‘Superintelligence’ may never arrive, Deutsche Bank says. What that could mean for the U.S. economy.",
+    "ts": 1791912805.217645
+  },
   "7d14b03ad7f98ed0be7176ba99a390eb7582e646e7db580df1048601567e59c1": {
     "title": "UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal",
     "ts": 1791511396.649233
@@ -411,13 +395,13 @@
     "title": "Emir of Qatar reiterates the need for safety and stability in the region",
     "ts": 1791883171.39415
   },
-  "7fd3cc7e411ff0be43a1bbeeb053ffd6a5a11bd2246cddc46e355b3ea8de0fe8": {
-    "title": "Gulf Producers Say Importers Should Share the Cost of Hormuz Workarounds",
-    "ts": 1791299001.285844
-  },
   "8024f71c6d7916ecc00954f7dd73d5b3dc69ef8ea5130bbeaf0afa51c58a08b9": {
     "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
     "ts": 1791357017.620356
+  },
+  "806782b1dbafff8ecc34b65a0c9922e49a661bf024bc1a469867785f9110c44c": {
+    "title": "Dangote Swings to $4.7 Billion Profit Ahead of Africa’s Biggest IPO",
+    "ts": 1791912805.217645
   },
   "82a6fb1acc9962628ea2ade0ba63363b3a1f6388135bc3dd132b480febcf87ac": {
     "title": "Trump gives top US science awards to Elon Musk and other tech executives",
@@ -463,9 +447,9 @@
     "title": "Iran War Pushes 25 Countries Into New Electrification Policies",
     "ts": 1791407667.996198
   },
-  "8d64e70c0f86dddbbd18934ecf0e47de32bee005a00e09e5e5e35f4febfb17eb": {
-    "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
-    "ts": 1791299001.285844
+  "8ac86ff008d8e70f4564920651fd45c57f43a94b1ce52fdff9daca6671e12f7e": {
+    "title": "How to read your body’s warning signs years before you get sick",
+    "ts": 1791912805.217645
   },
   "8eddda332bb4665be6897e894dc5ff218b271cf31da7e2618e495308864a0c11": {
     "title": "The scramble to rewrite Biden’s record on Gaza",
@@ -503,10 +487,6 @@
     "title": "Halliburton Shuns Falklands Oil Project",
     "ts": 1791317614.369219
   },
-  "963c4d3a1f73dd734a2111d60d8e79468466cdef9d9db76f44213874816f03a9": {
-    "title": "What we know about Russia’s suspected plague case",
-    "ts": 1791299001.285844
-  },
   "971e607d931f1d54f25eee04307c484626886db971a6e93c14e380ff81e4e00d": {
     "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
     "ts": 1791581833.331886
@@ -535,6 +515,10 @@
     "title": "Why Israel loves skunk water",
     "ts": 1791449462.237112
   },
+  "9dbb5d450c5e97da3d19c65a6cea88ce3bfefa3484910b810aa3ac61fa16d740": {
+    "title": "AI fatigue is gripping the market and driving chip stocks toward their worst stretch in 16 months",
+    "ts": 1791912805.217645
+  },
   "9eee0e8bd226db97a13b267aebc369ed3aa28ec05757049aaeaa51498ea14c34": {
     "title": "Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?",
     "ts": 1791357017.620356
@@ -551,10 +535,6 @@
     "title": "Protests, debate follow death of Maricarmen, 87, Spain protest symbol",
     "ts": 1791511396.649233
   },
-  "a238c778b2f54e6a30627f203280b5882d10eef83fc87e417f46114846e03b33": {
-    "title": "Hormuz ship attacks surge: Are increased oil exports sustainable?",
-    "ts": 1791299001.285844
-  },
   "a2be05a4d6827bab25c64ab1411f7b5e74142274121ec404d4703c609cdb53b6": {
     "title": "Zohran Mamdani orders use-of-force review for New York City police",
     "ts": 1791831541.912644
@@ -567,10 +547,6 @@
     "title": "The new players in space",
     "ts": 1791317614.369219
   },
-  "a75c88f4228d5904872f04cb30e725e4cb94fd3ff098837e539b06f3c66e74a2": {
-    "title": "‘Cockroach stir stripped Modi’s carefully confected image’: Arundhati Roy",
-    "ts": 1791299001.285844
-  },
   "a7cd484fa7ef443c23ae956e31f9efc06f6e8ed965a88dc214c61f412ea96956": {
     "title": "How Gaza war sped up India’s shift towards Israel under Modi",
     "ts": 1791449462.237112
@@ -582,6 +558,10 @@
   "a92846a990106f12a8bcb595a4bf4ad99bb164bb4a2c3dce0a0986ee36878fcd": {
     "title": "London voters go to polls for Holborn and St Pancras by-election",
     "ts": 1791476680.500654
+  },
+  "a9c29e80b53ac5d5cb6ffe1a1c0c8c2bed5aecc3689e97e02fdabbb934e0870b": {
+    "title": "Who should pay for my birthday dinner — me, or my guests?",
+    "ts": 1791912805.217645
   },
   "aa3e9d28d8cca6ba189472cafc630bf3b9d98b8795493e41d443bae890f03c0b": {
     "title": "Manchester United vs Tottenham: Premier League – teams, prediction, lineups",
@@ -623,13 +603,13 @@
     "title": "Options traders are betting on a dramatic drop in interest rates",
     "ts": 1791407667.996198
   },
-  "b3899f1000d6086ebee692daae9de858f39a3f6b03f74f5ca97b71a7ce9d0b9d": {
-    "title": "Should I put my nest egg in a 30-year Treasury bond?",
-    "ts": 1791299001.285844
-  },
   "bb413157c1af2e915d9e6767a19893f5789baa782b9ef64e12f152a1ef28d07e": {
     "title": "WHO says no plague case registered after Russian lab worker’s death",
     "ts": 1791674929.462902
+  },
+  "bd1da0baccb657ae1bb8d9f100232e8616dc16e158d161c291f7c0120dcf3209": {
+    "title": "Oil prices little changed as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
+    "ts": 1791912805.217645
   },
   "bd1e6687461c49664d6e353cee38abee68ade9f80a88fb2e91ce388466cd7a99": {
     "title": "Anvil Announces SDK Launch, Enterprise Partnerships, and $5M ANVL Token Sale",
@@ -647,10 +627,6 @@
     "title": "Global Diesel Crunch Fuels New Wave of Energy Nationalism",
     "ts": 1791407667.996198
   },
-  "be7dbab0c45e34f7529f70852cf5e091ffe30f677d469d63d5a0f4dd77d76183": {
-    "title": "What new measures is Iran taking to counter US economic pressure?",
-    "ts": 1791299001.285844
-  },
   "c0858cacbc9dcce49a4b47dff1a36b04932696d24723b3c48ca96d60fc54d340": {
     "title": "At least 109 dead, over 100 missing as migrant boat capsizes off Djibouti",
     "ts": 1791722434.50677
@@ -662,6 +638,10 @@
   "c3ad58474a1d40c1e22156b9a18d05e3b13ec7a9c566c9829c77fec396fbbb53": {
     "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. What could we have done to prevent it?",
     "ts": 1791387027.372659
+  },
+  "c3f0f1e31ad90c4dfb4982d2b35d1ee7be6fc8d75348a2ca7b4e592346e30b0b": {
+    "title": "Drivers queue for hours in Bali amid fuel shortage",
+    "ts": 1791912805.217645
   },
   "c5237a3e5c49fa3ee99428d137c052794e3bc6c11b6d8188a486519ac3fedb1d": {
     "title": "Israel pushes its ‘Yellow Line’ deeper into Gaza",
@@ -718,6 +698,10 @@
   "d0446d38578f2a138a55b386361f4ec1ea300cb3211de76ec8291bdd82ce4bfa": {
     "title": "Hurricane Isaias kills four, leaves 650,000 without power in Florida",
     "ts": 1791697046.104863
+  },
+  "d069eb6c4237066ac741a135750f14a96e09aae81e2c113b1ad0f55f27d9dac0": {
+    "title": "I keep comparing myself to my more financially successful friends. How can I stop?",
+    "ts": 1791912805.217645
   },
   "d33337ed25c0fe89d3f1e74ea041223194fa617517b268ea2c5f84de5132dc72": {
     "title": "Trump waives rules on red-dyed diesel, but local tax and other concerns remain",
@@ -843,9 +827,17 @@
     "title": "US charges Venezuela’s Nicolas Maduro over torture allegations",
     "ts": 1791496864.670769
   },
+  "ecfda61f7e5f126cabc01cec1a8dc94fb657497f3444408fae2d429b510c91d2": {
+    "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+    "ts": 1791912805.217645
+  },
   "eea30a1f7f88a662a42e955f1c146b82e92edfa6c7e11d415754b485a3c2cdc9": {
     "title": "Mortgage rates are soaring. In America, the smart money rents.",
     "ts": 1791562071.700972
+  },
+  "ef64251f6f9eaf6e1b0bd426bbd8f51aa4737a13ef8c52b3c8148b51e686d196": {
+    "title": "Jerusalem Daily: Israeli forces raid NGOs in Ramallah",
+    "ts": 1791912805.217645
   },
   "efb9488036bf6fd8fb76b92358554aa8327432c6912738fb083e94b25d7104d5": {
     "title": "Anthropic President Daniela Amodei Created A Stuffed-Animal Advisory Council While At OpenAI",
@@ -854,6 +846,10 @@
   "f00f82d5a9da2327d58a1f1aabedd3f842a0eb44ab79751b1af322d2607cf225": {
     "title": "Trump’s brash remarks entertain crowd at election rally in Tennessee",
     "ts": 1791722434.50677
+  },
+  "f06d3f3e3189124e2edc40235c578ecc1f83b16cd582bdb8fcbffdf57d285cfc": {
+    "title": "AST SpaceMobile’s stock is feeling the heat from SpaceX’s wireless plans",
+    "ts": 1791912805.217645
   },
   "f1370edb32ed6b1db3749ab072d9a4103f3db9e3ed517f581301819325cc6c41": {
     "title": "Here’s how much stocks could fall if the Democrats sweep Congress, according to BofA",
@@ -875,10 +871,6 @@
     "title": "My wife says we can’t afford to retire. We have $4 million. Do I just keep working?",
     "ts": 1791883171.39415
   },
-  "f8dd11fa1ceab249e6b158f12fee76e2993bdf2ce236c8eb6e2a47c386248afc": {
-    "title": "My brother-in-law convinced his parents to sign over their home and savings to buy a $3 million compound. Do I intervene?",
-    "ts": 1791299001.285844
-  },
   "f9b06183768e0053a32ca3415646685e915717bcba944cefd3cd63931f971fe8": {
     "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
     "ts": 1791662452.718449
@@ -886,10 +878,6 @@
   "faec10668e18331edd9020901ed2ffe97604d0df8284969d2c4de89fcd0f680a": {
     "title": "The Iran War Is Fueling a Boom in Clean Energy",
     "ts": 1791645415.368462
-  },
-  "fbcdc84ab719fec259767b7714d1dee2c9158abce8affe3793f7b586c4e60b7c": {
-    "title": "As a mortgage loan officer, I rejected wealthy couples. Here’s what can get your application declined.",
-    "ts": 1791299001.285844
   },
   "fbeebb36f8ee4b5480d58a29c55d89ad5a9ffb80081a58f2c073b39b51ccfcbe": {
     "title": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis",
