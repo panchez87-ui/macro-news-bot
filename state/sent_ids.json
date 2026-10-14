@@ -1,4 +1,8 @@
 {
+  "01349c99f0031f74a7984eeee459395d403a763aa088aa6dc303b17a87cb8cff": {
+    "title": "Photos: Student protest in Albania prompts violent clashes with police",
+    "ts": 1791963024.15078
+  },
   "02763103bd0e8d2147a72e07e5dea47380dddc35f5d4301069e4977726504c24": {
     "title": "Christa Pike almost taken off life support before she woke up",
     "ts": 1791449462.237112
@@ -26,10 +30,6 @@
   "084a7d3279b7ac0d575e901a8269deaadfeec3a563672e7b13e863ce883bff81": {
     "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
     "ts": 1791424250.2717
-  },
-  "0c36aba9921de74ae8ebe45a6f21038170878a614a3f4daa783c409d756f5193": {
-    "title": "How has Israel’s genocide changed Gaza?",
-    "ts": 1791357017.620356
   },
   "11f12d11cb65b85acac1383a3e5a94e4e57bc3b54b1ae259903f92b9441a9e1b": {
     "title": "Bitcoin up 1% to $83.4k, but gains capped as risk appetite takes a hit",
@@ -138,10 +138,6 @@
   "2f4e20f5473448c9b3a5ea2f1a801225a78ac0461ec64bf029ef45db2fb0c348": {
     "title": "Trump's diesel deal with Russia equals less than two weeks of U.S. demand",
     "ts": 1791912805.217645
-  },
-  "305e141c7ba3bdbf72d1553bdd6c43bf39352fc83d31f4e598b817ccce7a8a8d": {
-    "title": "Cowardly Europe Fears Dissent",
-    "ts": 1791357017.620356
   },
   "32170711b656e4a123c051772d84c2148768f71461c0bcd7f56b7b98fe129a4e": {
     "title": "Iran War Energy Shock Puts Hydrogen Back on the Table",
@@ -267,9 +263,9 @@
     "title": "China’s $3 Billion Qatar LNG Deal Raises an Awkward Question",
     "ts": 1791912805.217645
   },
-  "5bba224810b43a7a40fe32521833d32224fb83cd4ceb73c54313be751953ebc7": {
-    "title": "Chevron, Shell and BP Pull Workers From the Gulf Ahead of Hurricane",
-    "ts": 1791357017.620356
+  "5a20634af7809edce7f33e38429b6ce589af2c6a3b222d8e1fff811dd774d592": {
+    "title": "‘Massive’ Russian attack on Ukraine kills at least six, cuts power in Kyiv",
+    "ts": 1791963024.15078
   },
   "5c4c8b714df7303230dc0ebef39c73e6afe38ba6e15ee72d9a67500a7bdae41b": {
     "title": "The Korean stock market’s in freefall, and these are the reasons why",
@@ -322,6 +318,10 @@
   "644f8a04d911eec0710cbc3f1d52ec5b2c63c67f4ac943b92d0d3aad2c3c5d76": {
     "title": "Death of 87-year old sparks furious Spain housing protests",
     "ts": 1791424250.2717
+  },
+  "64f1390516267b3f0daf073596044d8300181647415f94c44a29e2a25200b682": {
+    "title": "‘Like we don’t exist’: Palestinians in West Bank denied say in Israel vote",
+    "ts": 1791963024.15078
   },
   "64f4e77871e75d87cc85422c3108ed39523429eb7b171c0766a2facf1b4cf46a": {
     "title": "Trump's Grid Security Order Could Backfire on America's AI Boom",
@@ -406,10 +406,6 @@
   "7e94b69b59cc80d745596dab4cec652c72a2d7f3ecad3dcac9d54f02b7ea6f08": {
     "title": "Emir of Qatar reiterates the need for safety and stability in the region",
     "ts": 1791883171.39415
-  },
-  "8024f71c6d7916ecc00954f7dd73d5b3dc69ef8ea5130bbeaf0afa51c58a08b9": {
-    "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
-    "ts": 1791357017.620356
   },
   "806782b1dbafff8ecc34b65a0c9922e49a661bf024bc1a469867785f9110c44c": {
     "title": "Dangote Swings to $4.7 Billion Profit Ahead of Africa’s Biggest IPO",
@@ -514,10 +510,6 @@
   "9dbb5d450c5e97da3d19c65a6cea88ce3bfefa3484910b810aa3ac61fa16d740": {
     "title": "AI fatigue is gripping the market and driving chip stocks toward their worst stretch in 16 months",
     "ts": 1791912805.217645
-  },
-  "9eee0e8bd226db97a13b267aebc369ed3aa28ec05757049aaeaa51498ea14c34": {
-    "title": "Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?",
-    "ts": 1791357017.620356
   },
   "9fac157b002b4b08d3dd9d063fe07e22f0bbf619819e665f727ef94aede31f85": {
     "title": "These decisions you make in your 20s — not your income — determine whether you’ll spend decades in debt or retire comfortably",
@@ -695,10 +687,6 @@
     "title": "Stranded Middle East LNG Supply Upends Gas Markets",
     "ts": 1791931131.6345
   },
-  "d531ab279911956b0df5f7435e87fdd46806886b4a4d97f32270b9b4a39d6acb": {
-    "title": "At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine",
-    "ts": 1791357017.620356
-  },
   "d532db4691dca56e9903ebd46ced3d6e1b5d60d3d0ddf3cf8c2ec44cb17b9051": {
     "title": "Dr. Phil lists his lavish Beverly Hills estate for a whopping $67.5 million",
     "ts": 1791795906.586555
@@ -719,6 +707,10 @@
     "title": "Trump’s ‘energy ceasefire’ collides with real-world problems of dwindling fuel supplies",
     "ts": 1791831541.912644
   },
+  "d940d7afd557d601c2f520475c9dd9f21cee78b1a1e865a31a377f19a743d13a": {
+    "title": "Rising Gasoline Prices Fuel Fresh Inflation Fears in the U.S.",
+    "ts": 1791963024.15078
+  },
   "d98de96c9f818906a0daf21a68c9ad208a091d729e99cd9a74596b7c65039caa": {
     "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
     "ts": 1791662452.718449
@@ -726,10 +718,6 @@
   "da8c668b93c59040db294161e0656b663f8a47cc76f1665d405fd6673baecd8a": {
     "title": "Polish police probe alleged plot to assassinate PM Tusk, defence minister",
     "ts": 1791722434.50677
-  },
-  "dac640fa5559b78c3e80dcbaaf1f6bd9725ea0a15f531b8211094db0bce3924a": {
-    "title": "China In Large Russia-Hosted Drills Featuring 'Applied Lessons Of Ukraine War'",
-    "ts": 1791357017.620356
   },
   "db5fcfa611674d2a0a91b45163d4ace1fe59e2873675aa090556cd1a844a4c03": {
     "title": "Trump calls for new president in Ukraine",
@@ -739,10 +727,6 @@
     "title": "This Won't End Well... Seattle Becomes First City To Price-Fix Your Groceries",
     "ts": 1791662452.718449
   },
-  "dc8332167e166155c3939471c7d0aa4c1e02899ec22a267b95464ceb05dc758f": {
-    "title": "Yemen’s displaced children dream of returning to school",
-    "ts": 1791357017.620356
-  },
   "dddc96addfd527cb6abd19e42237191177dcffd7214ad59bfa957b48a9ff0a9d": {
     "title": "Police detain leaders of India’s ‘cockroach’ movement at New Delhi protest",
     "ts": 1791883171.39415
@@ -750,6 +734,10 @@
   "dde29f09b7185f2912ce6c649b100bcb2983dca9a92a25954c5a83e5b35c9d15": {
     "title": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
     "ts": 1791942574.749823
+  },
+  "dea03f35299c9636e7621ef31f07750a765011c6105b2b3e9e2ccd75950e7f6c": {
+    "title": "Bitcoin flat at $83k as markets await U.S. inflation data",
+    "ts": 1791963024.15078
   },
   "dfcc004ddbb15e9d567bd6a58d50412457183cf825d7f19b42c73c7d3b0455a6": {
     "title": "Waves crash into homes as excavators try to protect California properties",
@@ -786,10 +774,6 @@
   "e4d88e458469dbf01a2c388bf7d2ee4368f4ae19993f68b244026bb86dba811b": {
     "title": "How kidnappings are hitting Nigeria’s Borno families hard",
     "ts": 1791424250.2717
-  },
-  "e6396461fb3182d5686f61bb2fea7ed360fa0fb3cbeadb840f766f361496b9cb": {
-    "title": "Finland orders halt to work on Google data centre sites",
-    "ts": 1791357017.620356
   },
   "e67b9728ac4c271ddec75a3658a31510128f0cf00742799c58a6cab186e3ce79": {
     "title": "How will Spain’s housing crisis affect elections?",
@@ -859,6 +843,10 @@
     "title": "The Iran War Is Fueling a Boom in Clean Energy",
     "ts": 1791645415.368462
   },
+  "fbe150a186487637fc0f951fd41fe01611870ad424f938357c2b69d33c89a700": {
+    "title": "Bitcoin stuck in Ichimoku cloud near $83,517: Live levels",
+    "ts": 1791963024.15078
+  },
   "fbeebb36f8ee4b5480d58a29c55d89ad5a9ffb80081a58f2c073b39b51ccfcbe": {
     "title": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis",
     "ts": 1791674929.462902
@@ -866,10 +854,6 @@
   "fc45879ec968531ef07aab15c02307b1deb5d36e407d2cf62d78780d9935a0b7": {
     "title": "Israel’s deadline to close UK consulate in East Jerusalem nears",
     "ts": 1791407667.996198
-  },
-  "fc6f6a16c9101396d0e198fa3799d6490bef8e85d876c81dcd44650d16f0dfcc": {
-    "title": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
-    "ts": 1791357017.620356
   },
   "fd709fbff47676cda39d03ad16bf2425766dc5431524688759df41165555ee84": {
     "title": "Venture Global Loses LNG Arbitration to Portugal's Galp",
