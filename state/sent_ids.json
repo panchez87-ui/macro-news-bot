@@ -63,6 +63,10 @@
     "title": "Trump Admin Cracks Down On Foreign Worker Fraud: Bans MSFT From H1-B Program, Probes 9 Colleges Over J-1 Visas, Hikes Costs For Students",
     "ts": 1791476680.500654
   },
+  "19781fe55c2bcf91dbd92a4d4daa0df00809decae873a0e1f331eff9edacf01f": {
+    "title": "The COLA wars are coming for Social Security",
+    "ts": 1792016098.2468
+  },
   "19b85c52d25e7b24338a4f99df16294d928fb9eb7a48053feafff5c3e467ed66": {
     "title": "US sanctions International Criminal Court itself in latest escalation",
     "ts": 1791562071.700972
@@ -207,6 +211,10 @@
     "title": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'",
     "ts": 1791831541.912644
   },
+  "372c289487f425f06a7987790d2906a6ebd68844ba6a25a917dcea8c560e1a37": {
+    "title": "US Crude Oil Inventories See Massive Drop Off",
+    "ts": 1792016098.2468
+  },
   "382872f685464ae003baf51cd304149e0859aa480a135ab2b4b38a828ad80ace": {
     "title": "Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy",
     "ts": 1791496864.670769
@@ -214,6 +222,10 @@
   "384b0a41642dea72ff784420a83fbb50e5368d185717344b41dd09c7e3425763": {
     "title": "‘Breaking Bad’ star Aaron Paul sells L.A. home for $7.5 million; he now lives in Paris",
     "ts": 1791883171.39415
+  },
+  "390742869d3717bef7b0e5eaf5f2d5125c119c9ce7f4f5f89a4a7511c5d77889": {
+    "title": "Colombia opposition groups launch protest against de la Espriella’s cuts",
+    "ts": 1792016098.2468
   },
   "3b2ec452a114a4030b0edf6ec6f70e65fda09ac38a9277213dcbe22edad2d580": {
     "title": "Emergency Oil Releases Risk Draining the World’s Last Supply Cushion",
@@ -230,6 +242,10 @@
   "3e031eb84a4bef270915be27655d332439663ed7272580b32bc6a153072622d8": {
     "title": "Trump’s planned DC arch faces new lawsuit",
     "ts": 1791562071.700972
+  },
+  "3f3439350bd2b7b40f237e2daf0c84180e7addf4b77028df38f6574e7920c884": {
+    "title": "From a record high to a 10% drop in just two months: Why small-cap stocks have unraveled so fast",
+    "ts": 1792016098.2468
   },
   "40282fcd37b011c2002945ffda10a238712481f1cd7ce3b26e1c1ae30335cf0b": {
     "title": "Consumer prices rose at 3.7% annual rate in September as gas costs skyrocket",
@@ -250,10 +266,6 @@
   "4b6023b6364d5ec2a2de1264f7a4897717b5b98067dbcdceb37645870498cf4a": {
     "title": "Steve Smith breaks Test fielding record as Australia dominate South Africa",
     "ts": 1791795906.586555
-  },
-  "4cb0cbdf0e4c634e4c9008567452d7eebe648c3297a38c79a305cc4526e122aa": {
-    "title": "Democratic FCC member warns of AI robocall misinformation risks in US",
-    "ts": 1791407667.996198
   },
   "4cf28dd1501b5a750d68a407258676b583837d8d683fc54a19e3cfd10741872f": {
     "title": "Abbas postpones Palestinian legislative elections to September 2027",
@@ -327,10 +339,6 @@
     "title": "China Buys Record Amount Of Gold As India Panics, Scraps Key Tax Relief On Precious Imports",
     "ts": 1791596547.675883
   },
-  "5fadc5618cef82a069016039123dc3add137f3a60a9c35fab63d41b0e85647bd": {
-    "title": "Pentagon Prepares 'Options' For Trump To Strike Iran Before Midterms",
-    "ts": 1791407667.996198
-  },
   "600414ddef45dce4473004b12cce5abb5e79758d26e399957ba6f5add599037f": {
     "title": "Japan’s Okinawa calls for review of US forces pact after killing",
     "ts": 1791536215.646093
@@ -395,6 +403,10 @@
     "title": "EU Caps Chinese Hybrids At 350,000 As Deutsche Maps Every Trade Weapon Left In Europe's Arsenal",
     "ts": 1791795906.586555
   },
+  "69befc961100bf343c898c8648821f7725a0274385ea962ab9c78a0eaf84b72d": {
+    "title": "CoreWeave’s AI bonds tumble, raising red flags for the wider market",
+    "ts": 1792016098.2468
+  },
   "6d4c14bd444edfb53eac5e73849ece8d2ca7cffcdecf0e43f5fa734cd4991aa0": {
     "title": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma",
     "ts": 1792002715.117799
@@ -427,10 +439,6 @@
     "title": "Sweet protein brazzein shows promise in reducing blood sugar spikes: Study",
     "ts": 1791722434.50677
   },
-  "7871d9d2fe6208c52ba340ca5a39a2f435806770ff1dfdcaba5d965066742ea5": {
-    "title": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
-    "ts": 1791407667.996198
-  },
   "7a69d62df05cf5074c2e9afa226d30c58f2efc540bb245f7cff04474614770eb": {
     "title": "Who Is Hitting Syria's Gas Lines As The Energy Corridors Take Shape?",
     "ts": 1791722434.50677
@@ -438,10 +446,6 @@
   "7ab6eff9dc48ea07d1a39f8c1517d514ea72ee63bf87ca0fe3ae02d7c4d9af98": {
     "title": "Liverpool vs Man City: the top five clashes between Premier League giants",
     "ts": 1791674929.462902
-  },
-  "7b50e45ca8133ddde988c2b7abf25a0396ab0218c8a98004068ad885d680d4a9": {
-    "title": "NY Times Suggests Babies Are Not Conscious",
-    "ts": 1791407667.996198
   },
   "7cc87019592dc835bd56f4b53f26bd4c674b5d7c27ef702921f7c85c3e6d2eaf": {
     "title": "‘Superintelligence’ may never arrive, Deutsche Bank says. What that could mean for the U.S. economy.",
@@ -487,6 +491,10 @@
     "title": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
     "ts": 1791767672.150478
   },
+  "853ac80089b219338aa2b8ad38d04ac7a0a97c46d3c69e6d320c81e92e2dac4c": {
+    "title": "Trump Announces $80 Billion Taiwan LNG Deal",
+    "ts": 1792016098.2468
+  },
   "868208e25b5eb8d32cfd60986273f8214733e9130d1793c7132b7b6c6052f55d": {
     "title": "Trump's Russia-Ukraine Energy Ceasefire May Only Cover Oil Refineries",
     "ts": 1791767672.150478
@@ -498,10 +506,6 @@
   "8a074351a070cd9ab05f26da64470589c7a0bf9f5db593596de1cc92bec9ba9f": {
     "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
     "ts": 1791985109.840697
-  },
-  "8a9f089ecdbce606c16404ab15c7c4cfd2b4d8579fc70945978f443f81d892bb": {
-    "title": "Iran War Pushes 25 Countries Into New Electrification Policies",
-    "ts": 1791407667.996198
   },
   "8ac86ff008d8e70f4564920651fd45c57f43a94b1ce52fdff9daca6671e12f7e": {
     "title": "How to read your body’s warning signs years before you get sick",
@@ -547,10 +551,6 @@
     "title": "Microsoft is nearing a big milestone that solidifies its revival",
     "ts": 1791581833.331886
   },
-  "995438df78e7d800d7407bc1fad228c0ab626ef17db52d1556df2cb8ed2c32d4": {
-    "title": "More Ukrainian-Style One-Way Attack Drones Seized In Mexico",
-    "ts": 1791407667.996198
-  },
   "9a4911a5304a0041021b0a593799497fa3321fe9077dea7a60a50f045ef60e9f": {
     "title": "Newlywed Jim Carrey lists $35 million Maui waterfront mansion",
     "ts": 1791883171.39415
@@ -587,6 +587,10 @@
     "title": "Putin Fights to Preserve Russia’s Fading Influence in Central Asia",
     "ts": 1792002715.117799
   },
+  "a0f0e3df31ed1bf16a1773cf63937d841b0192d7a2ca690330e7ff35a96dfa74": {
+    "title": "PSG beat Man City 4-2 in Champions League thriller",
+    "ts": 1792016098.2468
+  },
   "a1d0c6f9c72457e6b250ddbd2967703d3ce3b593fd00697c627079f58f78fa57": {
     "title": "Protests, debate follow death of Maricarmen, 87, Spain protest symbol",
     "ts": 1791511396.649233
@@ -618,10 +622,6 @@
   "aa3e9d28d8cca6ba189472cafc630bf3b9d98b8795493e41d443bae890f03c0b": {
     "title": "Manchester United vs Tottenham: Premier League – teams, prediction, lineups",
     "ts": 1791581833.331886
-  },
-  "aa5316f3f2ca61171d831cab3714c62044932e121f81da879293fec73614229d": {
-    "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
-    "ts": 1791407667.996198
   },
   "ab82c4360505f83a4ec14c3191c1b45f37abcdca90af314e4d0a2947ec53f9b6": {
     "title": "Photos: Gaza mothers endure endless lines as famine fears persist",
@@ -655,13 +655,13 @@
     "title": "Southampton manager Eckert can stay on despite role in ‘spygate’ scandal",
     "ts": 1791449462.237112
   },
-  "b29aab8839899c49d42a6d11ded956ecad5e62b1075a5edeecb49da8e7a7ff28": {
-    "title": "Options traders are betting on a dramatic drop in interest rates",
-    "ts": 1791407667.996198
-  },
   "b4bd9218c7d49a9ac7bd5bf590546f2d591644673e8dd6e20669a40ded16f298": {
     "title": "What we know about OpenAI engineer arrested over office spying",
     "ts": 1791985109.840697
+  },
+  "b917bce0d5f4dcc38b7b722ff83390a8f9b7ba1bd9a20ef63f680cd3bfd4cd63": {
+    "title": "Not 'The Onion': Harper's Magazine To Honor NPR CEO Katherine Maher With First Amendment Award",
+    "ts": 1792016098.2468
   },
   "bb413157c1af2e915d9e6767a19893f5789baa782b9ef64e12f152a1ef28d07e": {
     "title": "WHO says no plague case registered after Russian lab worker’s death",
@@ -678,10 +678,6 @@
   "be238f1825406af432a41cc1ba9d9e5c3d654539312a7814c330eedf9890d68e": {
     "title": "Can Lasers Beat Drone Swarms? The Pentagon Is About to Find Out",
     "ts": 1791562071.700972
-  },
-  "be417c4d7ee331f62305416f954f16b59029fdac3b47364f15ec044f851becb9": {
-    "title": "Global Diesel Crunch Fuels New Wave of Energy Nationalism",
-    "ts": 1791407667.996198
   },
   "c0858cacbc9dcce49a4b47dff1a36b04932696d24723b3c48ca96d60fc54d340": {
     "title": "At least 109 dead, over 100 missing as migrant boat capsizes off Djibouti",
@@ -790,6 +786,10 @@
   "d940d7afd557d601c2f520475c9dd9f21cee78b1a1e865a31a377f19a743d13a": {
     "title": "Rising Gasoline Prices Fuel Fresh Inflation Fears in the U.S.",
     "ts": 1791963024.15078
+  },
+  "d95e129ddd6664e18681013fcb897631229ad3a644420a7bdb00b93f8175f02d": {
+    "title": "White House Turns to Korean War-Era Law as Diesel Prices Stay Above $6",
+    "ts": 1792016098.2468
   },
   "d98de96c9f818906a0daf21a68c9ad208a091d729e99cd9a74596b7c65039caa": {
     "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
@@ -939,10 +939,6 @@
     "title": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis",
     "ts": 1791674929.462902
   },
-  "fc45879ec968531ef07aab15c02307b1deb5d36e407d2cf62d78780d9935a0b7": {
-    "title": "Israel’s deadline to close UK consulate in East Jerusalem nears",
-    "ts": 1791407667.996198
-  },
   "fd0a204db5f6e30a436b26e6fd4ac6ed60e2bc4746b78d4ffd811af17017b3b2": {
     "title": "Russian Strikes Cut Power to 600,000 Ukrainians Days After U.S. Diesel Deal",
     "ts": 1791985109.840697
@@ -954,13 +950,5 @@
   "fe28d6108b71d801c4c8070d5163d28ba15d206c52c032f43365a0c02fb83280": {
     "title": "UK PM says RAF base incidents ‘likely coordinated’ by Iran",
     "ts": 1791831541.912644
-  },
-  "fe715824762ecea834c09314ea033f068ca2fa4516a90e6c19500ce6344eaed3": {
-    "title": "Trump’s diesel order exposes White House limits to counter surging fuel prices",
-    "ts": 1791407667.996198
-  },
-  "fff12b7cc25ffae64c0cc05c32082609c63a36071045eb3185df84f534bba752": {
-    "title": "US Republicans, independents express low trust in election integrity: Poll",
-    "ts": 1791407667.996198
   }
 }
