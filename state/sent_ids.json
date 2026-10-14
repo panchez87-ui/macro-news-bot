@@ -131,6 +131,10 @@
     "title": "The Treasury market is facing a crucial vote of investor confidence",
     "ts": 1791476680.500654
   },
+  "2f3938563ea2aae174b586da3b72d4b47190c24788b9af4d0ad5fa7f68375cb4": {
+    "title": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
+    "ts": 1791942574.749823
+  },
   "2f4e20f5473448c9b3a5ea2f1a801225a78ac0461ec64bf029ef45db2fb0c348": {
     "title": "Trump's diesel deal with Russia equals less than two weeks of U.S. demand",
     "ts": 1791912805.217645
@@ -359,10 +363,6 @@
     "title": "Stolen Renoir paintings found behind wall in France following arrests",
     "ts": 1791831541.912644
   },
-  "73a38368906625b81492e222276810aba96949756ad8aedf97c7e3fb6d832869": {
-    "title": "Why $100 Oil Is Hard to Kill",
-    "ts": 1791333439.843716
-  },
   "76811d132dd69df2b3d73dffa5717f8eb73baba8421dd23fb89f43469bb681fe": {
     "title": "U.S. Crude Stocks Dip But Distillates Hold Steady",
     "ts": 1791387027.372659
@@ -386,10 +386,6 @@
   "7b50e45ca8133ddde988c2b7abf25a0396ab0218c8a98004068ad885d680d4a9": {
     "title": "NY Times Suggests Babies Are Not Conscious",
     "ts": 1791407667.996198
-  },
-  "7bb44c62e93247b88d6a3d99cf47d5c04d7d5d612ae53907ecb1f2a821afde9a": {
-    "title": "Iran war live: Yemen forces claim control over strategic Taiz mountain peak",
-    "ts": 1791333439.843716
   },
   "7cc87019592dc835bd56f4b53f26bd4c674b5d7c27ef702921f7c85c3e6d2eaf": {
     "title": "‘Superintelligence’ may never arrive, Deutsche Bank says. What that could mean for the U.S. economy.",
@@ -446,10 +442,6 @@
   "87faea60022d3f47645411c1a033e38d5ef5391285427f059cb9c6ee58f76162": {
     "title": "Bitcoin struggles near $83,000 a year after $19 billion crypto crash",
     "ts": 1791697046.104863
-  },
-  "8914fee492551343d369a991d3b94f70898302089f8b71ae3b4629c34e39dade": {
-    "title": "Electric car bursts into flames at charging station in Turkiye",
-    "ts": 1791333439.843716
   },
   "8a9f089ecdbce606c16404ab15c7c4cfd2b4d8579fc70945978f443f81d892bb": {
     "title": "Iran War Pushes 25 Countries Into New Electrification Policies",
@@ -631,6 +623,10 @@
     "title": "Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize",
     "ts": 1791581833.331886
   },
+  "c1a7d2170e25ca620bfcda45bf43f98b7491d09c91be4348f7e17cfcb4c5b3ef": {
+    "title": "Namibia battles cattle disease outbreak as EU suspends several meat imports",
+    "ts": 1791942574.749823
+  },
   "c3ad58474a1d40c1e22156b9a18d05e3b13ec7a9c566c9829c77fec396fbbb53": {
     "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. What could we have done to prevent it?",
     "ts": 1791387027.372659
@@ -751,6 +747,10 @@
     "title": "Police detain leaders of India’s ‘cockroach’ movement at New Delhi protest",
     "ts": 1791883171.39415
   },
+  "dde29f09b7185f2912ce6c649b100bcb2983dca9a92a25954c5a83e5b35c9d15": {
+    "title": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
+    "ts": 1791942574.749823
+  },
   "dfcc004ddbb15e9d567bd6a58d50412457183cf825d7f19b42c73c7d3b0455a6": {
     "title": "Waves crash into homes as excavators try to protect California properties",
     "ts": 1791755456.509625
@@ -822,10 +822,6 @@
   "ef64251f6f9eaf6e1b0bd426bbd8f51aa4737a13ef8c52b3c8148b51e686d196": {
     "title": "Jerusalem Daily: Israeli forces raid NGOs in Ramallah",
     "ts": 1791912805.217645
-  },
-  "efb9488036bf6fd8fb76b92358554aa8327432c6912738fb083e94b25d7104d5": {
-    "title": "Anthropic President Daniela Amodei Created A Stuffed-Animal Advisory Council While At OpenAI",
-    "ts": 1791333439.843716
   },
   "f00f82d5a9da2327d58a1f1aabedd3f842a0eb44ab79751b1af322d2607cf225": {
     "title": "Trump’s brash remarks entertain crowd at election rally in Tennessee",
